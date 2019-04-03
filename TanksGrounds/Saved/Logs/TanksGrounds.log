@@ -828,3 +828,375 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.03-21.14.00:175][256]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds76E2C54844D2BA28D2D9079E5675475B.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
 [2019.04.03-21.14.00:227][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
 [2019.04.03-21.14.02:179][256]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltDataD1B8623D4C89108BB90AFE93C872F948.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
+[2019.04.03-21.15.39:858][774]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.04.03-21.15.39:918][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-21.15.39:926][774]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.04.03-21.15.39:953][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-21.15.59:171][729]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.03-21.15.59:230][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-21.16.12:791][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.16.45:488][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.16.51:301][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.17.02:504][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-21.17.11:599][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.17.49:647][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-21.18.05:648][328]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.03-21.18.05:699][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-21.18.06:398][380]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.03-21.18.06:424][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-21.18.17:548][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.18.17:711][273]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-21.18.17:736][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.18.17:736][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-21.18.17:736][273]PIE: New page: PIE session: TanksGrounds (3/04/2019 11:18:17 a. m.)
+[2019.04.03-21.18.17:736][273]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.03-21.18.17:856][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119563s)
+[2019.04.03-21.18.17:857][273]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.03-21.18.17:857][273]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2019.04.03-21.18.17:857][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.121020s)
+[2019.04.03-21.18.17:886][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.04.03-21.18.17:903][273]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-21.18.17:941][273]LogInit: FAudioDevice initialized.
+[2019.04.03-21.18.17:969][273]LogLoad: Game class is 'GameModeBase'
+[2019.04.03-21.18.17:972][273]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.03-16.18.17
+[2019.04.03-21.18.17:972][273]LogWorld: Bringing up level for play took: 0.002457
+[2019.04.03-21.18.17:986][273]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 1,102
+[2019.04.03-21.18.17:986][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.18.22:568][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.18.22:568][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-21.18.22:607][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-21.18.22:608][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.18.22:641][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-21.18.22:644][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.04.03-21.18.22:674][763]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.04.03-21.18.25:318][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.18.25:450][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-21.18.25:482][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.04.03-21.18.25:640][995]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.04.03-21.18.25:643][995]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-21.18.25:648][995]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2019.04.03-21.18.25:652][995]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2019.04.03-21.18.25:663][995]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2019.04.03-21.18.25:665][995]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.04.03-21.18.25:667][995]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2019.04.03-21.18.25:671][995]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2019.04.03-21.18.25:674][995]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2019.04.03-21.18.25:677][995]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2019.04.03-21.18.25:682][995]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2019.04.03-21.18.25:683][995]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2019.04.03-21.18.25:685][995]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2019.04.03-21.18.25:687][995]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2019.04.03-21.18.25:694][995]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.04.03-21.18.25:696][995]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2019.04.03-21.18.25:697][995]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2019.04.03-21.18.25:699][995]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2019.04.03-21.18.25:704][995]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2019.04.03-21.18.25:707][995]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2019.04.03-21.18.25:710][995]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2019.04.03-21.18.25:712][995]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2019.04.03-21.18.25:714][995]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2019.04.03-21.18.25:719][995]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2019.04.03-21.18.25:725][995]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.04.03-21.18.25:728][995]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2019.04.03-21.18.25:734][995]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2019.04.03-21.18.25:736][995]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2019.04.03-21.18.25:743][995]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 256X256)
+[2019.04.03-21.18.25:746][995]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2019.04.03-21.18.25:748][995]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2019.04.03-21.18.25:749][995]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2019.04.03-21.18.25:751][995]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2019.04.03-21.18.25:752][995]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2019.04.03-21.18.25:759][995]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2019.04.03-21.18.25:763][995]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2019.04.03-21.18.25:765][995]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2019.04.03-21.18.25:772][995]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2019.04.03-21.18.25:775][995]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2019.04.03-21.18.25:780][995]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2019.04.03-21.18.25:781][995]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2019.04.03-21.18.25:783][995]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2019.04.03-21.18.27:033][995]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds4B8AC2DF4490C11CB270F2BF7804E06B.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
+[2019.04.03-21.18.27:096][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
+[2019.04.03-21.18.29:451][995]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltDataAB250D0E4DB4A7F81623CD9D18A3C063.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
+[2019.04.03-21.18.53:510][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.18.53:617][993]MapCheck: New page: Map Check
+[2019.04.03-21.18.53:637][993]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.03-21.18.53:637][993]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.03-21.18.53:853][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.04.03-21.18.53:866][993]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.03-21.18.53:894][993]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.03-21.18.57:110][993]TextureStreamingBuild: Display: Compiling optional shaders took 3.248 seconds.
+[2019.04.03-21.18.57:114][993]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2019.04.03-21.18.57:125][993]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2019.04.03-21.18.57:152][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.04.03-21.18.57:152][993]LightingResults: New page: Lighting Build - 3/04/2019 11:18:57 a. m.
+[2019.04.03-21.18.57:253][993]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.03-21.18.57:655][993]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.03-21.18.57:670][993]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.03-21.18.58:182][993]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.03-21.18.58:183][993]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2284
+[2019.04.03-21.19.03:041][993]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.04.03-21.19.03:042][993]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.03-21.19.03:042][993]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.03-21.19.03:042][993]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.03-21.19.03:042][993]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.03-21.19.03:042][993]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.03-21.19.03:934][993]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.03-21.19.03:934][993]MapCheck: New page: TanksGrounds - 3/04/2019 11:19:03 a. m.
+[2019.04.03-21.19.03:940][993]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.04.03-21.19.03:940][993]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 5,812ms to complete.
+[2019.04.03-21.19.03:963][993]LogEditorBuildUtils: Build time 0:10
+[2019.04.03-21.19.04:025][994]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_298, compiling. 
+[2019.04.03-21.19.04:071][994]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_298, compiling. 
+[2019.04.03-21.19.04:478][  7]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_217, compiling. 
+[2019.04.03-21.19.04:488][  7]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_217, compiling. 
+[2019.04.03-21.19.12:565][ 69]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-21.19.12:570][ 69]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-21.19.18:640][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.04.03-21.25.41:698][908]Job is a success!
+[2019.04.03-21.25.42:561][909]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.231s
+[2019.04.03-21.25.42:561][909]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.04.03-21.25.42:561][909]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb
+[2019.04.03-21.25.42:561][909]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.03-21.25.42:561][909]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.04.03-21.25.42:561][909]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2019.04.03-21.25.42:561][909]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2019.04.03-21.25.57:640][909]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:640][909]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.04.03-21.25.57:640][909]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:640][909]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.04.03-21.25.57:640][909]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:640][909]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2019.04.03-21.25.57:640][909]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 512X512)
+[2019.04.03-21.25.57:641][909]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 512X512)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 64X64)
+[2019.04.03-21.25.57:642][909]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 64X64)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X256)
+[2019.04.03-21.25.58:284][909]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 32X32)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X256)
+[2019.04.03-21.25.58:285][909]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 256X256)
+[2019.04.03-21.25.58:813][909]Lightmass on DESKTOP-CD54N45: 6:38 min total, 4.77 sec importing, 12.5 sec setup, 2:34 min photons, 3:45 min processing, 0 ms extra exporting [65/65 mappings]. Threads: 15:01 min total, 7:07 min processing.
+[2019.04.03-21.25.58:842][909]LogStaticLightingSystem: TanksGrounds_BuiltData storing lightmap data for 65 meshes in 65 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.04.03-21.25.58:948][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.04.03-21.25.58:953][909]LogStaticLightingSystem: Illumination: 7:01 min (14.3 sec encoding lightmaps, 644 ms encoding shadowmaps)
+[2019.04.03-21.25.58:953][909]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2019.04.03-21.25.58:953][909]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2019.04.03-21.25.59:540][909]DumpUnbuiltLightIteractions
+[2019.04.03-21.25.59:540][909]Lights with unbuilt interactions: 0
+[2019.04.03-21.25.59:540][909]
+[2019.04.03-21.25.59:540][909]Primitives with unbuilt interactions: 0
+[2019.04.03-21.25.59:813][910]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.03-21.25.59:813][910]MapCheck: New page: TanksGrounds - 3/04/2019 11:25:59 a. m.
+[2019.04.03-21.25.59:814][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,594ms to complete.
+[2019.04.03-21.26.07:290][938]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-21.26.07:296][938]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-21.26.09:382][146]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-21.26.09:394][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.26.09:394][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-21.26.09:394][146]PIE: New page: PIE session: TanksGrounds (3/04/2019 11:26:09 a. m.)
+[2019.04.03-21.26.09:394][146]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.03-21.26.09:520][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125603s)
+[2019.04.03-21.26.09:521][146]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.03-21.26.09:522][146]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2019.04.03-21.26.09:522][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.127573s)
+[2019.04.03-21.26.09:552][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.04.03-21.26.09:571][146]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-21.26.09:602][146]LogInit: FAudioDevice initialized.
+[2019.04.03-21.26.09:632][146]LogLoad: Game class is 'GameModeBase'
+[2019.04.03-21.26.09:636][146]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.03-16.26.09
+[2019.04.03-21.26.09:637][146]LogWorld: Bringing up level for play took: 0.003679
+[2019.04.03-21.26.09:652][146]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,768
+[2019.04.03-21.26.09:652][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.26.29:003][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.26.29:003][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-21.26.29:035][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-21.26.29:036][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-21.26.29:068][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-21.26.29:071][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.04.03-21.26.29:107][328]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.03-21.26.48:130][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-21.26.48:232][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-21.26.48:271][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.04.03-21.26.49:301][401]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds0F2A7D85432CA8293A7B51A202BC39F7.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
+[2019.04.03-21.26.49:340][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
+[2019.04.03-21.26.51:543][401]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltData9281F88945CA64C5D276F5A988E02286.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
