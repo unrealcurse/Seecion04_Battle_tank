@@ -1,0 +1,9 @@
+E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\Definitions.TanksGrounds.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds/TanksGroundsGameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+e:\unreal proyects\curso\seecion04_battle_tank\tanksgrounds\intermediate\build\win64\ue4editor\inc\tanksgrounds\TanksGroundsGameModeBase.generated.h

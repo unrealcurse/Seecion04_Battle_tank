@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TanksGrounds.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2B8A60FD-1427-4A07-B7D4-6235981E06BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TanksGrounds.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TanksGroundsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{09A29889-F060-4CA0-BFBC-F80F22AEC40D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TanksGrounds">
+      <UniqueIdentifier>{7E55C963-E67B-4F61-AEC6-AF1DF3367414}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TanksGrounds\TanksGrounds.Build.cs">
+      <Filter>Source\TanksGrounds</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TanksGrounds\TanksGrounds.cpp">
+      <Filter>Source\TanksGrounds</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TanksGrounds\TanksGrounds.h">
+      <Filter>Source\TanksGrounds</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TanksGrounds\TanksGroundsGameModeBase.cpp">
+      <Filter>Source\TanksGrounds</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TanksGrounds\TanksGroundsGameModeBase.h">
+      <Filter>Source\TanksGrounds</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

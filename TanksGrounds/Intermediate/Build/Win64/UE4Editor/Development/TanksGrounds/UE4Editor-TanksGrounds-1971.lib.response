@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TanksGrounds-1971.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\TanksGrounds.cpp.obj"
+"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\TanksGroundsGameModeBase.cpp.obj"
+"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\TanksGrounds.init.gen.cpp.obj"
+"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\TanksGroundsGameModeBase.gen.cpp.obj"
+"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\Default.rc2.res"
+/OUT:"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-1971.lib"
+/INCLUDE:IMPLEMENT_MODULE_TanksGrounds

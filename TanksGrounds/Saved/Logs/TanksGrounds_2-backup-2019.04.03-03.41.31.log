@@ -1,0 +1,857 @@
+﻿Log file open, 04/02/19 22:40:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TanksGrounds
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.224136
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.40.46:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.03-03.40.46:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.40.46:590][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.40.46:596][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-03.40.46:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-03.40.46:597][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-03.40.46:597][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-03.40.46:597][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.03-03.40.46:609][  0]LogHAL: Display: Platform has ~ 12 GB [12764684288 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.03-03.40.46:609][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.04.03-03.40.46:609][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.03-03.40.46:609][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:609][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-03.40.46:609][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-03.40.46:609][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:609][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-03.40.46:609][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:609][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-03.40.46:610][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.03-03.40.46:611][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.03-03.40.46:611][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.04.03-03.40.46:611][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.40.46:611][  0]LogInit: Computer: DESKTOP-CD54N45
+[2019.04.03-03.40.46:611][  0]LogInit: User: ELGRA
+[2019.04.03-03.40.46:611][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.03-03.40.46:611][  0]LogInit: High frequency timer resolution =3.124997 MHz
+[2019.04.03-03.40.46:611][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.04.03-03.40.46:611][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.03-03.40.46:611][  0]LogMemory: Process Physical Memory: 95.98 MB used, 95.98 MB peak
+[2019.04.03-03.40.46:611][  0]LogMemory: Process Virtual Memory: 83.90 MB used, 83.90 MB peak
+[2019.04.03-03.40.46:611][  0]LogMemory: Physical Memory: 5043.06 MB used,  7130.29 MB free, 12173.35 MB total
+[2019.04.03-03.40.46:611][  0]LogMemory: Virtual Memory: 4640.32 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.04.03-03.40.46:644][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.04.03-03.40.46:644][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.04.03-03.40.46:644][  0]LogInit: Using OS detected locale (es-CO).
+[2019.04.03-03.40.46:852][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.03-03.40.46:886][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.03-03.40.46:886][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.03-03.40.47:088][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-03.40.47:088][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.03-03.40.47:189][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.04.03-03.40.47:189][  0]LogD3D11RHI:       6052/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.03-03.40.47:197][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.03-03.40.47:197][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.04.03-03.40.47:270][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 950' (Feature Level 11_0)
+[2019.04.03-03.40.47:270][  0]LogD3D11RHI:       2007/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.04.03-03.40.47:273][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.03-03.40.47:273][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.03-03.40.47:273][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.03-03.40.47:282][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.03-03.40.47:282][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.03-03.40.47:282][  0]LogWindows: EnumDisplayDevices:
+[2019.04.03-03.40.47:282][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.04.03-03.40.47:283][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.04.03-03.40.47:283][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.04.03-03.40.47:283][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.04.03-03.40.47:284][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2019.04.03-03.40.47:284][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.03-03.40.47:285][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.03-03.40.47:285][  0]LogWindows:    7. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.03-03.40.47:285][  0]LogWindows:    8. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.03-03.40.47:286][  0]LogWindows:    9. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.03-03.40.47:286][  0]LogWindows:    10. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.03-03.40.47:286][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.03-03.40.47:286][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.04.03-03.40.47:286][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.03-03.40.47:286][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.03-03.40.47:286][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.04.03-03.40.47:340][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.03-03.40.47:346][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.03-03.40.47:346][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.03-03.40.47:346][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.03-03.40.47:355][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.03-03.40.47:810][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.04.03-03.40.47:828][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.04.03-03.40.47:846][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.04.03-03.40.47:864][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.04.03-03.40.47:882][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.04.03-03.40.47:900][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.04.03-03.40.47:918][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.04.03-03.40.47:936][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.04.03-03.40.47:946][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.04.03-03.40.48:037][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.04.03-03.40.48:039][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.04.03-03.40.48:093][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.04.03-03.40.48:093][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.04.03-03.40.48:120][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.04.03-03.40.48:120][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.04.03-03.40.48:134][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.04.03-03.40.48:148][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.04.03-03.40.48:161][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.04.03-03.40.48:175][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.04.03-03.40.48:223][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.04.03-03.40.48:223][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.04.03-03.40.48:223][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.03-03.40.48:239][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.04.03-03.40.48:332][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Intermediate/Shaders/WorkingDirectory/41024/).
+[2019.04.03-03.40.48:332][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ELGRA/AppData/Local/Temp/UnrealShaderWorkingDir/57B0476D41B3FCF91EF7A78772595FF3/'.
+[2019.04.03-03.40.48:349][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.04.03-03.40.48:965][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.03-03.40.49:050][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.03-03.40.49:050][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.04.03-03.40.49:050][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-03.40.49:050][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.03-03.40.49:050][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-03.40.49:050][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.03-03.40.49:064][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.03-03.40.49:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-03.40.49:064][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.03-03.40.49:076][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ELGRA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.03-03.40.49:076][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.03-03.40.49:076][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.03-03.40.49:101][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.03-03.40.49:102][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.03-03.40.49:103][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-03.40.49:206][  0]LogAssetRegistry: FAssetRegistry took 0.0342 seconds to start up
+[2019.04.03-03.40.49:563][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-03.40.49:729][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.03-03.40.49:729][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.04.03-03.40.49:729][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.03-03.40.49:729][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.04.03-03.40.49:730][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.04.03-03.40.49:742][  0]LogNetVersion: TanksGrounds 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 220100468)
+[2019.04.03-03.40.50:200][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038232 seconds
+[2019.04.03-03.40.50:207][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.04.03-03.40.50:207][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.04.03-03.40.50:208][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.03-03.40.51:254][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.03-03.40.51:267][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.03-03.40.51:386][  0]SourceControl: Source control is disabled
+[2019.04.03-03.40.51:386][  0]SourceControl: Source control is disabled
+[2019.04.03-03.40.51:388][  0]SourceControl: Source control is disabled
+[2019.04.03-03.40.51:389][  0]SourceControl: Source control is disabled
+[2019.04.03-03.40.51:481][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.03-03.40.51:725][  0]LogOcInput: OculusInput pre-init called
+[2019.04.03-03.40.52:499][  0]LogEngine: Initializing Engine...
+[2019.04.03-03.40.52:500][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-03.40.52:501][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.04.03-03.40.52:743][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.03-03.40.52:769][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-03.40.52:904][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-03.40.52:932][  0]LogInit: FAudioDevice initialized.
+[2019.04.03-03.40.52:932][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.03-03.40.53:238][  0]LogDerivedDataCache: Saved boot cache 0.31s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.03-03.40.53:254][  0]LogInit: Texture streaming: Enabled
+[2019.04.03-03.40.53:289][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.03-03.40.53:289][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={47DE2C05-407E-7D52-3C0D-ABA5D3C6E76C}
+[2019.04.03-03.40.53:289][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={91D4E619-44DE-5B43-97F7-DD8D4A584314}
+[2019.04.03-03.40.53:325][  0]LogInit: Transaction tracking system initialized
+[2019.04.03-03.40.53:380][  0]BlueprintLog: New page: Editor Load
+[2019.04.03-03.40.53:539][  0]LocalizationService: Localization service is disabled
+[2019.04.03-03.40.53:941][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/' took 0.01s
+[2019.04.03-03.40.53:941][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.03-03.40.53:941][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.03-03.40.54:181][  0]SourceControl: Source control is disabled
+[2019.04.03-03.40.54:181][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-03.40.54:182][  0]LightingResults: New page: Lighting Build
+[2019.04.03-03.40.54:187][  0]MapCheck: New page: Map Check
+[2019.04.03-03.40.54:187][  0]LightingResults: New page: Lighting Build
+[2019.04.03-03.40.54:214][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.04.03-03.40.54:289][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.03-03.40.54:294][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-03.40.54:321][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.04.03-03.40.54:321][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-03.40.54:322][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,137ms to complete.
+[2019.04.03-03.40.54:322][  0]LogFileHelpers: Loading map 'Template_Default' took 0.140
+[2019.04.03-03.40.54:414][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.40.54:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.40.54:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.40.54:437][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.40.54:449][  0]LogCollectionManager: Loaded 0 collections in 0.004415 seconds
+[2019.04.03-03.40.54:468][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Collections/' took 0.01s
+[2019.04.03-03.40.54:468][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Developers/ELGRA/Collections/' took 0.00s
+[2019.04.03-03.40.54:468][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Collections/' took 0.00s
+[2019.04.03-03.40.54:468][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.03-03.40.54:478][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2733 classes and 661 folders.
+[2019.04.03-03.40.54:490][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.03-03.40.54:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:501][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:501][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.40.54:572][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.03-03.40.54:581][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.03-03.40.54:598][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.03-03.40.54:601][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.03-03.40.54:604][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.03-03.40.54:661][  0]LogRenderer: Reallocating scene render targets to support 1532x688 Format 10 NumSamples 1 (Frame:1).
+[2019.04.03-03.40.54:929][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.03-03.40.54:929][  0]LogLoad: (Engine Initialization) Total time: 11.31 seconds
+[2019.04.03-03.40.54:929][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.03-03.40.54:939][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-03.40.54:962][  0]LogAssetRegistry: Asset discovery search completed in 5.7795 seconds
+[2019.04.03-03.40.54:965][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.03-03.40.54:965][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.04.03-03.40.54:966][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.03-03.40.54:982][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-03.40.57:829][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-03.40.58:631][415]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.04.03-03.40.58:658][415]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.04.03-03.40.58:686][415]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.04.03-03.40.58:715][415]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.04.03-03.40.58:751][415]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.04.03-03.40.58:795][415]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.04.03-03.40.58:811][415]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.04.03-03.40.58:831][415]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.04.03-03.40.58:851][415]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.04.03-03.40.58:874][415]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.04.03-03.40.58:895][415]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.04.03-03.40.58:918][415]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.04.03-03.40.58:933][415]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.04.03-03.41.01:313][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.04.03-03.41.05:021][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-03.41.05:231][ 34]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.04.03-03.41.17:128][431]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 512X512)
+[2019.04.03-03.41.28:705][431]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 512X512)
+[2019.04.03-03.41.28:711][431]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 512X512)
+[2019.04.03-03.41.28:717][431]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 512X512)
+[2019.04.03-03.41.28:723][431]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2019.04.03-03.41.28:725][431]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.04.03-03.41.28:731][431]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 512X512)
+[2019.04.03-03.41.28:733][431]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 512X512)
+[2019.04.03-03.41.28:739][431]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 512X512)
+[2019.04.03-03.41.28:741][431]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 512X512)
+[2019.04.03-03.41.28:783][431]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 512X512)
+[2019.04.03-03.41.28:789][431]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 512X512)
+[2019.04.03-03.41.28:796][431]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 512X512)
+[2019.04.03-03.41.28:797][431]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 512X512)
+[2019.04.03-03.41.28:803][431]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 512X512)
+[2019.04.03-03.41.28:820][431]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 512X512)
+[2019.04.03-03.41.28:827][431]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 512X512)
+[2019.04.03-03.41.28:832][431]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 512X512)
+[2019.04.03-03.41.28:838][431]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 512X512)
+[2019.04.03-03.41.28:847][431]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 512X512)
+[2019.04.03-03.41.28:851][431]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 512X512)
+[2019.04.03-03.41.28:854][431]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 512X512)
+[2019.04.03-03.41.28:861][431]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 512X512)
+[2019.04.03-03.41.28:867][431]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 512X512)
+[2019.04.03-03.41.28:873][431]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 512X512)
+[2019.04.03-03.41.28:878][431]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 512X512)
+[2019.04.03-03.41.28:883][431]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 512X512)
+[2019.04.03-03.41.28:888][431]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 512X512)
+[2019.04.03-03.41.28:905][431]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 512X512)
+[2019.04.03-03.41.28:905][431]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 512X512)
+[2019.04.03-03.41.28:905][431]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 512X512)
+[2019.04.03-03.41.28:905][431]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 512X512)
+[2019.04.03-03.41.28:911][431]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 512X512)
+[2019.04.03-03.41.28:916][431]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 512X512)
+[2019.04.03-03.41.28:922][431]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 512X512)
+[2019.04.03-03.41.28:923][431]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 512X512)
+[2019.04.03-03.41.28:929][431]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 512X512)
+[2019.04.03-03.41.28:932][431]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 512X512)
+[2019.04.03-03.41.28:939][431]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 512X512)
+[2019.04.03-03.41.28:939][431]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 512X512)
+[2019.04.03-03.41.28:947][431]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 512X512)
+[2019.04.03-03.41.28:954][431]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 512X512)
+[2019.04.03-03.41.28:959][431]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 512X512)
+[2019.04.03-03.41.28:967][431]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 512X512)
+[2019.04.03-03.41.29:009][431]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 512X512)
+[2019.04.03-03.41.29:009][431]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 512X512)
+[2019.04.03-03.41.29:009][431]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 512X512)
+[2019.04.03-03.41.29:010][431]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 512X512)
+[2019.04.03-03.41.29:014][431]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 512X512)
+[2019.04.03-03.41.29:019][431]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 512X512)
+[2019.04.03-03.41.29:021][431]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 512X512)
+[2019.04.03-03.41.29:026][431]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 512X512)
+[2019.04.03-03.41.29:029][431]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 512X512)
+[2019.04.03-03.41.29:033][431]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 512X512)
+[2019.04.03-03.41.29:039][431]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 512X512)
+[2019.04.03-03.41.29:049][431]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 512X512)
+[2019.04.03-03.41.29:056][431]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 512X512)
+[2019.04.03-03.41.29:155][431]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 512X512)
+[2019.04.03-03.41.29:156][431]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 512X512)
+[2019.04.03-03.41.29:160][431]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 512X512)
+[2019.04.03-03.41.29:167][431]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 512X512)
+[2019.04.03-03.41.29:172][431]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 512X512)
+[2019.04.03-03.41.29:178][431]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 512X512)
+[2019.04.03-03.41.29:184][431]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 512X512)
+[2019.04.03-03.41.29:189][431]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 512X512)
+[2019.04.03-03.41.29:192][431]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 512X512)
+[2019.04.03-03.41.29:198][431]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 512X512)
+[2019.04.03-03.41.29:203][431]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 512X512)
+[2019.04.03-03.41.29:208][431]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 512X512)
+[2019.04.03-03.41.29:213][431]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 512X512)
+[2019.04.03-03.41.29:328][431]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 512X512)
+[2019.04.03-03.41.29:328][431]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 512X512)
+[2019.04.03-03.41.29:328][431]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 512X512)
+[2019.04.03-03.41.29:328][431]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 512X512)
+[2019.04.03-03.41.29:328][431]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 512X512)
+[2019.04.03-03.41.29:328][431]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 512X512)
+[2019.04.03-03.41.29:328][431]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 512X512)
+[2019.04.03-03.41.29:329][431]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 512X512)
+[2019.04.03-03.41.29:333][431]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 512X512)
+[2019.04.03-03.41.29:338][431]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 512X512)
+[2019.04.03-03.41.29:343][431]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 512X512)
+[2019.04.03-03.41.29:347][431]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 512X512)
+[2019.04.03-03.41.29:349][431]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 512X512)
+[2019.04.03-03.41.29:354][431]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 512X512)
+[2019.04.03-03.41.29:356][431]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 512X512)
+[2019.04.03-03.41.29:361][431]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 512X512)
+[2019.04.03-03.41.29:367][431]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 512X512)
+[2019.04.03-03.41.29:372][431]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 512X512)
+[2019.04.03-03.41.29:376][431]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 512X512)
+[2019.04.03-03.41.29:382][431]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 512X512)
+[2019.04.03-03.41.29:413][431]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 512X512)
+[2019.04.03-03.41.29:413][431]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 512X512)
+[2019.04.03-03.41.29:413][431]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 512X512)
+[2019.04.03-03.41.29:413][431]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 512X512)
+[2019.04.03-03.41.29:413][431]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 512X512)
+[2019.04.03-03.41.29:413][431]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 512X512)
+[2019.04.03-03.41.29:416][431]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 512X512)
+[2019.04.03-03.41.29:421][431]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 512X512)
+[2019.04.03-03.41.29:427][431]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 512X512)
+[2019.04.03-03.41.29:427][431]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 512X512)
+[2019.04.03-03.41.29:434][431]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 512X512)
+[2019.04.03-03.41.29:436][431]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 512X512)
+[2019.04.03-03.41.29:443][431]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 512X512)
+[2019.04.03-03.41.29:443][431]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 512X512)
+[2019.04.03-03.41.29:450][431]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 512X512)
+[2019.04.03-03.41.29:452][431]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 512X512)
+[2019.04.03-03.41.29:455][431]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 512X512)
+[2019.04.03-03.41.29:459][431]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 512X512)
+[2019.04.03-03.41.29:465][431]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 512X512)
+[2019.04.03-03.41.29:469][431]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 512X512)
+[2019.04.03-03.41.29:634][431]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 512X512)
+[2019.04.03-03.41.29:634][431]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 512X512)
+[2019.04.03-03.41.29:634][431]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 512X512)
+[2019.04.03-03.41.29:756][431]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 512X512)
+[2019.04.03-03.41.29:756][431]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 512X512)
+[2019.04.03-03.41.29:756][431]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 512X512)
+[2019.04.03-03.41.29:756][431]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 512X512)
+[2019.04.03-03.41.29:756][431]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 512X512)
+[2019.04.03-03.41.29:756][431]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 512X512)
+[2019.04.03-03.41.29:761][431]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 512X512)
+[2019.04.03-03.41.29:766][431]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 512X512)
+[2019.04.03-03.41.29:770][431]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 512X512)
+[2019.04.03-03.41.29:808][431]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 512X512)
+[2019.04.03-03.41.29:813][431]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 512X512)
+[2019.04.03-03.41.30:000][431]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 512X512)
+[2019.04.03-03.41.30:001][431]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 512X512)
+[2019.04.03-03.41.30:010][431]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 512X512)
+[2019.04.03-03.41.30:010][431]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 512X512)
+[2019.04.03-03.41.30:010][431]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 512X512)
+[2019.04.03-03.41.30:012][431]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 512X512)
+[2019.04.03-03.41.30:019][431]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 512X512)
+[2019.04.03-03.41.30:019][431]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 512X512)
+[2019.04.03-03.41.30:032][431]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 512X512)
+[2019.04.03-03.41.30:033][431]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 512X512)
+[2019.04.03-03.41.30:039][431]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 512X512)
+[2019.04.03-03.41.30:371][431]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 512X512)
+[2019.04.03-03.41.30:372][431]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 512X512)
+[2019.04.03-03.41.30:375][431]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 512X512)
+[2019.04.03-03.41.30:379][431]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 512X512)
+[2019.04.03-03.41.30:381][431]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 512X512)
+[2019.04.03-03.41.30:385][431]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 512X512)
+[2019.04.03-03.41.30:388][431]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 512X512)
+[2019.04.03-03.41.30:392][431]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 512X512)
+[2019.04.03-03.41.30:395][431]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 512X512)
+[2019.04.03-03.41.30:401][431]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 512X512)
+[2019.04.03-03.41.30:403][431]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 512X512)
+[2019.04.03-03.41.30:406][431]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 512X512)
+[2019.04.03-03.41.30:412][431]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 512X512)
+[2019.04.03-03.41.30:416][431]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 512X512)
+[2019.04.03-03.41.30:418][431]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 512X512)
+[2019.04.03-03.41.30:423][431]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 512X512)
+[2019.04.03-03.41.30:426][431]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 512X512)
+[2019.04.03-03.41.30:432][431]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 512X512)
+[2019.04.03-03.41.30:434][431]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 512X512)
+[2019.04.03-03.41.30:438][431]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 512X512)
+[2019.04.03-03.41.30:443][431]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 512X512)
+[2019.04.03-03.41.30:444][431]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 512X512)
+[2019.04.03-03.41.30:448][431]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 512X512)
+[2019.04.03-03.41.30:455][431]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 512X512)
+[2019.04.03-03.41.30:459][431]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 512X512)
+[2019.04.03-03.41.30:465][431]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 512X512)
+[2019.04.03-03.41.30:469][431]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 512X512)
+[2019.04.03-03.41.30:473][431]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 512X512)
+[2019.04.03-03.41.30:653][431]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 512X512)
+[2019.04.03-03.41.30:654][431]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 512X512)
+[2019.04.03-03.41.30:655][431]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 512X512)
+[2019.04.03-03.41.30:661][431]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 512X512)
+[2019.04.03-03.41.30:662][431]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 512X512)
+[2019.04.03-03.41.30:671][431]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 512X512)
+[2019.04.03-03.41.30:671][431]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 512X512)
+[2019.04.03-03.41.30:678][431]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 512X512)
+[2019.04.03-03.41.30:684][431]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 512X512)
+[2019.04.03-03.41.30:689][431]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 512X512)
+[2019.04.03-03.41.30:697][431]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 512X512)
+[2019.04.03-03.41.30:797][431]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 512X512)
+[2019.04.03-03.41.30:797][431]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 512X512)
+[2019.04.03-03.41.30:802][431]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 512X512)
+[2019.04.03-03.41.30:807][431]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 512X512)
+[2019.04.03-03.41.31:034][431]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 512X512)
+[2019.04.03-03.41.31:034][431]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 512X512)
+[2019.04.03-03.41.31:034][431]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 512X512)
+[2019.04.03-03.41.31:052][431]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
