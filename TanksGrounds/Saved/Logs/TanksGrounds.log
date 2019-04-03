@@ -1047,3 +1047,603 @@ Exception rethrown at [0]:
 [2019.04.03-19.58.24:258][839]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds085CC2274225793E608F909125619787.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
 [2019.04.03-19.58.24:290][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
 [2019.04.03-19.58.26:082][839]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltData95D9CD954476DC7C1D7F6B92444CAC6A.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
+[2019.04.03-20.04.15:080][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.04.22:968][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.04.26:936][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.06.13:248][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.06.30:278][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.06.40:507][ 12]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.04.03-20.06.40:562][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.06.47:212][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.06.51:076][108]Cmd: TRANSACTION UNDO
+[2019.04.03-20.06.51:076][108]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.03-20.06.51:170][108]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-20.06.53:231][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.07.01:957][130]Cmd: TRANSACTION UNDO
+[2019.04.03-20.07.01:957][130]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.03-20.07.02:093][130]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-20.07.02:134][130]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2019.04.03-20.07.02:533][161]Cmd: TRANSACTION UNDO
+[2019.04.03-20.07.02:533][161]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.03-20.07.02:621][161]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-20.07.02:658][161]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2019.04.03-20.07.03:134][209]Cmd: TRANSACTION UNDO
+[2019.04.03-20.07.03:135][209]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.03-20.07.03:249][209]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-20.07.03:600][243]Cmd: TRANSACTION UNDO
+[2019.04.03-20.07.03:600][243]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.03-20.07.03:696][243]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-20.07.03:729][243]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2019.04.03-20.07.05:421][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.07.06:971][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.07.30:066][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.07.46:131][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.07.53:247][668]Cmd: TRANSACTION UNDO
+[2019.04.03-20.07.53:247][668]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.04.03-20.07.53:365][668]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2019.04.03-20.07.53:403][668]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-20.07.55:242][837]Cmd: TRANSACTION UNDO
+[2019.04.03-20.07.55:242][837]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.04.03-20.07.59:198][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.08.42:691][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.09.00:302][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.09.07:943][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.09.25:438][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.09.25:928][712]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-20.09.25:940][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.09.25:940][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-20.09.25:940][712]PIE: New page: PIE session: TanksGrounds (3/04/2019 10:09:25 a. m.)
+[2019.04.03-20.09.25:940][712]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_69', 1274.999878,0.000000 vs 1275.000000,0.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_70', 1529.999878,0.000000 vs 1530.000000,0.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_77', 1274.999878,254.999954 vs 1275.000000,255.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_78', 1529.999878,254.999954 vs 1530.000000,255.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_85', 1274.999878,509.999969 vs 1275.000000,510.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_86', 1529.999878,509.999969 vs 1530.000000,510.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_93', 1274.999878,764.999939 vs 1275.000000,765.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_94', 1529.999878,764.999939 vs 1530.000000,765.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_101', 1274.999878,1019.999939 vs 1275.000000,1020.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_102', 1529.999878,1019.999939 vs 1530.000000,1020.000000.
+[2019.04.03-20.09.26:028][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_104', 0.000000,1274.999878 vs 0.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_105', 254.999954,1274.999878 vs 255.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_106', 509.999969,1274.999878 vs 510.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_107', 764.999939,1274.999878 vs 765.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_108', 1019.999939,1274.999878 vs 1020.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_109', 1274.999878,1274.999878 vs 1275.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_110', 1529.999878,1274.999878 vs 1530.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_111', 1785.000000,1274.999878 vs 1785.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_112', 0.000000,1529.999878 vs 0.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_113', 254.999954,1529.999878 vs 255.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_114', 509.999969,1529.999878 vs 510.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_115', 764.999939,1529.999878 vs 765.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_116', 1019.999939,1529.999878 vs 1020.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_117', 1274.999878,1529.999878 vs 1275.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_118', 1529.999878,1529.999878 vs 1530.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_119', 1785.000000,1529.999878 vs 1785.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_125', 1274.999878,1785.000000 vs 1275.000000,1785.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_126', 1529.999878,1785.000000 vs 1530.000000,1785.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_62', 1529.999878,1785.000000 vs 1530.000000,1785.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_61', 1274.999878,1785.000000 vs 1275.000000,1785.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_55', 1785.000000,1529.999878 vs 1785.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_54', 1529.999878,1529.999878 vs 1530.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_53', 1274.999878,1529.999878 vs 1275.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_52', 1019.999939,1529.999878 vs 1020.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_51', 764.999939,1529.999878 vs 765.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_50', 509.999969,1529.999878 vs 510.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_49', 254.999954,1529.999878 vs 255.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_48', 0.000000,1529.999878 vs 0.000000,1530.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_47', 1785.000000,1274.999878 vs 1785.000000,1275.000000.
+[2019.04.03-20.09.26:029][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_46', 1529.999878,1274.999878 vs 1530.000000,1275.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_45', 1274.999878,1274.999878 vs 1275.000000,1275.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_44', 1019.999939,1274.999878 vs 1020.000000,1275.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_43', 764.999939,1274.999878 vs 765.000000,1275.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_42', 509.999969,1274.999878 vs 510.000000,1275.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_41', 254.999954,1274.999878 vs 255.000000,1275.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_40', 0.000000,1274.999878 vs 0.000000,1275.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_38', 1529.999878,1019.999939 vs 1530.000000,1020.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_37', 1274.999878,1019.999939 vs 1275.000000,1020.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_30', 1529.999878,764.999939 vs 1530.000000,765.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_29', 1274.999878,764.999939 vs 1275.000000,765.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_22', 1529.999878,509.999969 vs 1530.000000,510.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_21', 1274.999878,509.999969 vs 1275.000000,510.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_14', 1529.999878,254.999954 vs 1530.000000,255.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_13', 1274.999878,254.999954 vs 1275.000000,255.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_6', 1529.999878,0.000000 vs 1530.000000,0.000000.
+[2019.04.03-20.09.26:030][712]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_5', 1274.999878,0.000000 vs 1275.000000,0.000000.
+[2019.04.03-20.09.26:034][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093205s)
+[2019.04.03-20.09.26:034][712]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.03-20.09.26:035][712]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.04.03-20.09.26:035][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.094130s)
+[2019.04.03-20.09.26:059][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.04.03-20.09.26:086][712]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-20.09.26:112][712]LogInit: FAudioDevice initialized.
+[2019.04.03-20.09.26:162][712]LogLoad: Game class is 'GameModeBase'
+[2019.04.03-20.09.26:165][712]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.03-15.09.26
+[2019.04.03-20.09.26:165][712]LogWorld: Bringing up level for play took: 0.002187
+[2019.04.03-20.09.26:178][712]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,706
+[2019.04.03-20.09.26:178][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.09.37:478][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.09.37:478][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-20.09.37:512][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-20.09.37:513][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.09.37:545][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-20.09.37:548][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.04.03-20.09.37:584][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.04.03-20.09.45:390][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.09.56:547][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.10.01:249][146]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2019.04.03-20.10.01:301][146]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.04.03-20.10.01:364][146]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2019.04.03-20.10.01:424][146]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2019.04.03-20.10.09:739][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.10.26:779][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.10.54:387][126]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.04.03-20.11.16:400][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.11.24:435][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.11.31:139][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.11.36:838][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.11.58:271][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.12.04:845][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.12.20:119][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.13.06:669][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.13.12:958][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.13.50:596][136]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.04.03-20.13.50:651][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.13.52:039][272]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.03-20.13.52:127][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.14.04:197][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.14.04:324][  9]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-20.14.04:341][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.14.04:341][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-20.14.04:341][  9]PIE: New page: PIE session: TanksGrounds (3/04/2019 10:14:04 a. m.)
+[2019.04.03-20.14.04:341][  9]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_69', 1274.999878,0.000000 vs 1275.000000,0.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_70', 1529.999878,0.000000 vs 1530.000000,0.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_77', 1274.999878,254.999954 vs 1275.000000,255.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_78', 1529.999878,254.999954 vs 1530.000000,255.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_85', 1274.999878,509.999969 vs 1275.000000,510.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_86', 1529.999878,509.999969 vs 1530.000000,510.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_93', 1274.999878,764.999939 vs 1275.000000,765.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_94', 1529.999878,764.999939 vs 1530.000000,765.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_101', 1274.999878,1019.999939 vs 1275.000000,1020.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_102', 1529.999878,1019.999939 vs 1530.000000,1020.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_104', 0.000000,1274.999878 vs 0.000000,1275.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_105', 254.999954,1274.999878 vs 255.000000,1275.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_106', 509.999969,1274.999878 vs 510.000000,1275.000000.
+[2019.04.03-20.14.04:442][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_107', 764.999939,1274.999878 vs 765.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_108', 1019.999939,1274.999878 vs 1020.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_109', 1274.999878,1274.999878 vs 1275.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_110', 1529.999878,1274.999878 vs 1530.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_111', 1785.000000,1274.999878 vs 1785.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_112', 0.000000,1529.999878 vs 0.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_113', 254.999954,1529.999878 vs 255.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_114', 509.999969,1529.999878 vs 510.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_115', 764.999939,1529.999878 vs 765.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_116', 1019.999939,1529.999878 vs 1020.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_117', 1274.999878,1529.999878 vs 1275.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_118', 1529.999878,1529.999878 vs 1530.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_119', 1785.000000,1529.999878 vs 1785.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_125', 1274.999878,1785.000000 vs 1275.000000,1785.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_126', 1529.999878,1785.000000 vs 1530.000000,1785.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_62', 1529.999878,1785.000000 vs 1530.000000,1785.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_61', 1274.999878,1785.000000 vs 1275.000000,1785.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_55', 1785.000000,1529.999878 vs 1785.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_54', 1529.999878,1529.999878 vs 1530.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_53', 1274.999878,1529.999878 vs 1275.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_52', 1019.999939,1529.999878 vs 1020.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_51', 764.999939,1529.999878 vs 765.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_50', 509.999969,1529.999878 vs 510.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_49', 254.999954,1529.999878 vs 255.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_48', 0.000000,1529.999878 vs 0.000000,1530.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_47', 1785.000000,1274.999878 vs 1785.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_46', 1529.999878,1274.999878 vs 1530.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_45', 1274.999878,1274.999878 vs 1275.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_44', 1019.999939,1274.999878 vs 1020.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_43', 764.999939,1274.999878 vs 765.000000,1275.000000.
+[2019.04.03-20.14.04:443][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_42', 509.999969,1274.999878 vs 510.000000,1275.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_41', 254.999954,1274.999878 vs 255.000000,1275.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_40', 0.000000,1274.999878 vs 0.000000,1275.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_38', 1529.999878,1019.999939 vs 1530.000000,1020.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_37', 1274.999878,1019.999939 vs 1275.000000,1020.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_30', 1529.999878,764.999939 vs 1530.000000,765.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_29', 1274.999878,764.999939 vs 1275.000000,765.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_22', 1529.999878,509.999969 vs 1530.000000,510.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_21', 1274.999878,509.999969 vs 1275.000000,510.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_14', 1529.999878,254.999954 vs 1530.000000,255.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_13', 1274.999878,254.999954 vs 1275.000000,255.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_6', 1529.999878,0.000000 vs 1530.000000,0.000000.
+[2019.04.03-20.14.04:444][  9]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_5', 1274.999878,0.000000 vs 1275.000000,0.000000.
+[2019.04.03-20.14.04:446][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105199s)
+[2019.04.03-20.14.04:449][  9]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.03-20.14.04:466][  9]LogPlayLevel: PIE: World Init took: (0.019597s)
+[2019.04.03-20.14.04:466][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.125076s)
+[2019.04.03-20.14.04:495][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.04.03-20.14.04:514][  9]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-20.14.04:540][  9]LogInit: FAudioDevice initialized.
+[2019.04.03-20.14.04:567][  9]LogLoad: Game class is 'GameModeBase'
+[2019.04.03-20.14.04:569][  9]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.03-15.14.04
+[2019.04.03-20.14.04:569][  9]LogWorld: Bringing up level for play took: 0.002204
+[2019.04.03-20.14.04:583][  9]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,301
+[2019.04.03-20.14.04:583][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.14.12:939][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.14.12:940][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-20.14.12:976][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-20.14.12:977][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.14.13:008][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-20.14.13:011][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.04.03-20.14.13:047][996]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.03-20.14.18:916][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.14.19:025][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-20.14.19:062][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.04.03-20.14.19:203][613]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.04.03-20.14.19:210][613]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2019.04.03-20.14.19:218][613]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2019.04.03-20.14.19:220][613]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.04.03-20.14.19:222][613]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2019.04.03-20.14.19:234][613]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2019.04.03-20.14.19:240][613]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2019.04.03-20.14.19:242][613]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2019.04.03-20.14.19:244][613]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2019.04.03-20.14.19:255][613]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2019.04.03-20.14.19:263][613]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2019.04.03-20.14.19:271][613]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2019.04.03-20.14.19:277][613]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2019.04.03-20.14.19:285][613]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2019.04.03-20.14.19:292][613]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2019.04.03-20.14.19:302][613]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2019.04.03-20.14.19:309][613]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2019.04.03-20.14.19:318][613]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2019.04.03-20.14.19:324][613]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2019.04.03-20.14.19:332][613]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2019.04.03-20.14.20:143][613]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGroundsC4CACD8943F939B8239F8690459FAE03.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
+[2019.04.03-20.14.20:222][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
+[2019.04.03-20.14.22:184][613]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltData198D8F0942C7F54CCCF928BF7F6E9635.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
+[2019.04.03-20.14.26:904][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.14.26:997][144]MapCheck: New page: Map Check
+[2019.04.03-20.14.27:009][144]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.03-20.14.27:047][144]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.03-20.14.27:427][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.04.03-20.14.27:442][144]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.03-20.14.27:544][144]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.03-20.14.30:890][144]TextureStreamingBuild: Display: Compiling optional shaders took 3.452 seconds.
+[2019.04.03-20.14.30:932][144]LogLevel: Display: Export Material TexCoord Scales took 0.042 seconds.
+[2019.04.03-20.14.30:962][144]TextureStreamingBuild: Display: Build Texture Streaming took 0.030 seconds.
+[2019.04.03-20.14.30:989][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.04.03-20.14.30:989][144]LightingResults: New page: Lighting Build - 3/04/2019 10:14:30 a. m.
+[2019.04.03-20.14.31:048][144]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.03-20.14.31:052][144]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.03-20.14.31:052][144]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.03-20.14.31:053][144]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.03-20.14.31:053][144]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9556
+[2019.04.03-20.14.35:564][144]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.04.03-20.14.35:564][144]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.03-20.14.35:564][144]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.03-20.14.35:564][144]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.03-20.14.35:564][144]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.03-20.14.35:564][144]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.03-20.14.36:374][144]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.03-20.14.36:374][144]MapCheck: New page: TanksGrounds - 3/04/2019 10:14:36 a. m.
+[2019.04.03-20.14.36:374][144]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.04.03-20.14.36:374][144]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,327ms to complete.
+[2019.04.03-20.14.36:398][144]LogEditorBuildUtils: Build time 0:09
+[2019.04.03-20.14.36:404][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-20.14.37:833][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.04.03-20.14.41:111][191]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-20.14.41:115][191]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-20.19.10:416][ 26]Job is a success!
+[2019.04.03-20.19.11:444][ 27]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.168s
+[2019.04.03-20.19.11:444][ 27]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.04.03-20.19.11:445][ 27]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb
+[2019.04.03-20.19.11:445][ 27]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.03-20.19.11:445][ 27]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.04.03-20.19.11:445][ 27]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2019.04.03-20.19.11:445][ 27]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 512X512)
+[2019.04.03-20.19.25:730][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 512X512)
+[2019.04.03-20.19.25:731][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 512X512)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 64X64)
+[2019.04.03-20.19.25:732][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 64X64)
+[2019.04.03-20.19.26:437][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 256X256)
+[2019.04.03-20.19.26:437][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 256X256)
+[2019.04.03-20.19.26:437][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 256X256)
+[2019.04.03-20.19.26:437][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 256X256)
+[2019.04.03-20.19.26:437][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 256X256)
+[2019.04.03-20.19.26:437][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 256X256)
+[2019.04.03-20.19.26:438][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (G8, 32X32)
+[2019.04.03-20.19.26:446][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 256X256)
+[2019.04.03-20.19.26:446][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 256X256)
+[2019.04.03-20.19.26:470][ 27]LogStaticLightingSystem: TanksGrounds_BuiltData storing lightmap data for 65 meshes in 65 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.04.03-20.19.26:551][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.04.03-20.19.26:554][ 27]LogStaticLightingSystem: Illumination: 4:55 min (13.6 sec encoding lightmaps, 716 ms encoding shadowmaps)
+[2019.04.03-20.19.26:554][ 27]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2019.04.03-20.19.26:554][ 27]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2019.04.03-20.19.26:803][ 27]DumpUnbuiltLightIteractions
+[2019.04.03-20.19.26:803][ 27]Lights with unbuilt interactions: 0
+[2019.04.03-20.19.26:803][ 27]
+[2019.04.03-20.19.26:803][ 27]Primitives with unbuilt interactions: 0
+[2019.04.03-20.19.27:005][ 28]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.03-20.19.27:005][ 28]MapCheck: New page: TanksGrounds - 3/04/2019 10:19:27 a. m.
+[2019.04.03-20.19.27:006][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,492ms to complete.
+[2019.04.03-20.19.31:026][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.19.31:026][ 40]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-20.19.31:029][ 40]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-20.19.34:577][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.19.34:694][460]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-20.19.34:705][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.19.34:705][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-20.19.34:705][460]PIE: New page: PIE session: TanksGrounds (3/04/2019 10:19:34 a. m.)
+[2019.04.03-20.19.34:706][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.03-20.19.34:801][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_69', 1274.999878,0.000000 vs 1275.000000,0.000000.
+[2019.04.03-20.19.34:801][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_70', 1529.999878,0.000000 vs 1530.000000,0.000000.
+[2019.04.03-20.19.34:801][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_77', 1274.999878,254.999954 vs 1275.000000,255.000000.
+[2019.04.03-20.19.34:801][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_78', 1529.999878,254.999954 vs 1530.000000,255.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_85', 1274.999878,509.999969 vs 1275.000000,510.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_86', 1529.999878,509.999969 vs 1530.000000,510.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_93', 1274.999878,764.999939 vs 1275.000000,765.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_94', 1529.999878,764.999939 vs 1530.000000,765.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_101', 1274.999878,1019.999939 vs 1275.000000,1020.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_102', 1529.999878,1019.999939 vs 1530.000000,1020.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_104', 0.000000,1274.999878 vs 0.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_105', 254.999954,1274.999878 vs 255.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_106', 509.999969,1274.999878 vs 510.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_107', 764.999939,1274.999878 vs 765.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_108', 1019.999939,1274.999878 vs 1020.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_109', 1274.999878,1274.999878 vs 1275.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_110', 1529.999878,1274.999878 vs 1530.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_111', 1785.000000,1274.999878 vs 1785.000000,1275.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_112', 0.000000,1529.999878 vs 0.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_113', 254.999954,1529.999878 vs 255.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_114', 509.999969,1529.999878 vs 510.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_115', 764.999939,1529.999878 vs 765.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_116', 1019.999939,1529.999878 vs 1020.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_117', 1274.999878,1529.999878 vs 1275.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_118', 1529.999878,1529.999878 vs 1530.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_119', 1785.000000,1529.999878 vs 1785.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_125', 1274.999878,1785.000000 vs 1275.000000,1785.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_126', 1529.999878,1785.000000 vs 1530.000000,1785.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_62', 1529.999878,1785.000000 vs 1530.000000,1785.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_61', 1274.999878,1785.000000 vs 1275.000000,1785.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_55', 1785.000000,1529.999878 vs 1785.000000,1530.000000.
+[2019.04.03-20.19.34:802][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_54', 1529.999878,1529.999878 vs 1530.000000,1530.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_53', 1274.999878,1529.999878 vs 1275.000000,1530.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_52', 1019.999939,1529.999878 vs 1020.000000,1530.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_51', 764.999939,1529.999878 vs 765.000000,1530.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_50', 509.999969,1529.999878 vs 510.000000,1530.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_49', 254.999954,1529.999878 vs 255.000000,1530.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_48', 0.000000,1529.999878 vs 0.000000,1530.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_47', 1785.000000,1274.999878 vs 1785.000000,1275.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_46', 1529.999878,1274.999878 vs 1530.000000,1275.000000.
+[2019.04.03-20.19.34:803][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_45', 1274.999878,1274.999878 vs 1275.000000,1275.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_44', 1019.999939,1274.999878 vs 1020.000000,1275.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_43', 764.999939,1274.999878 vs 765.000000,1275.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_42', 509.999969,1274.999878 vs 510.000000,1275.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_41', 254.999954,1274.999878 vs 255.000000,1275.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_40', 0.000000,1274.999878 vs 0.000000,1275.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_38', 1529.999878,1019.999939 vs 1530.000000,1020.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_37', 1274.999878,1019.999939 vs 1275.000000,1020.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_30', 1529.999878,764.999939 vs 1530.000000,765.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_29', 1274.999878,764.999939 vs 1275.000000,765.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_22', 1529.999878,509.999969 vs 1530.000000,510.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_21', 1274.999878,509.999969 vs 1275.000000,510.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_14', 1529.999878,254.999954 vs 1530.000000,255.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_13', 1274.999878,254.999954 vs 1275.000000,255.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_6', 1529.999878,0.000000 vs 1530.000000,0.000000.
+[2019.04.03-20.19.34:805][460]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/UEDPIE_0_TanksGrounds.TanksGrounds:PersistentLevel.Landscape_1.LandscapeComponent_5', 1274.999878,0.000000 vs 1275.000000,0.000000.
+[2019.04.03-20.19.34:807][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101164s)
+[2019.04.03-20.19.34:808][460]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.03-20.19.34:808][460]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.04.03-20.19.34:808][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.102409s)
+[2019.04.03-20.19.34:833][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.04.03-20.19.34:850][460]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-20.19.34:874][460]LogInit: FAudioDevice initialized.
+[2019.04.03-20.19.34:900][460]LogLoad: Game class is 'GameModeBase'
+[2019.04.03-20.19.34:903][460]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.03-15.19.34
+[2019.04.03-20.19.34:903][460]LogWorld: Bringing up level for play took: 0.002219
+[2019.04.03-20.19.34:916][460]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,033
+[2019.04.03-20.19.34:917][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.20.35:211][681]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.20.35:211][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-20.20.35:237][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-20.20.35:237][681]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.03-20.20.35:266][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-20.20.35:269][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.04.03-20.20.35:319][683]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.04.03-20.21.00:779][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-20.21.00:885][ 92]LogRenderer: Reallocating scene render targets to support 1532x692 Format 10 NumSamples 1 (Frame:136950).
+[2019.04.03-20.21.00:937][ 93]LogRenderer: Reallocating scene render targets to support 1532x700 Format 10 NumSamples 1 (Frame:136952).
+[2019.04.03-20.21.00:988][ 94]LogRenderer: Reallocating scene render targets to support 1532x708 Format 10 NumSamples 1 (Frame:136954).
+[2019.04.03-20.21.01:034][ 95]LogRenderer: Reallocating scene render targets to support 1532x712 Format 10 NumSamples 1 (Frame:136956).
+[2019.04.03-20.21.01:086][ 96]LogRenderer: Reallocating scene render targets to support 1532x720 Format 10 NumSamples 1 (Frame:136958).
+[2019.04.03-20.21.01:132][ 97]LogRenderer: Reallocating scene render targets to support 1532x724 Format 10 NumSamples 1 (Frame:136960).
+[2019.04.03-20.21.01:180][ 98]LogRenderer: Reallocating scene render targets to support 1532x732 Format 10 NumSamples 1 (Frame:136962).
+[2019.04.03-20.21.01:227][ 99]LogRenderer: Reallocating scene render targets to support 1532x736 Format 10 NumSamples 1 (Frame:136964).
+[2019.04.03-20.21.01:275][100]LogRenderer: Reallocating scene render targets to support 1532x740 Format 10 NumSamples 1 (Frame:136966).
+[2019.04.03-20.21.01:324][101]LogRenderer: Reallocating scene render targets to support 1532x748 Format 10 NumSamples 1 (Frame:136968).
+[2019.04.03-20.21.01:373][102]LogRenderer: Reallocating scene render targets to support 1532x756 Format 10 NumSamples 1 (Frame:136970).
+[2019.04.03-20.21.01:527][112]LogRenderer: Reallocating scene render targets to support 1532x760 Format 10 NumSamples 1 (Frame:136982).
+[2019.04.03-20.21.14:330][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-20.21.14:364][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.04.03-20.21.15:039][535]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds511650694DD5D106752E42868A3203EA.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
+[2019.04.03-20.21.15:075][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
+[2019.04.03-20.21.16:963][535]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltDataDA6CF7DA4A041E108CB4468BFEE53D8A.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
