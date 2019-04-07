@@ -1,0 +1,1563 @@
+﻿Log file open, 04/05/19 15:23:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TanksGrounds
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.988856
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.05-20.23.29:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.05-20.23.29:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.05-20.23.29:065][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.05-20.23.29:193][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:193][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-20.23.29:193][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-20.23.29:193][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:193][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.05-20.23.29:193][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:193][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-20.23.29:193][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-20.23.29:193][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-20.23.29:193][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-20.23.29:194][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-20.23.29:195][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-20.23.29:212][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-20.23.29:212][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.05-20.23.29:314][  0]LogHAL: Display: Platform has ~ 12 GB [12764684288 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.05-20.23.29:322][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.04.05-20.23.29:322][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.05-20.23.29:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-20.23.29:323][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-20.23.29:324][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.05-20.23.29:346][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.05-20.23.29:346][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.04.05-20.23.29:346][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.04.05-20.23.29:399][  0]LogInit: Computer: DESKTOP-CD54N45
+[2019.04.05-20.23.29:399][  0]LogInit: User: ELGRA
+[2019.04.05-20.23.29:399][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.05-20.23.29:399][  0]LogInit: High frequency timer resolution =3.124994 MHz
+[2019.04.05-20.23.29:416][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.04.05-20.23.29:416][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.05-20.23.29:416][  0]LogMemory: Process Physical Memory: 96.14 MB used, 96.14 MB peak
+[2019.04.05-20.23.29:416][  0]LogMemory: Process Virtual Memory: 83.92 MB used, 83.92 MB peak
+[2019.04.05-20.23.29:416][  0]LogMemory: Physical Memory: 5644.30 MB used,  6529.05 MB free, 12173.35 MB total
+[2019.04.05-20.23.29:416][  0]LogMemory: Virtual Memory: 4640.32 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.04.05-20.23.31:393][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.04.05-20.23.31:393][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.04.05-20.23.31:393][  0]LogInit: Using OS detected locale (es-CO).
+[2019.04.05-20.23.32:477][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.05-20.23.33:280][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.05-20.23.33:280][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.05-20.23.38:119][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.05-20.23.38:119][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.05-20.23.38:230][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.04.05-20.23.38:230][  0]LogD3D11RHI:       6052/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.05-20.23.38:296][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.05-20.23.38:296][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.04.05-20.23.38:366][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 950' (Feature Level 11_0)
+[2019.04.05-20.23.38:366][  0]LogD3D11RHI:       2007/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.04.05-20.23.38:368][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.05-20.23.38:368][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.05-20.23.38:368][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.05-20.23.38:405][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.05-20.23.38:405][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.05-20.23.38:406][  0]LogWindows: EnumDisplayDevices:
+[2019.04.05-20.23.38:406][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.04.05-20.23.38:406][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.04.05-20.23.38:407][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.04.05-20.23.38:407][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.04.05-20.23.38:407][  0]LogWindows:    4. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.05-20.23.38:408][  0]LogWindows:    5. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.05-20.23.38:408][  0]LogWindows:    6. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.05-20.23.38:408][  0]LogWindows:    7. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.04.05-20.23.38:409][  0]LogWindows:    8. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2019.04.05-20.23.38:409][  0]LogWindows:    9. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.05-20.23.38:410][  0]LogWindows:    10. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.05-20.23.38:410][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.05-20.23.38:410][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.04.05-20.23.38:410][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.05-20.23.38:410][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.05-20.23.38:410][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.04.05-20.23.38:558][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.05-20.23.38:729][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.05-20.23.38:733][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.05-20.23.38:733][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.05-20.23.38:786][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.05-20.23.40:911][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.04.05-20.23.40:978][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.04.05-20.23.41:030][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.04.05-20.23.41:086][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.04.05-20.23.41:144][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.04.05-20.23.41:211][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.04.05-20.23.41:232][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.04.05-20.23.41:277][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.04.05-20.23.41:289][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.04.05-20.23.41:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.04.05-20.23.41:497][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.04.05-20.23.41:711][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.04.05-20.23.41:711][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.04.05-20.23.41:738][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.04.05-20.23.41:738][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.04.05-20.23.41:770][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.04.05-20.23.41:786][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.04.05-20.23.41:801][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.04.05-20.23.41:824][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.04.05-20.23.41:898][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.04.05-20.23.41:898][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.04.05-20.23.41:898][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.05-20.23.42:114][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.04.05-20.23.43:202][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Intermediate/Shaders/WorkingDirectory/6832/).
+[2019.04.05-20.23.43:202][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ELGRA/AppData/Local/Temp/UnrealShaderWorkingDir/C53767C6403A6BF8AEC96E84BBA7B8FB/'.
+[2019.04.05-20.23.43:239][  0]LogXGEController: Cleaning working directory: C:/Users/ELGRA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.05-20.23.43:251][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.04.05-20.23.49:354][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.05-20.23.50:650][  0]LogDerivedDataCache: Loaded boot cache 1.30s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.05-20.23.50:650][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.04.05-20.23.50:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.05-20.23.50:650][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.05-20.23.50:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-20.23.50:650][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.05-20.23.50:711][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.05-20.23.50:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-20.23.50:711][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.05-20.23.50:723][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ELGRA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.05-20.23.50:723][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.05-20.23.50:723][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.05-20.23.50:814][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.05-20.23.50:922][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.05-20.23.51:030][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.05-20.23.52:735][  0]LogAssetRegistry: FAssetRegistry took 0.1260 seconds to start up
+[2019.04.05-20.24.00:273][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-20.24.02:426][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.05-20.24.02:426][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.04.05-20.24.02:426][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.05-20.24.02:426][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.04.05-20.24.02:441][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.04.05-20.24.02:925][  0]LogNetVersion: TanksGrounds 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 220100468)
+[2019.04.05-20.24.08:529][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.130291 seconds
+[2019.04.05-20.24.08:556][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.04.05-20.24.08:556][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.04.05-20.24.08:556][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.05-20.24.23:673][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.05-20.24.23:706][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.05-20.24.24:670][  0]SourceControl: Source control is disabled
+[2019.04.05-20.24.24:677][  0]SourceControl: Source control is disabled
+[2019.04.05-20.24.24:864][  0]SourceControl: Source control is disabled
+[2019.04.05-20.24.24:948][  0]SourceControl: Source control is disabled
+[2019.04.05-20.24.26:650][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.05-20.24.27:521][  0]LogOcInput: OculusInput pre-init called
+[2019.04.05-20.24.29:745][  0]LogEngine: Initializing Engine...
+[2019.04.05-20.24.29:774][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.05-20.24.29:792][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.04.05-20.24.30:777][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.05-20.24.31:413][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.05-20.24.31:696][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-20.24.31:794][  0]LogInit: FAudioDevice initialized.
+[2019.04.05-20.24.31:794][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.05-20.24.32:072][  0]LogDerivedDataCache: Saved boot cache 0.28s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.05-20.24.32:088][  0]LogInit: Texture streaming: Enabled
+[2019.04.05-20.24.32:359][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.05-20.24.32:761][  0]LogInit: Transaction tracking system initialized
+[2019.04.05-20.24.33:351][  0]BlueprintLog: New page: Editor Load
+[2019.04.05-20.24.35:750][  0]LocalizationService: Localization service is disabled
+[2019.04.05-20.24.41:471][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/' took 0.02s
+[2019.04.05-20.24.41:471][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.05-20.24.41:472][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.05-20.24.48:266][  0]SourceControl: Source control is disabled
+[2019.04.05-20.24.48:295][  0]Cmd: MAP LOAD FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.05-20.24.48:297][  0]LightingResults: New page: Lighting Build
+[2019.04.05-20.24.48:477][  0]MapCheck: New page: Map Check
+[2019.04.05-20.24.48:477][  0]LightingResults: New page: Lighting Build
+[2019.04.05-20.24.48:853][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.04.05-20.24.54:626][  0]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-20.24.59:527][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.05-20.24.59:597][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.04.05-20.24.59:597][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.05-20.24.59:597][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2019.04.05-20.24.59:598][  0]LogFileHelpers: Loading map 'TanksGrounds' took 11.316
+[2019.04.05-20.25.01:497][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-20.25.01:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-20.25.01:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-20.25.01:547][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-20.25.01:898][  0]LogCollectionManager: Loaded 0 collections in 0.004898 seconds
+[2019.04.05-20.25.02:261][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Collections/' took 0.01s
+[2019.04.05-20.25.02:261][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Developers/ELGRA/Collections/' took 0.01s
+[2019.04.05-20.25.02:261][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Collections/' took 0.01s
+[2019.04.05-20.25.02:261][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.05-20.25.02:316][  0]LogContentBrowser: Native class hierarchy populated in 0.0367 seconds. Added 2734 classes and 663 folders.
+[2019.04.05-20.25.02:443][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.05-20.25.02:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.02:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.03:332][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-20.25.05:159][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.05-20.25.05:983][  0]LogSlate: Took 0.031600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.05-20.25.06:034][  0]LogSlate: Took 0.047609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.05-20.25.06:076][  0]LogSlate: Took 0.019062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.05-20.25.06:489][  0]LogRenderer: Reallocating scene render targets to support 1376x696 Format 10 NumSamples 1 (Frame:1).
+[2019.04.05-20.25.07:390][  0]LogSlate: Took 0.023703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.05-20.25.08:091][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.05-20.25.08:091][  0]LogLoad: (Engine Initialization) Total time: 145.25 seconds
+[2019.04.05-20.25.08:091][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.05-20.25.08:394][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.05-20.25.08:565][  1]LogAssetRegistry: Asset discovery search completed in 75.8549 seconds
+[2019.04.05-20.25.08:589][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.05-20.25.08:589][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.04.05-20.25.09:121][ 45]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.05-21.07.19:702][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.07.19:969][178]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.07.20:005][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.07.20:006][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.07.20:018][178]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:07:20 a. m.)
+[2019.04.05-21.07.20:055][178]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.07.20:971][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.915950s)
+[2019.04.05-21.07.20:972][178]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.07.20:972][178]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2019.04.05-21.07.20:972][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.917139s)
+[2019.04.05-21.07.21:000][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.04.05-21.07.21:043][178]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.07.21:067][178]LogInit: FAudioDevice initialized.
+[2019.04.05-21.07.21:128][178]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.07.21:194][178]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.07.21
+[2019.04.05-21.07.21:260][178]LogWorld: Bringing up level for play took: 0.082410
+[2019.04.05-21.07.21:387][178]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.04.05-21.07.21:412][178]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 1,244
+[2019.04.05-21.07.21:412][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.07.26:458][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.07.26:458][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.07.26:511][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.07.26:511][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.07.26:557][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.07.26:585][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.04.05-21.07.26:611][692]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.05-21.07.30:952][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.07.51:765][419]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Materials/Tank/Tank_BP.Tank_BP
+[2019.04.05-21.07.53:116][419]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.04.05-21.07.55:570][419]LogSlate: Took 0.020648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.05-21.08.02:111][769]LogSlate: Took 0.024194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.05-21.08.42:020][243]LogRenderer: Reallocating scene render targets to support 1376x716 Format 10 NumSamples 1 (Frame:1).
+[2019.04.05-21.08.59:478][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.08.59:553][937]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.08.59:898][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.04.05-21.09.06:090][139]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.09.06:107][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.06:107][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.09.06:107][139]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:09:06 a. m.)
+[2019.04.05-21.09.06:107][139]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.09.06:221][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113667s)
+[2019.04.05-21.09.06:221][139]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.09.06:222][139]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2019.04.05-21.09.06:222][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.114625s)
+[2019.04.05-21.09.06:260][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.04.05-21.09.06:278][139]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.09.06:301][139]LogInit: FAudioDevice initialized.
+[2019.04.05-21.09.06:364][139]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.09.06:367][139]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.09.06
+[2019.04.05-21.09.06:367][139]LogWorld: Bringing up level for play took: 0.002655
+[2019.04.05-21.09.06:382][139]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,213
+[2019.04.05-21.09.06:382][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.12:192][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.12:192][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.09.12:224][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.09.12:224][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.12:264][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.09.12:268][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.04.05-21.09.12:295][786]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.05-21.09.13:284][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.09.17:878][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.09.18:003][455]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.09.18:174][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.04.05-21.09.40:323][798]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.09.40:339][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.40:339][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.09.40:339][798]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:09:40 a. m.)
+[2019.04.05-21.09.40:339][798]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.09.40:450][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110060s)
+[2019.04.05-21.09.40:450][798]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.09.40:450][798]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2019.04.05-21.09.40:450][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.110970s)
+[2019.04.05-21.09.40:486][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.04.05-21.09.40:502][798]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.09.40:526][798]LogInit: FAudioDevice initialized.
+[2019.04.05-21.09.40:557][798]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.09.40:560][798]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.09.40
+[2019.04.05-21.09.40:560][798]LogWorld: Bringing up level for play took: 0.002773
+[2019.04.05-21.09.40:573][798]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,405
+[2019.04.05-21.09.40:574][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.43:455][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.43:455][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.09.43:489][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.09.43:490][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.09.43:528][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.09.43:532][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.04.05-21.09.43:557][142]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.04.05-21.10.01:291][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.10.01:497][802]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.10.01:672][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.04.05-21.10.06:483][367]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.10.06:499][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.06:499][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.10.06:499][367]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:10:06 a. m.)
+[2019.04.05-21.10.06:499][367]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.10.06:610][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111103s)
+[2019.04.05-21.10.06:611][367]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.10.06:611][367]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.04.05-21.10.06:611][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.111850s)
+[2019.04.05-21.10.06:649][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.04.05-21.10.06:666][367]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.10.06:690][367]LogInit: FAudioDevice initialized.
+[2019.04.05-21.10.06:720][367]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.10.06:723][367]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.10.06
+[2019.04.05-21.10.06:723][367]LogWorld: Bringing up level for play took: 0.002628
+[2019.04.05-21.10.06:737][367]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,568
+[2019.04.05-21.10.06:737][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.09:310][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.09:310][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.10.09:345][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.10.09:345][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.09:385][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.10.09:390][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.04.05-21.10.09:418][673]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.04.05-21.10.10:950][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.10.28:412][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.10.44:377][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.10.45:739][745]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.10.45:947][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.04.05-21.10.47:377][900]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.10.47:394][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.47:394][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.10.47:394][900]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:10:47 a. m.)
+[2019.04.05-21.10.47:395][900]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.10.47:522][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127338s)
+[2019.04.05-21.10.47:523][900]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.10.47:523][900]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2019.04.05-21.10.47:523][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.128642s)
+[2019.04.05-21.10.47:571][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.04.05-21.10.47:592][900]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.10.47:624][900]LogInit: FAudioDevice initialized.
+[2019.04.05-21.10.47:653][900]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.10.47:657][900]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.10.47
+[2019.04.05-21.10.47:658][900]LogWorld: Bringing up level for play took: 0.003615
+[2019.04.05-21.10.47:671][900]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,497
+[2019.04.05-21.10.47:672][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.51:619][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.51:619][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.10.51:654][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.10.51:654][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.10.51:697][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.10.51:701][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.04.05-21.10.51:732][358]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.05-21.10.57:123][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.11.05:987][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-21.11.10:087][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-21.11.19:247][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.11.53:496][866]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.11.53:676][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.04.05-21.11.55:880][118]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.11.55:897][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.11.55:897][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.11.55:897][118]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:11:55 a. m.)
+[2019.04.05-21.11.55:897][118]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.11.56:002][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104700s)
+[2019.04.05-21.11.56:002][118]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.11.56:003][118]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2019.04.05-21.11.56:003][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.105666s)
+[2019.04.05-21.11.56:039][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.04.05-21.11.56:055][118]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.11.56:078][118]LogInit: FAudioDevice initialized.
+[2019.04.05-21.11.56:104][118]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.11.56:107][118]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.11.56
+[2019.04.05-21.11.56:107][118]LogWorld: Bringing up level for play took: 0.002594
+[2019.04.05-21.11.56:121][118]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,048
+[2019.04.05-21.11.56:121][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.11.59:145][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.11.59:145][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.11.59:175][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.11.59:176][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.11.59:215][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.11.59:220][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.04.05-21.11.59:246][473]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.05-21.12.05:460][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.12.12:945][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.12.19:405][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.12.31:021][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.12.35:355][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.12.35:471][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.12.35:484][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.35:484][768]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.05-21.12.35:485][768]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2019.04.05-21.12.35:738][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.04.05-21.12.35:738][768]LogPlayLevel: PlayLevel: Blueprint regeneration took 255 ms (1 blueprints)
+[2019.04.05-21.12.35:738][768]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:12:35 a. m.)
+[2019.04.05-21.12.35:738][768]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.12.35:845][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106274s)
+[2019.04.05-21.12.35:845][768]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.12.35:845][768]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.04.05-21.12.35:845][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.106954s)
+[2019.04.05-21.12.35:877][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.04.05-21.12.35:892][768]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.12.35:915][768]LogInit: FAudioDevice initialized.
+[2019.04.05-21.12.35:921][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.12.35:953][768]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.12.35:957][768]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.12.35
+[2019.04.05-21.12.35:957][768]LogWorld: Bringing up level for play took: 0.002817
+[2019.04.05-21.12.35:972][768]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,196
+[2019.04.05-21.12.35:972][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.45:976][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-21.12.47:946][909]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.47:946][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.12.47:957][909]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.05-21.12.47:983][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.12.47:983][909]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.48:028][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.04.05-21.12.48:047][911]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.05-21.12.50:603][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.12.50:686][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.12.50:701][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.50:701][224]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.05-21.12.50:702][224]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2019.04.05-21.12.50:884][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.04.05-21.12.50:884][224]LogPlayLevel: PlayLevel: Blueprint regeneration took 182 ms (1 blueprints)
+[2019.04.05-21.12.50:884][224]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:12:50 a. m.)
+[2019.04.05-21.12.50:885][224]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.12.50:994][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109687s)
+[2019.04.05-21.12.50:995][224]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.12.50:995][224]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2019.04.05-21.12.50:995][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.110390s)
+[2019.04.05-21.12.51:030][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.04.05-21.12.51:046][224]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.12.51:068][224]LogInit: FAudioDevice initialized.
+[2019.04.05-21.12.51:075][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.12.51:111][224]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.12.51:114][224]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.12.51
+[2019.04.05-21.12.51:114][224]LogWorld: Bringing up level for play took: 0.002917
+[2019.04.05-21.12.51:129][224]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,961
+[2019.04.05-21.12.51:129][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.54:003][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.54:004][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.12.54:015][558]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.05-21.12.54:043][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.12.54:043][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.12.54:087][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.04.05-21.12.54:104][560]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.05-21.13.00:015][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.13.00:123][269]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.13.00:139][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.13.00:139][269]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.05-21.13.00:140][269]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2019.04.05-21.13.00:342][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.04.05-21.13.00:342][269]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (1 blueprints)
+[2019.04.05-21.13.00:342][269]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:13:00 a. m.)
+[2019.04.05-21.13.00:342][269]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.13.00:453][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110830s)
+[2019.04.05-21.13.00:454][269]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.13.00:454][269]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.04.05-21.13.00:454][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.111617s)
+[2019.04.05-21.13.00:490][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.04.05-21.13.00:506][269]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.13.00:528][269]LogInit: FAudioDevice initialized.
+[2019.04.05-21.13.00:534][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.13.00:562][269]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.13.00:566][269]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.13.00
+[2019.04.05-21.13.00:566][269]LogWorld: Bringing up level for play took: 0.003106
+[2019.04.05-21.13.00:581][269]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,412
+[2019.04.05-21.13.00:581][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.13.02:662][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.13.02:662][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.13.02:674][513]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.05-21.13.02:705][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.13.02:705][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.13.02:749][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.04.05-21.13.02:766][515]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.05-21.13.04:036][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tank/Tank_BP" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Materials/Tank/Tank_BP.uasset" SILENT=true
+[2019.04.05-21.13.04:173][658]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP0EA3064D4C2D42B03A069BA71A971D68.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Materials/Tank/Tank_BP.uasset'
+[2019.04.05-21.13.29:190][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.04.05-21.13.31:069][777]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_Auto1C084942A41BACB3B57037BB05F5B7392.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/TanksGrounds_Auto1.umap'
+[2019.04.05-21.13.31:101][777]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TanksGrounds' took 1.974
+[2019.04.05-21.13.31:101][777]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.974
+[2019.04.05-21.17.48:595][956]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.05-21.18.53:686][452]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.04.05-21.19.36:315][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-21.20.29:869][578]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.05-21.20.29:871][578]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.05-21.22.48:665][514]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.22.48:953][514]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2019.04.05-21.22.49:254][547]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.22.49:541][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.04.05-21.23.04:603][965]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.23.04:622][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.23.04:622][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.23.04:622][965]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:23:04 a. m.)
+[2019.04.05-21.23.04:622][965]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.23.04:743][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120929s)
+[2019.04.05-21.23.04:744][965]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.23.04:744][965]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.04.05-21.23.04:744][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.121809s)
+[2019.04.05-21.23.04:791][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.04.05-21.23.04:808][965]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.23.04:833][965]LogInit: FAudioDevice initialized.
+[2019.04.05-21.23.04:861][965]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.23.04:865][965]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.23.04
+[2019.04.05-21.23.04:866][965]LogWorld: Bringing up level for play took: 0.003990
+[2019.04.05-21.23.04:907][965]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,738
+[2019.04.05-21.23.04:907][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.23.15:344][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.23.15:344][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.23.15:380][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.23.15:380][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.23.15:427][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.23.15:436][181]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.04.05-21.23.15:466][182]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.05-21.23.57:639][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.04.05-21.23.58:851][768]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_Auto22331870241F8DECB5D456EAC107C8490.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/TanksGrounds_Auto2.umap'
+[2019.04.05-21.23.58:892][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TanksGrounds' took 1.290
+[2019.04.05-21.23.58:892][768]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.290
+[2019.04.05-21.23.58:913][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Tank/Tank_BP] ([1] browsable assets)...
+[2019.04.05-21.23.58:939][768]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Materials/Tank/Tank_BP.Tank_BP]
+[2019.04.05-21.23.58:939][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Tank/Tank_BP]
+[2019.04.05-21.23.59:022][768]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP_Auto29FA1F1944EA68CEBE0D7B0A9F0A8B7E2.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/Materials/Tank/Tank_BP_Auto2.uasset'
+[2019.04.05-21.23.59:099][768]LogFileHelpers: Auto-saving content packages took 0.205
+[2019.04.05-21.24.24:389][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.28.29:365][223]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.28.29:570][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.04.05-21.28.31:494][445]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.28.31:512][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.28.31:513][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.28.31:513][445]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:28:31 a. m.)
+[2019.04.05-21.28.31:513][445]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.28.31:629][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116597s)
+[2019.04.05-21.28.31:630][445]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.28.31:630][445]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.04.05-21.28.31:630][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.117393s)
+[2019.04.05-21.28.31:671][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.04.05-21.28.31:687][445]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.28.31:710][445]LogInit: FAudioDevice initialized.
+[2019.04.05-21.28.31:736][445]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.28.31:739][445]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.28.31
+[2019.04.05-21.28.31:739][445]LogWorld: Bringing up level for play took: 0.002638
+[2019.04.05-21.28.31:752][445]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,416
+[2019.04.05-21.28.31:753][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.28.36:196][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.28.36:196][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.28.36:226][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.28.36:226][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.28.36:269][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.28.36:274][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.04.05-21.28.36:303][973]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.05-21.28.45:608][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.28.51:768][794]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.28.51:988][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.04.05-21.28.53:640][974]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.28.53:659][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.28.53:659][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.28.53:659][974]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:28:53 a. m.)
+[2019.04.05-21.28.53:659][974]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.28.53:775][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115698s)
+[2019.04.05-21.28.53:775][974]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.28.53:776][974]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.04.05-21.28.53:776][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.116558s)
+[2019.04.05-21.28.53:820][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.04.05-21.28.53:839][974]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.28.53:866][974]LogInit: FAudioDevice initialized.
+[2019.04.05-21.28.53:895][974]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.28.53:898][974]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.28.53
+[2019.04.05-21.28.53:898][974]LogWorld: Bringing up level for play took: 0.002655
+[2019.04.05-21.28.53:913][974]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,256
+[2019.04.05-21.28.53:913][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.29.04:630][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.29.04:631][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.29.04:663][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.29.04:664][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.29.04:709][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.29.04:714][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.04.05-21.29.04:745][249]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.05-21.29.07:271][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.29.25:547][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.29.31:116][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.29.31:225][146]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.29.31:448][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.04.05-21.29.33:318][345]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.29.33:334][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.29.33:334][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.29.33:334][345]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:29:33 a. m.)
+[2019.04.05-21.29.33:334][345]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.29.33:448][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113392s)
+[2019.04.05-21.29.33:448][345]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.29.33:448][345]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2019.04.05-21.29.33:448][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.114134s)
+[2019.04.05-21.29.33:485][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.04.05-21.29.33:501][345]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.29.33:524][345]LogInit: FAudioDevice initialized.
+[2019.04.05-21.29.33:554][345]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.29.33:557][345]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.29.33
+[2019.04.05-21.29.33:557][345]LogWorld: Bringing up level for play took: 0.002679
+[2019.04.05-21.29.33:570][345]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,598
+[2019.04.05-21.29.33:571][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.29.44:278][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.29.44:278][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.29.44:308][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.29.44:309][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.29.44:352][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.29.44:357][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.04.05-21.29.44:386][628]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.05-21.30.08:169][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.31.00:865][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.31.02:403][667]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.31.02:415][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.31.02:415][667]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.05-21.31.02:416][667]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2019.04.05-21.31.02:635][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.04.05-21.31.02:635][667]LogPlayLevel: PlayLevel: Blueprint regeneration took 219 ms (1 blueprints)
+[2019.04.05-21.31.02:635][667]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:31:02 a. m.)
+[2019.04.05-21.31.02:635][667]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.31.02:742][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107154s)
+[2019.04.05-21.31.02:743][667]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.31.02:743][667]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2019.04.05-21.31.02:743][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.108076s)
+[2019.04.05-21.31.02:779][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.04.05-21.31.02:797][667]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.31.02:818][667]LogInit: FAudioDevice initialized.
+[2019.04.05-21.31.02:849][667]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.31.02:851][667]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.31.02
+[2019.04.05-21.31.02:852][667]LogWorld: Bringing up level for play took: 0.002556
+[2019.04.05-21.31.02:865][667]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,697
+[2019.04.05-21.31.02:866][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.31.06:734][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.31.06:735][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.31.06:763][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.31.06:763][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.31.06:805][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.31.06:811][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.04.05-21.31.06:838][119]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.05-21.31.07:555][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.31.12:834][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.31.12:993][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tank/Tank_BP" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Materials/Tank/Tank_BP.uasset" SILENT=true
+[2019.04.05-21.31.13:028][834]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP6C9FB20648E9EB572BF34EB47C9EBBDB.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Materials/Tank/Tank_BP.uasset'
+[2019.04.05-21.32.24:082][474]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.05-21.33.04:167][207]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.05-21.33.04:170][207]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.05-21.33.36:022][932]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.33.36:226][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.04.05-21.33.39:024][262]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.33.39:042][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.33.39:042][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.33.39:042][262]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:33:39 a. m.)
+[2019.04.05-21.33.39:042][262]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.33.39:153][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110783s)
+[2019.04.05-21.33.39:153][262]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.33.39:154][262]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.04.05-21.33.39:154][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.111513s)
+[2019.04.05-21.33.39:196][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.04.05-21.33.39:211][262]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.33.39:233][262]LogInit: FAudioDevice initialized.
+[2019.04.05-21.33.39:261][262]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.33.39:264][262]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.33.39
+[2019.04.05-21.33.39:264][262]LogWorld: Bringing up level for play took: 0.002645
+[2019.04.05-21.33.39:278][262]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 1,109
+[2019.04.05-21.33.39:278][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.33.46:177][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.33.46:177][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.33.46:210][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.33.46:210][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.33.46:253][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.33.46:258][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.04.05-21.33.46:284][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.05-21.34.37:100][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-21.34.37:147][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.04.05-21.34.38:371][722]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_Auto38A1A6DF14EBC11066C79FC9FFB65BE87.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/TanksGrounds_Auto3.umap'
+[2019.04.05-21.34.38:406][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TanksGrounds' took 1.295
+[2019.04.05-21.34.38:406][722]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.295
+[2019.04.05-21.34.38:408][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Tank/Tank_BP] ([1] browsable assets)...
+[2019.04.05-21.34.38:424][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Materials/Tank/Tank_BP.Tank_BP]
+[2019.04.05-21.34.38:424][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Tank/Tank_BP]
+[2019.04.05-21.34.38:461][722]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP_Auto3D6410C9F4EB72ACD99BD93B96323F9E2.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/Materials/Tank/Tank_BP_Auto3.uasset'
+[2019.04.05-21.34.38:462][722]LogFileHelpers: Auto-saving content packages took 0.054
+[2019.04.05-21.36.39:252][845]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.36.39:475][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.04.05-21.43.57:224][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.45.40:005][220]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.05-21.45.42:397][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.46.40:647][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.04.05-21.46.41:929][638]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_Auto433578F1E46DA52C4FC0E5FB8902E3AD6.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/TanksGrounds_Auto4.umap'
+[2019.04.05-21.46.41:936][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TanksGrounds' took 1.354
+[2019.04.05-21.46.41:936][638]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.354
+[2019.04.05-21.46.41:941][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Tank/Tank_BP] ([1] browsable assets)...
+[2019.04.05-21.46.41:957][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Materials/Tank/Tank_BP.Tank_BP]
+[2019.04.05-21.46.41:957][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Tank/Tank_BP]
+[2019.04.05-21.46.42:005][638]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP_Auto403A4CBBE46D19E36AE840A96D49ADA70.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/Materials/Tank/Tank_BP_Auto4.uasset'
+[2019.04.05-21.46.42:008][638]LogFileHelpers: Auto-saving content packages took 0.069
+[2019.04.05-21.47.08:329][793]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.05-21.47.11:109][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.47.27:598][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.47.27:758][314]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.47.27:778][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.47.27:778][314]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.05-21.47.27:779][314]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2019.04.05-21.47.28:050][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.04.05-21.47.28:050][314]LogPlayLevel: PlayLevel: Blueprint regeneration took 272 ms (1 blueprints)
+[2019.04.05-21.47.28:050][314]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:47:28 a. m.)
+[2019.04.05-21.47.28:050][314]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.47.28:165][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114889s)
+[2019.04.05-21.47.28:166][314]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.47.28:166][314]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2019.04.05-21.47.28:166][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.115849s)
+[2019.04.05-21.47.28:209][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.04.05-21.47.28:227][314]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.47.28:251][314]LogInit: FAudioDevice initialized.
+[2019.04.05-21.47.28:258][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.47.28:288][314]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.47.28:294][314]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.47.28
+[2019.04.05-21.47.28:294][314]LogWorld: Bringing up level for play took: 0.003687
+[2019.04.05-21.47.28:311][314]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,143
+[2019.04.05-21.47.28:311][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.47.31:243][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.47.31:243][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.47.31:258][584]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.05-21.47.31:292][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.47.31:292][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.47.31:349][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.04.05-21.47.31:362][585]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.05-21.48.11:180][622]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.48.11:417][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.04.05-21.48.13:234][828]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.48.13:257][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.48.13:257][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.48.13:258][828]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:48:13 a. m.)
+[2019.04.05-21.48.13:258][828]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.48.13:373][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115625s)
+[2019.04.05-21.48.13:374][828]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.48.13:374][828]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2019.04.05-21.48.13:374][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.116436s)
+[2019.04.05-21.48.13:420][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.04.05-21.48.13:438][828]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.48.13:465][828]LogInit: FAudioDevice initialized.
+[2019.04.05-21.48.13:497][828]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.48.13:501][828]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.48.13
+[2019.04.05-21.48.13:501][828]LogWorld: Bringing up level for play took: 0.003328
+[2019.04.05-21.48.13:515][828]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,654
+[2019.04.05-21.48.13:515][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.48.32:477][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.48.32:477][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.48.32:511][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.48.32:512][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.48.32:561][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.48.32:566][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.04.05-21.48.32:597][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.05-21.48.39:531][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.48.42:577][983]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.04.05-21.48.54:563][300]Cmd: TRANSACTION UNDO
+[2019.04.05-21.48.54:563][300]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.05-21.48.57:624][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.48.57:717][579]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.48.57:733][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.48.57:733][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.48.57:733][579]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:48:57 a. m.)
+[2019.04.05-21.48.57:733][579]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.48.57:848][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114693s)
+[2019.04.05-21.48.57:849][579]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.48.57:888][579]LogPlayLevel: PIE: World Init took: (0.039720s)
+[2019.04.05-21.48.57:888][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.154578s)
+[2019.04.05-21.48.57:932][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.04.05-21.48.57:956][579]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.48.57:984][579]LogInit: FAudioDevice initialized.
+[2019.04.05-21.48.58:014][579]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.48.58:017][579]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.48.58
+[2019.04.05-21.48.58:017][579]LogWorld: Bringing up level for play took: 0.002775
+[2019.04.05-21.48.58:031][579]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,138
+[2019.04.05-21.48.58:031][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.49.05:045][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.49.05:046][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.49.05:077][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.49.05:077][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.49.05:125][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.49.05:130][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.04.05-21.49.05:162][387]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.05-21.49.24:610][574]Cmd: TRANSACTION UNDO
+[2019.04.05-21.49.24:610][574]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.05-21.49.33:046][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.49.52:030][667]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.49.52:266][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.04.05-21.49.56:853][176]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.49.56:875][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.49.56:875][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.49.56:876][176]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:49:56 a. m.)
+[2019.04.05-21.49.56:876][176]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.49.57:015][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139078s)
+[2019.04.05-21.49.57:015][176]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.49.57:016][176]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2019.04.05-21.49.57:016][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.139846s)
+[2019.04.05-21.49.57:063][176]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.04.05-21.49.57:085][176]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.49.57:115][176]LogInit: FAudioDevice initialized.
+[2019.04.05-21.49.57:145][176]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.49.57:148][176]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.49.57
+[2019.04.05-21.49.57:148][176]LogWorld: Bringing up level for play took: 0.002621
+[2019.04.05-21.49.57:162][176]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 0,994
+[2019.04.05-21.49.57:163][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.50.02:857][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.50.02:857][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.50.02:888][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.50.02:889][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.50.02:934][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.50.02:939][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.04.05-21.50.02:972][849]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.04.05-21.51.17:589][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.51.34:131][878]BlueprintLog: New page: Compile Tank_BP
+[2019.04.05-21.51.34:362][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.04.05-21.51.35:611][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-21.51.35:632][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.51.35:632][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-21.51.35:632][998]PIE: New page: PIE session: TanksGrounds (5/04/2019 11:51:35 a. m.)
+[2019.04.05-21.51.35:632][998]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.05-21.51.35:750][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117537s)
+[2019.04.05-21.51.35:750][998]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.05-21.51.35:750][998]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.04.05-21.51.35:751][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.118293s)
+[2019.04.05-21.51.35:790][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.04.05-21.51.35:808][998]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-21.51.35:832][998]LogInit: FAudioDevice initialized.
+[2019.04.05-21.51.35:859][998]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.05-21.51.35:863][998]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.05-16.51.35
+[2019.04.05-21.51.35:863][998]LogWorld: Bringing up level for play took: 0.003179
+[2019.04.05-21.51.35:878][998]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,29
+[2019.04.05-21.51.35:878][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.52.00:410][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.52.00:411][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.52.00:445][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-21.52.00:445][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.05-21.52.00:491][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-21.52.00:497][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.04.05-21.52.00:530][892]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.04.05-21.52.03:467][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-21.52.03:625][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.05-21.52.03:679][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.04.05-21.52.04:683][208]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds64544A434720182A0B818283A73F2AFE.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
+[2019.04.05-21.52.04:777][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
+[2019.04.05-21.52.09:260][208]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltData320F7BB44AC0744A68EE03A069635A23.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
+[2019.04.05-22.00.04:378][805]Cmd: TRANSACTION UNDO
+[2019.04.05-22.00.04:378][805]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.04.05-22.00.07:349][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-22.00.51:012][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.04.05-22.00.52:424][639]LogSlate: Window 'Save Content' being destroyed
+[2019.04.05-22.00.52:454][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tank/Tank_BP" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Materials/Tank/Tank_BP.uasset" SILENT=true
+[2019.04.05-22.00.52:500][639]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BPA1DD96914CBEB47E653D0AA44AEE2F82.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Materials/Tank/Tank_BP.uasset'
+[2019.04.05-22.00.52:890][639]LogSlate: Window 'TanksGrounds - Unreal Editor' being destroyed
+[2019.04.05-22.00.53:355][640]Cmd: QUIT_EDITOR
+[2019.04.05-22.00.53:812][640]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.05-22.00.53:943][640]LogExit: Preparing to exit.
+[2019.04.05-22.00.54:906][640]LogExit: Editor shut down
+[2019.04.05-22.00.54:906][640]LogExit: Transaction tracking system shut down
+[2019.04.05-22.00.57:308][640]LogExit: Object subsystem successfully closed.
+[2019.04.05-22.00.57:768][640]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.05-22.00.57:785][640]LogD3D11RHI: Shutdown
+[2019.04.05-22.00.57:785][640]LogD3D11RHI: CleanupD3DDevice
+[2019.04.05-22.00.57:826][640]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.04.05-22.00.57:826][640]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.04.05-22.00.57:845][640]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.04.05-22.00.57:845][640]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.04.05-22.00.57:845][640]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.04.05-22.00.57:845][640]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.04.05-22.00.58:066][640]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.05-22.01.00:283][640]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2019.04.05-22.01.00:283][640]LogModuleManager: Shutting down and abandoning module BlueprintGraph (650)
+[2019.04.05-22.01.00:283][640]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.04.05-22.01.00:283][640]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.04.05-22.01.00:296][640]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.04.05-22.01.00:296][640]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2019.04.05-22.01.00:323][640]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2019.04.05-22.01.00:323][640]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2019.04.05-22.01.00:323][640]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2019.04.05-22.01.00:336][640]LogModuleManager: Shutting down and abandoning module SceneOutliner (634)
+[2019.04.05-22.01.00:336][640]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.04.05-22.01.00:351][640]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.04.05-22.01.00:373][640]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.04.05-22.01.00:394][640]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.04.05-22.01.00:399][640]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.04.05-22.01.00:399][640]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.04.05-22.01.00:399][640]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.04.05-22.01.00:399][640]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.04.05-22.01.00:399][640]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.04.05-22.01.00:399][640]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.04.05-22.01.00:425][640]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.04.05-22.01.00:440][640]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.04.05-22.01.00:453][640]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.04.05-22.01.00:453][640]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.04.05-22.01.00:463][640]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.04.05-22.01.00:490][640]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.04.05-22.01.00:523][640]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.04.05-22.01.00:523][640]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.04.05-22.01.00:576][640]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.04.05-22.01.00:588][640]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.04.05-22.01.00:588][640]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.04.05-22.01.00:588][640]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.04.05-22.01.00:588][640]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.04.05-22.01.00:588][640]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.04.05-22.01.00:607][640]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.04.05-22.01.00:624][640]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.04.05-22.01.00:665][640]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.04.05-22.01.00:666][640]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.04.05-22.01.00:677][640]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.04.05-22.01.00:677][640]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.04.05-22.01.00:677][640]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.04.05-22.01.00:702][640]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.04.05-22.01.00:800][640]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.04.05-22.01.00:883][640]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.04.05-22.01.00:905][640]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.04.05-22.01.00:931][640]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.04.05-22.01.00:931][640]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.04.05-22.01.00:931][640]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.04.05-22.01.00:931][640]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.04.05-22.01.00:931][640]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.04.05-22.01.01:542][640]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.04.05-22.01.01:542][640]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.04.05-22.01.01:545][640]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.04.05-22.01.01:545][640]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.04.05-22.01.01:545][640]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.04.05-22.01.01:545][640]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.04.05-22.01.01:563][640]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.04.05-22.01.01:576][640]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.04.05-22.01.01:588][640]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.04.05-22.01.01:595][640]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.04.05-22.01.01:595][640]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.04.05-22.01.01:599][640]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.04.05-22.01.01:614][640]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.04.05-22.01.01:622][640]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.04.05-22.01.01:638][640]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.04.05-22.01.01:638][640]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.04.05-22.01.01:638][640]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.04.05-22.01.01:638][640]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.04.05-22.01.01:638][640]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.04.05-22.01.01:656][640]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.04.05-22.01.01:674][640]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.04.05-22.01.01:681][640]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.04.05-22.01.01:696][640]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.04.05-22.01.01:767][640]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.04.05-22.01.01:787][640]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.04.05-22.01.01:803][640]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.04.05-22.01.01:839][640]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.04.05-22.01.01:839][640]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.04.05-22.01.01:848][640]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.04.05-22.01.01:848][640]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.04.05-22.01.01:882][640]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.04.05-22.01.01:908][640]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.04.05-22.01.01:908][640]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.04.05-22.01.01:908][640]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.04.05-22.01.01:930][640]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.04.05-22.01.01:944][640]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.04.05-22.01.01:945][640]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.04.05-22.01.01:945][640]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.04.05-22.01.01:957][640]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.04.05-22.01.01:969][640]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.04.05-22.01.01:969][640]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.04.05-22.01.01:969][640]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.04.05-22.01.01:979][640]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.04.05-22.01.01:980][640]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.04.05-22.01.02:004][640]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.04.05-22.01.02:004][640]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.04.05-22.01.02:004][640]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.04.05-22.01.02:021][640]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.04.05-22.01.02:037][640]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.04.05-22.01.02:037][640]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.04.05-22.01.02:037][640]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.04.05-22.01.02:037][640]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.04.05-22.01.02:037][640]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.04.05-22.01.02:037][640]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.04.05-22.01.02:038][640]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.04.05-22.01.02:038][640]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.04.05-22.01.02:051][640]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.04.05-22.01.02:051][640]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.04.05-22.01.02:054][640]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.04.05-22.01.02:148][640]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.04.05-22.01.02:177][640]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.04.05-22.01.02:178][640]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.04.05-22.01.02:195][640]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.04.05-22.01.02:207][640]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.04.05-22.01.02:229][640]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.04.05-22.01.02:229][640]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.04.05-22.01.02:229][640]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.04.05-22.01.02:248][640]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.04.05-22.01.02:248][640]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.04.05-22.01.02:255][640]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.04.05-22.01.02:255][640]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.04.05-22.01.02:255][640]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.04.05-22.01.02:255][640]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.04.05-22.01.02:268][640]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.04.05-22.01.02:276][640]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.04.05-22.01.02:276][640]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.04.05-22.01.02:276][640]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.04.05-22.01.02:276][640]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.04.05-22.01.02:276][640]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.04.05-22.01.02:287][640]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.04.05-22.01.02:294][640]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.05-22.01.02:294][640]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.05-22.01.02:294][640]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.05-22.01.02:294][640]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.05-22.01.02:313][640]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.05-22.01.02:313][640]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.05-22.01.02:313][640]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.05-22.01.02:313][640]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.05-22.01.02:314][640]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.05-22.01.02:314][640]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.05-22.01.02:314][640]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.05-22.01.02:314][640]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.05-22.01.02:314][640]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.05-22.01.02:326][640]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.05-22.01.02:326][640]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.05-22.01.02:349][640]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.05-22.01.02:359][640]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.04.05-22.01.02:365][640]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.04.05-22.01.02:366][640]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.04.05-22.01.02:366][640]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.04.05-22.01.02:381][640]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.04.05-22.01.02:381][640]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.04.05-22.01.02:381][640]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.04.05-22.01.02:398][640]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.04.05-22.01.02:420][640]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.04.05-22.01.02:432][640]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.05-22.01.02:448][640]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module TanksGrounds (296)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.05-22.01.02:483][640]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.05-22.01.02:584][640]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.05-22.01.02:762][640]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.04.05-22.01.02:762][640]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.04.05-22.01.02:762][640]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.04.05-22.01.02:771][640]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.04.05-22.01.02:771][640]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.04.05-22.01.02:780][640]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.05-22.01.02:780][640]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.04.05-22.01.02:780][640]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.04.05-22.01.02:780][640]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.04.05-22.01.02:781][640]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.04.05-22.01.02:781][640]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.04.05-22.01.02:781][640]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.04.05-22.01.02:781][640]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.04.05-22.01.02:811][640]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.04.05-22.01.02:831][640]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.04.05-22.01.02:874][640]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.04.05-22.01.02:874][640]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.04.05-22.01.02:874][640]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.04.05-22.01.02:883][640]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.04.05-22.01.02:884][640]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.04.05-22.01.02:895][640]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.04.05-22.01.02:895][640]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.04.05-22.01.02:895][640]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.04.05-22.01.02:895][640]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.04.05-22.01.02:913][640]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.04.05-22.01.02:935][640]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.04.05-22.01.02:939][640]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.04.05-22.01.02:939][640]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.04.05-22.01.02:939][640]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.04.05-22.01.02:948][640]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.04.05-22.01.02:948][640]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.04.05-22.01.02:948][640]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.04.05-22.01.02:948][640]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.04.05-22.01.02:962][640]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.04.05-22.01.02:983][640]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.04.05-22.01.02:983][640]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.04.05-22.01.03:036][640]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.04.05-22.01.03:050][640]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.04.05-22.01.03:079][640]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.04.05-22.01.03:096][640]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.04.05-22.01.03:112][640]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.04.05-22.01.03:158][640]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.04.05-22.01.03:233][640]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.04.05-22.01.03:233][640]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.04.05-22.01.03:284][640]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.04.05-22.01.03:284][640]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.04.05-22.01.03:285][640]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.04.05-22.01.03:297][640]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.04.05-22.01.03:316][640]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.04.05-22.01.03:316][640]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.04.05-22.01.03:327][640]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.04.05-22.01.03:366][640]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.04.05-22.01.03:386][640]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.04.05-22.01.03:396][640]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.04.05-22.01.03:420][640]LogDerivedDataCache: Shutdown
+[2019.04.05-22.01.03:420][640]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.04.05-22.01.03:420][640]LogXGEController: Cleaning working directory: C:/Users/ELGRA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.05-22.01.03:420][640]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.04.05-22.01.03:458][640]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.04.05-22.01.03:468][640]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.04.05-22.01.03:478][640]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.04.05-22.01.03:488][640]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.04.05-22.01.03:496][640]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.04.05-22.01.03:509][640]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.04.05-22.01.03:509][640]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.04.05-22.01.03:509][640]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.04.05-22.01.03:520][640]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.04.05-22.01.03:532][640]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.04.05-22.01.03:532][640]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.04.05-22.01.03:532][640]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.04.05-22.01.03:532][640]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.04.05-22.01.03:543][640]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.04.05-22.01.03:543][640]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.04.05-22.01.03:546][640]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.04.05-22.01.03:558][640]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.04.05-22.01.03:558][640]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.04.05-22.01.03:577][640]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.04.05-22.01.03:586][640]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.04.05-22.01.03:594][640]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.04.05-22.01.03:596][640]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.04.05-22.01.03:596][640]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.04.05-22.01.03:597][640]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.04.05-22.01.03:597][640]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.04.05-22.01.03:608][640]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.04.05-22.01.03:609][640]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.04.05-22.01.03:609][640]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.04.05-22.01.03:627][640]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.05-22.01.03:627][640]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.04.05-22.01.03:641][640]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.04.05-22.01.03:641][640]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.04.05-22.01.03:641][640]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.04.05-22.01.03:641][640]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.04.05-22.01.03:642][640]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.04.05-22.01.03:665][640]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.04.05-22.01.03:718][640]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.04.05-22.01.03:718][640]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.05-22.01.03:718][640]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64E5BCF3-49DD-BB5F-2F1A-04AB6257E5F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=621a6c0b4a764497f53414b7e42c0af5%7C6089e4eb8d134ccd816bd14db529dcb6%7Cd472b439-fbd9-4d01-aa9d-b23c630f59d6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.05-22.01.03:728][640]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.04.05-22.01.03:729][640]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.04.05-22.01.03:747][640]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.04.05-22.01.03:753][640]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.04.05-22.01.03:760][640]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.04.05-22.01.03:761][640]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.04.05-22.01.03:777][640]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.04.05-22.01.03:793][640]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.04.05-22.01.03:842][640]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.04.05-22.01.03:843][640]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.04.05-22.01.03:843][640]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.04.05-22.01.03:843][640]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.04.05-22.01.03:928][640]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.04.05-22.01.04:033][640]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.04.05-22.01.04:033][640]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.04.05-22.01.04:042][640]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.04.05-22.01.04:060][640]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.04.05-22.01.04:060][640]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.04.05-22.01.04:060][640]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.04.05-22.01.04:071][640]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.04.05-22.01.04:071][640]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.04.05-22.01.04:082][640]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.04.05-22.01.04:082][640]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.04.05-22.01.04:093][640]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.04.05-22.01.04:117][640]LogExit: Exiting.
+[2019.04.05-22.01.04:149][640]Log file closed, 04/05/19 17:01:04
