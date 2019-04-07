@@ -1063,3 +1063,396 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.07-03.19.38:726][935]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds509741F44C150A5FEDE09FBD454D2323.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
 [2019.04.07-03.19.38:766][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
 [2019.04.07-03.19.41:924][935]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltData0415C99242D5855A4687C48B6AD2C027.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
+[2019.04.07-03.20.34:458][ 92]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.20.34:530][ 92]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2019.04.07-03.20.34:616][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.04.07-03.20.34:617][ 92]Cmd: MAP LOAD FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.07-03.20.34:617][ 92]LightingResults: New page: Lighting Build
+[2019.04.07-03.20.34:618][ 92]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.07-03.20.34:619][ 92]MapCheck: New page: Map Check
+[2019.04.07-03.20.34:619][ 92]LightingResults: New page: Lighting Build
+[2019.04.07-03.20.34:708][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.04.07-03.20.34:709][ 92]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.07-03.20.34:765][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.04.07-03.20.34:794][ 92]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.07-03.20.34:794][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2019.04.07-03.20.34:794][ 92]LogFileHelpers: Loading map 'MainMenu' took 0.178
+[2019.04.07-03.20.37:205][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.20.37:321][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.20.37:358][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.20.37:359][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.20.37:359][352]PIE: New page: PIE session: MainMenu (6/04/2019 5:20:37 p. m.)
+[2019.04.07-03.20.37:359][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.20.37:360][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000907s)
+[2019.04.07-03.20.37:360][352]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.20.37:360][352]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2019.04.07-03.20.37:360][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001541s)
+[2019.04.07-03.20.37:412][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.04.07-03.20.37:429][352]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.20.37:450][352]LogInit: FAudioDevice initialized.
+[2019.04.07-03.20.37:479][352]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.20.37:480][352]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.20.37
+[2019.04.07-03.20.37:480][352]LogWorld: Bringing up level for play took: 0.000328
+[2019.04.07-03.20.37:493][352]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0,72
+[2019.04.07-03.20.37:493][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.20.39:071][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.20.39:072][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.20.39:103][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.20.39:104][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.20.39:161][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.20.39:166][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.04.07-03.20.39:179][539]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.07-03.21.17:427][314]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.21.17:471][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.21.17:471][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.21.17:471][314]PIE: New page: PIE session: MainMenu (6/04/2019 5:21:17 p. m.)
+[2019.04.07-03.21.17:472][314]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.21.17:473][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001002s)
+[2019.04.07-03.21.17:473][314]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.21.17:734][314]LogPlayLevel: PIE: World Init took: (0.260150s)
+[2019.04.07-03.21.17:734][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.261323s)
+[2019.04.07-03.21.17:793][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.04.07-03.21.17:811][314]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.21.17:835][314]LogInit: FAudioDevice initialized.
+[2019.04.07-03.21.17:841][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.21.17:876][314]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.21.17:876][314]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.21.17
+[2019.04.07-03.21.17:877][314]LogWorld: Bringing up level for play took: 0.000433
+[2019.04.07-03.21.17:890][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.21.18:108][314]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 1,335
+[2019.04.07-03.21.18:109][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.21.22:249][530]LogRenderer: Reallocating scene render targets to support 1396x724 Format 10 NumSamples 1 (Frame:259).
+[2019.04.07-03.21.22:432][530]LogRenderer: Reallocating scene render targets to support 1580x724 Format 10 NumSamples 1 (Frame:260).
+[2019.04.07-03.21.24:507][625]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.21.24:510][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.21.24:536][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.21.24:537][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.21.24:605][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.04.07-03.21.24:619][626]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.07-03.22.45:090][995]BlueprintLog: New page: Compile PlayerTankController
+[2019.04.07-03.22.45:391][995]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.04.07-03.22.46:064][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.22.46:115][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.46:115][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.22.46:115][ 69]PIE: New page: PIE session: MainMenu (6/04/2019 5:22:46 p. m.)
+[2019.04.07-03.22.46:115][ 69]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.22.46:116][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000889s)
+[2019.04.07-03.22.46:116][ 69]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.22.46:116][ 69]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2019.04.07-03.22.46:116][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001493s)
+[2019.04.07-03.22.46:172][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.04.07-03.22.46:190][ 69]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.22.46:217][ 69]LogInit: FAudioDevice initialized.
+[2019.04.07-03.22.46:225][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.22.46:254][ 69]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.22.46:256][ 69]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.22.46
+[2019.04.07-03.22.46:256][ 69]LogWorld: Bringing up level for play took: 0.000851
+[2019.04.07-03.22.46:269][ 69]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.22.46:271][ 69]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0,502
+[2019.04.07-03.22.46:272][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.48:607][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.48:608][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.22.48:630][321]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.22.48:661][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.22.48:661][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.48:741][321]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2019.04.07-03.22.48:764][322]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.07-03.22.56:159][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.22.56:190][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.56:190][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.22.56:190][ 44]PIE: New page: PIE session: MainMenu (6/04/2019 5:22:56 p. m.)
+[2019.04.07-03.22.56:190][ 44]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.22.56:191][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000876s)
+[2019.04.07-03.22.56:192][ 44]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.22.56:192][ 44]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2019.04.07-03.22.56:192][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001557s)
+[2019.04.07-03.22.56:244][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.04.07-03.22.56:260][ 44]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.22.56:283][ 44]LogInit: FAudioDevice initialized.
+[2019.04.07-03.22.56:288][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.22.56:318][ 44]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.22.56:319][ 44]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.22.56
+[2019.04.07-03.22.56:319][ 44]LogWorld: Bringing up level for play took: 0.000474
+[2019.04.07-03.22.56:331][ 44]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.22.56:333][ 44]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0,44
+[2019.04.07-03.22.56:333][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.57:815][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.57:815][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.22.57:829][201]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.22.57:865][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.22.57:865][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.22.57:926][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.04.07-03.22.57:943][202]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.04.07-03.23.23:122][277]BlueprintLog: New page: Compile PlayerTankController
+[2019.04.07-03.23.23:389][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.04.07-03.23.30:657][137]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.23.30:694][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.23.30:694][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.23.30:694][137]PIE: New page: PIE session: MainMenu (6/04/2019 5:23:30 p. m.)
+[2019.04.07-03.23.30:694][137]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.23.30:695][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000866s)
+[2019.04.07-03.23.30:695][137]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.23.30:696][137]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2019.04.07-03.23.30:696][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001500s)
+[2019.04.07-03.23.30:752][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.04.07-03.23.30:773][137]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.23.30:800][137]LogInit: FAudioDevice initialized.
+[2019.04.07-03.23.30:807][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.23.30:837][137]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.23.30:838][137]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.23.30
+[2019.04.07-03.23.30:838][137]LogWorld: Bringing up level for play took: 0.000446
+[2019.04.07-03.23.30:850][137]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.23.30:852][137]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0,079
+[2019.04.07-03.23.30:852][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.23.35:676][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.23.35:676][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.23.35:692][692]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.23.35:728][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.23.35:729][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.23.35:798][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.04.07-03.23.35:815][693]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.04.07-03.23.48:020][323]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.07-03.24.01:086][877]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.04.07-03.24.26:412][820]BlueprintLog: New page: Compile MainMenu
+[2019.04.07-03.24.26:664][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.04.07-03.24.27:690][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.24.27:721][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.24.27:721][939]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.07-03.24.27:722][939]LogPlayLevel: [PlayLevel] Compiling PlayerTankController before play...
+[2019.04.07-03.24.27:969][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.04.07-03.24.27:969][939]LogPlayLevel: PlayLevel: Blueprint regeneration took 248 ms (1 blueprints)
+[2019.04.07-03.24.27:969][939]PIE: New page: PIE session: MainMenu (6/04/2019 5:24:27 p. m.)
+[2019.04.07-03.24.27:969][939]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.24.27:971][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001133s)
+[2019.04.07-03.24.27:971][939]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.24.27:971][939]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.04.07-03.24.27:971][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001911s)
+[2019.04.07-03.24.28:022][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.04.07-03.24.28:038][939]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.24.28:061][939]LogInit: FAudioDevice initialized.
+[2019.04.07-03.24.28:066][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.24.28:096][939]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.24.28:096][939]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.24.28
+[2019.04.07-03.24.28:097][939]LogWorld: Bringing up level for play took: 0.000490
+[2019.04.07-03.24.28:109][939]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.24.28:111][939]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 1,338
+[2019.04.07-03.24.28:111][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.24.33:395][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.24.33:483][523]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.24.33:488][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.24.33:515][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.24.33:516][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.24.33:578][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.04.07-03.24.33:622][524]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.04.07-03.27.00:316][642]BlueprintLog: New page: Compile MainMenuUI
+[2019.04.07-03.27.00:379][642]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.04.07-03.27.01:752][796]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.27.01:789][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.01:789][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.27.01:789][796]PIE: New page: PIE session: MainMenu (6/04/2019 5:27:01 p. m.)
+[2019.04.07-03.27.01:789][796]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.27.01:791][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001548s)
+[2019.04.07-03.27.01:792][796]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.27.01:792][796]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2019.04.07-03.27.01:792][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002804s)
+[2019.04.07-03.27.01:850][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.04.07-03.27.01:867][796]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.27.01:894][796]LogInit: FAudioDevice initialized.
+[2019.04.07-03.27.01:901][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.27.01:930][796]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.27.01:931][796]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.27.01
+[2019.04.07-03.27.01:931][796]LogWorld: Bringing up level for play took: 0.000584
+[2019.04.07-03.27.01:944][796]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.27.01:947][796]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 1,174
+[2019.04.07-03.27.01:947][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.08:733][236]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.27.08:736][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.08:763][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.27.08:764][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.08:835][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.04.07-03.27.08:849][237]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.04.07-03.27.22:770][870]BlueprintLog: New page: Compile MainMenuUI
+[2019.04.07-03.27.22:833][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.04.07-03.27.23:854][980]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.27.23:890][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.23:890][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.27.23:890][980]PIE: New page: PIE session: MainMenu (6/04/2019 5:27:23 p. m.)
+[2019.04.07-03.27.23:890][980]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.27.23:892][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001707s)
+[2019.04.07-03.27.23:893][980]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.27.23:893][980]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.04.07-03.27.23:893][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002535s)
+[2019.04.07-03.27.23:950][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.04.07-03.27.23:967][980]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.27.23:993][980]LogInit: FAudioDevice initialized.
+[2019.04.07-03.27.23:999][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.27.24:036][980]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.27.24:037][980]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.27.24
+[2019.04.07-03.27.24:037][980]LogWorld: Bringing up level for play took: 0.000403
+[2019.04.07-03.27.24:049][980]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.27.24:051][980]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0,722
+[2019.04.07-03.27.24:052][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.30:971][371]LogRenderer: Reallocating scene render targets to support 1580x728 Format 10 NumSamples 1 (Frame:479).
+[2019.04.07-03.27.31:027][371]LogRenderer: Reallocating scene render targets to support 1580x732 Format 10 NumSamples 1 (Frame:480).
+[2019.04.07-03.27.32:001][371]LogRenderer: Reallocating scene render targets to support 1580x760 Format 10 NumSamples 1 (Frame:506).
+[2019.04.07-03.27.32:054][371]LogRenderer: Reallocating scene render targets to support 1580x820 Format 10 NumSamples 1 (Frame:507).
+[2019.04.07-03.27.32:109][371]LogRenderer: Reallocating scene render targets to support 1580x856 Format 10 NumSamples 1 (Frame:508).
+[2019.04.07-03.27.32:165][371]LogRenderer: Reallocating scene render targets to support 1580x880 Format 10 NumSamples 1 (Frame:509).
+[2019.04.07-03.27.32:222][371]LogRenderer: Reallocating scene render targets to support 1580x900 Format 10 NumSamples 1 (Frame:510).
+[2019.04.07-03.27.32:872][371]LogRenderer: Reallocating scene render targets to support 1588x900 Format 10 NumSamples 1 (Frame:523).
+[2019.04.07-03.27.32:928][371]LogRenderer: Reallocating scene render targets to support 1596x900 Format 10 NumSamples 1 (Frame:524).
+[2019.04.07-03.27.38:341][494]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.27.38:344][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.38:374][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.27.38:375][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.27.38:444][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.04.07-03.27.38:457][495]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.04.07-03.29.35:146][ 73]BlueprintLog: New page: Compile MainMenuUI
+[2019.04.07-03.29.35:210][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.04.07-03.29.36:130][166]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.29.36:169][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.29.36:169][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.29.36:169][166]PIE: New page: PIE session: MainMenu (6/04/2019 5:29:36 p. m.)
+[2019.04.07-03.29.36:169][166]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.29.36:170][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000980s)
+[2019.04.07-03.29.36:171][166]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.29.36:171][166]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2019.04.07-03.29.36:171][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001666s)
+[2019.04.07-03.29.36:234][166]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.04.07-03.29.36:251][166]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.29.36:276][166]LogInit: FAudioDevice initialized.
+[2019.04.07-03.29.36:284][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.29.36:314][166]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.29.36:315][166]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.29.36
+[2019.04.07-03.29.36:316][166]LogWorld: Bringing up level for play took: 0.000393
+[2019.04.07-03.29.36:329][166]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.29.36:332][166]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0,442
+[2019.04.07-03.29.36:332][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.29.40:963][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.29.41:059][647]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.29.41:062][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.29.41:093][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.29.41:094][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.29.41:164][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.04.07-03.29.41:180][648]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.04.07-03.31.26:217][599]LogFactory: Error: Can't find file 'ironforge.ttf' for import
+[2019.04.07-03.31.30:702][599]LogSlate: Window 'Message' being destroyed
+[2019.04.07-03.31.30:706][599]LogAssetTools: Warning: Failed to import 'ironforge.ttf'. Failed to create asset '/Game/ironforge'.
+Please see Output Log for details.
+[2019.04.07-03.31.41:341][847]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\ELGRA\Desktop\ironforge.ttf)
+[2019.04.07-03.31.44:423][847]LogSlate: Window 'Font Face Import Options' being destroyed
+[2019.04.07-03.31.44:494][847]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2019.04.07-03.31.44:585][848]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.07-03.31.44:586][848]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.07-03.31.44:591][848]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.07-03.31.44:593][848]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.07-03.31.47:059][137]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.07-03.31.47:104][138]LogSlate: Took 0.037632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.07-03.31.48:140][262]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.07-03.32.12:054][ 89]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 3242
+[2019.04.07-03.32.12:065][ 90]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.07-03.32.12:070][ 90]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.07-03.32.12:070][ 90]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.07-03.32.12:072][ 90]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.07-03.32.12:074][ 90]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.07-03.32.46:619][955]LogEditorTransaction: Undo Move Widget
+[2019.04.07-03.32.57:236][807]BlueprintLog: New page: Compile MainMenuUI
+[2019.04.07-03.32.57:300][807]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2019.04.07-03.32.57:977][874]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.32.58:016][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.32.58:016][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.32.58:016][874]PIE: New page: PIE session: MainMenu (6/04/2019 5:32:58 p. m.)
+[2019.04.07-03.32.58:016][874]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.32.58:018][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001570s)
+[2019.04.07-03.32.58:018][874]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.32.58:019][874]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2019.04.07-03.32.58:019][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002633s)
+[2019.04.07-03.32.58:076][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.04.07-03.32.58:094][874]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.32.58:118][874]LogInit: FAudioDevice initialized.
+[2019.04.07-03.32.58:124][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.32.58:160][874]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.32.58:162][874]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.32.58
+[2019.04.07-03.32.58:162][874]LogWorld: Bringing up level for play took: 0.000657
+[2019.04.07-03.32.58:174][874]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.32.58:177][874]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0,597
+[2019.04.07-03.32.58:177][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.33.04:004][ 96]LogRenderer: Reallocating scene render targets to support 1596x904 Format 10 NumSamples 1 (Frame:308).
+[2019.04.07-03.33.05:655][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.33.05:755][211]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.33.05:759][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.33.05:788][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.33.05:789][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.33.05:859][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.04.07-03.33.05:874][212]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.04.07-03.34.02:925][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.04.07-03.34.02:925][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/MainMenu_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.07-03.34.03:175][771]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MainMenu_Auto29EF962654C7EA182A4825E973DCF7826.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/MainMenu_Auto2.umap'
+[2019.04.07-03.34.03:180][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu' took 0.308
+[2019.04.07-03.34.03:180][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.308
+[2019.04.07-03.34.03:183][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tank/PlayerTankController] ([1] browsable assets)...
+[2019.04.07-03.34.03:183][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/PlayerTankController]
+[2019.04.07-03.34.03:206][771]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/PlayerTankController_Auto21BC741CA4F1E1D6A76604DBCBBA31759.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/Tank/PlayerTankController_Auto2.uasset'
+[2019.04.07-03.34.03:209][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenuUI] ([1] browsable assets)...
+[2019.04.07-03.34.03:209][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenuUI]
+[2019.04.07-03.34.03:209][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/MainMenuUI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.07-03.34.03:254][771]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MainMenuUI_Auto23FAC9A2E45D21714A665BB986CCDE2D2.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/MainMenuUI_Auto2.uasset'
+[2019.04.07-03.34.03:257][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ironforge] ([1] browsable assets)...
+[2019.04.07-03.34.03:257][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/ironforge]
+[2019.04.07-03.34.03:257][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ironforge" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/ironforge_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.07-03.34.03:281][771]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/ironforge_Auto2C026C5AC45E8C100A57BA48C0D70E3A5.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/ironforge_Auto2.uasset'
+[2019.04.07-03.34.03:283][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ironforge_Font] ([1] browsable assets)...
+[2019.04.07-03.34.03:294][771]OBJ SavePackage:     Rendered thumbnail for [Font /Game/ironforge_Font.ironforge_Font]
+[2019.04.07-03.34.03:294][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/ironforge_Font]
+[2019.04.07-03.34.03:294][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ironforge_Font" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/ironforge_Font_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.07-03.34.03:339][771]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/ironforge_Font_Auto2A62B0A414F5C329B0A7A4FB5D5FEC19A.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Autosaves/Game/ironforge_Font_Auto2.uasset'
+[2019.04.07-03.34.03:341][771]LogFileHelpers: Auto-saving content packages took 0.160
+[2019.04.07-03.34.54:343][548]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.07-03.34.58:130][947]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.07-03.35.03:519][533]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.07-03.35.04:977][697]BlueprintLog: New page: Compile MainMenuUI
+[2019.04.07-03.35.05:044][697]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2019.04.07-03.35.06:869][893]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.35.06:906][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.35.06:907][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.35.06:907][893]PIE: New page: PIE session: MainMenu (6/04/2019 5:35:06 p. m.)
+[2019.04.07-03.35.06:907][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.35.06:908][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000989s)
+[2019.04.07-03.35.06:908][893]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.35.06:908][893]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.04.07-03.35.06:908][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001598s)
+[2019.04.07-03.35.06:966][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.04.07-03.35.06:984][893]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.35.07:008][893]LogInit: FAudioDevice initialized.
+[2019.04.07-03.35.07:013][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.35.07:042][893]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.35.07:043][893]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.35.07
+[2019.04.07-03.35.07:043][893]LogWorld: Bringing up level for play took: 0.000445
+[2019.04.07-03.35.07:055][893]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.07-03.35.07:058][893]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0,284
+[2019.04.07-03.35.07:058][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.35.09:618][113]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 17024
+[2019.04.07-03.35.09:644][113]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.07-03.35.17:438][113]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.07-03.35.17:439][113]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.07-03.35.17:440][113]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.07-03.35.17:442][113]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.07-03.35.26:464][786]LogSlate: Window 'TanksGrounds Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.07-03.35.26:701][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.35.26:736][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.35.26:736][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.35.26:811][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.04.07-03.35.27:033][787]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.04.07-03.35.28:036][790]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.07-03.35.31:315][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.07-03.35.31:378][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.04.07-03.35.31:612][162]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MainMenuB2E0E9124FECF8614D1F0DA8E5EAFD3E.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap'
+[2019.04.07-03.36.00:371][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.04.07-03.36.00:385][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/PlayerTankController" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerTankController.uasset" SILENT=true
+[2019.04.07-03.36.00:403][ 34]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/PlayerTankController176B56914FB5C4C002E85B99B0CAF5A7.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerTankController.uasset'
+[2019.04.07-03.36.00:413][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenuUI.uasset" SILENT=true
+[2019.04.07-03.36.00:468][ 34]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MainMenuUID81AAEBB49E304AEDACA88950FC7DE7F.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenuUI.uasset'
+[2019.04.07-03.36.00:479][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ironforge" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/ironforge.uasset" SILENT=true
+[2019.04.07-03.36.00:510][ 34]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/ironforgeA372A1C744D25990C116FFBD98B7F778.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/ironforge.uasset'
+[2019.04.07-03.36.00:520][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ironforge_Font" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/ironforge_Font.uasset" SILENT=true
+[2019.04.07-03.36.00:542][ 34]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/ironforge_Font887946A9460B34F9740096B906E11B05.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/ironforge_Font.uasset'
