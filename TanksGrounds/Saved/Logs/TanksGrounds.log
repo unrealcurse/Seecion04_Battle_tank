@@ -853,3 +853,213 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.07-03.05.32:025][146]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGroundsDD4BD7F94FC21172852D67BEFD3F3F25.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
 [2019.04.07-03.05.32:114][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
 [2019.04.07-03.05.35:763][146]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltData8140CF85484C413C4311C2A69BD67CCA.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
+[2019.04.07-03.11.41:486][168]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ELGRA\Downloads\BT17-Firing-M1A1-tank-in-Djibouti.jpg)
+[2019.04.07-03.11.41:915][168]LogTexture: Display: Building textures: BT17-Firing-M1A1-tank-in-Djibouti (BGRA8, 3609X2067)
+[2019.04.07-03.12.43:134][594]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2019.04.07-03.12.43:302][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.04.07-03.12.45:040][594]LogSlate: Window 'Save Content' being destroyed
+[2019.04.07-03.12.45:117][594]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MyTanksGroundsGameModeBase1545334343748A0F5D0769A647924048.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Blueprints/MyTanksGroundsGameModeBase.uasset'
+[2019.04.07-03.12.45:163][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BT17-Firing-M1A1-tank-in-Djibouti" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/BT17-Firing-M1A1-tank-in-Djibouti.uasset" SILENT=true
+[2019.04.07-03.12.46:329][594]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/BT17-Firing-M1A1-tank-in-DjiboutFB20C2054F9300757D541B9372FE9BBA.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/BT17-Firing-M1A1-tank-in-Djibouti.uasset'
+[2019.04.07-03.12.46:335][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.07-03.12.46:389][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.04.07-03.12.46:441][594]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MainMenu4F736CE74BCAD43D47D60E95A14C1A72.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap'
+[2019.04.07-03.12.46:448][594]LogFileHelpers: Saving map 'MainMenu' took 0.113
+[2019.04.07-03.12.46:448][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerTankController" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/PlayerTankController.uasset" SILENT=true
+[2019.04.07-03.12.46:477][594]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/PlayerTankController929190F14BF724C0D88156853EC20418.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/PlayerTankController.uasset'
+[2019.04.07-03.12.46:483][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerUI" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/PlayerUI.uasset" SILENT=true
+[2019.04.07-03.12.46:496][594]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/PlayerUI22A4247C4E7583AB192CC79AE8D16575.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/PlayerUI.uasset'
+[2019.04.07-03.12.46:503][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank_BP" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank_BP.uasset" SILENT=true
+[2019.04.07-03.12.46:544][594]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BPA5E3ADB0411E47918AF426A57136450D.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank_BP.uasset'
+[2019.04.07-03.12.46:564][594]Cmd: MAP LOAD FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.07-03.12.46:564][594]LightingResults: New page: Lighting Build
+[2019.04.07-03.12.46:565][594]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.07-03.12.46:580][594]MapCheck: New page: Map Check
+[2019.04.07-03.12.46:580][594]LightingResults: New page: Lighting Build
+[2019.04.07-03.12.46:747][594]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.04.07-03.12.46:748][594]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.07-03.12.46:748][594]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.12.46:803][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.04.07-03.12.46:847][594]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.07-03.12.46:847][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2019.04.07-03.12.46:848][594]LogFileHelpers: Loading map 'MainMenu' took 0.293
+[2019.04.07-03.12.49:274][842]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.07-03.12.49:345][842]LogAssetEditorManager: Opening Asset editor for World /Game/TanksGrounds.TanksGrounds
+[2019.04.07-03.12.49:401][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.04.07-03.12.49:402][842]Cmd: MAP LOAD FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.07-03.12.49:402][842]LightingResults: New page: Lighting Build
+[2019.04.07-03.12.49:403][842]LoadErrors: New page: Loading map: TanksGrounds.umap
+[2019.04.07-03.12.49:403][842]MapCheck: New page: Map Check
+[2019.04.07-03.12.49:403][842]LightingResults: New page: Lighting Build
+[2019.04.07-03.12.49:456][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.04.07-03.12.49:636][842]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.07-03.12.49:692][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.04.07-03.12.49:718][842]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.07-03.12.49:718][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2019.04.07-03.12.49:718][842]LogFileHelpers: Loading map 'TanksGrounds' took 0.316
+[2019.04.07-03.12.51:770][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.12.51:923][ 69]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.12.51:925][ 69]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2019.04.07-03.12.51:977][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.04.07-03.12.51:979][ 69]Cmd: MAP LOAD FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.07-03.12.51:979][ 69]LightingResults: New page: Lighting Build
+[2019.04.07-03.12.51:979][ 69]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.07-03.12.51:980][ 69]MapCheck: New page: Map Check
+[2019.04.07-03.12.51:980][ 69]LightingResults: New page: Lighting Build
+[2019.04.07-03.12.52:040][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.04.07-03.12.52:041][ 69]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.07-03.12.52:095][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.04.07-03.12.52:119][ 69]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.07-03.12.52:119][ 69]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2019.04.07-03.12.52:119][ 69]LogFileHelpers: Loading map 'MainMenu' took 0.141
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.SKEL_PlayerUI_C' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.PlayerUI_C' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.PlayerUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.PlayerUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.PlayerUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.PlayerUI_C:AimPoint' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.SKEL_PlayerUI_C:AimPoint' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.SKEL_PlayerUI_C:Tick' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.SKEL_PlayerUI_C:Construct' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:951][870]LogMetaData: Removing '/Game/Tank/PlayerUI.SKEL_PlayerUI_C:PreConstruct' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2019.04.07-03.13.08:968][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/PlayerUI" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset" SILENT=true
+[2019.04.07-03.13.09:021][870]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/PlayerUI04D82E6B44DCC74D2E9CCC89C60CD94B.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset'
+[2019.04.07-03.13.09:290][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.04.07-03.13.09:342][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.04.07-03.13.09:387][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.04.07-03.13.09:396][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerTankController" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/PlayerTankController.uasset" SILENT=true
+[2019.04.07-03.13.09:417][870]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/PlayerTankControllerB6B7051B4BFEFD42F10C208EDC9DCC73.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/PlayerTankController.uasset'
+[2019.04.07-03.13.12:341][210]LogMetaData: Removing '/Game/Tank/PlayerTankController.PlayerTankController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PlayerTankController.PackageMetaData'
+[2019.04.07-03.13.12:341][210]LogMetaData: Removing '/Game/Tank/PlayerTankController.SKEL_PlayerTankController_C' ref from Metadata '/Game/PlayerTankController.PackageMetaData'
+[2019.04.07-03.13.12:341][210]LogMetaData: Removing '/Game/Tank/PlayerTankController.PlayerTankController_C' ref from Metadata '/Game/PlayerTankController.PackageMetaData'
+[2019.04.07-03.13.12:341][210]LogMetaData: Removing '/Game/Tank/PlayerTankController.PlayerTankController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PlayerTankController.PackageMetaData'
+[2019.04.07-03.13.12:341][210]LogMetaData: Removing '/Game/Tank/PlayerTankController.PlayerTankController_C:ReceiveBeginPlay' ref from Metadata '/Game/PlayerTankController.PackageMetaData'
+[2019.04.07-03.13.12:341][210]LogMetaData: Removing '/Game/Tank/PlayerTankController.SKEL_PlayerTankController_C:ReceiveBeginPlay' ref from Metadata '/Game/PlayerTankController.PackageMetaData'
+[2019.04.07-03.13.12:341][210]LogMetaData: Removing '/Game/Tank/PlayerTankController.SKEL_PlayerTankController_C:UserConstructionScript' ref from Metadata '/Game/PlayerTankController.PackageMetaData'
+[2019.04.07-03.13.12:356][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/PlayerTankController" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerTankController.uasset" SILENT=true
+[2019.04.07-03.13.12:371][210]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/PlayerTankControllerF2B5C74B4ED6E3AF9ED9A58410F30E03.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerTankController.uasset'
+[2019.04.07-03.13.12:579][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.04.07-03.13.12:629][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.04.07-03.13.12:674][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.04.07-03.13.12:729][210]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MyTanksGroundsGameModeBaseBF4C5FF449358553C6A3E9AFAA83FDA1.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Blueprints/MyTanksGroundsGameModeBase.uasset'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:083][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:ReceiveTick' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:InpAxisEvt_AimAzimuth_K2Node_InputAxisEvent_0' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:InpAxisEvt_AimElevetion_K2Node_InputAxisEvent_1' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:Turrent' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:Barrier' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:Lefft_Track' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:Right_track' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:Tank' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:Camera' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:Azimuth Gimball' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:SpringArm' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C:UserConstructionScript' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:Turrent' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:Barrier' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:Lefft_Track' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:Right_track' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:Tank' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:Camera' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:Azimuth Gimball' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:084][480]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C:SpringArm' ref from Metadata '/Game/Tank_BP.PackageMetaData'
+[2019.04.07-03.13.15:109][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/Tank_BP.uasset" SILENT=true
+[2019.04.07-03.13.15:147][480]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP0535F6D547F982C4DD53A79B70F1CEFF.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank/Tank_BP.uasset'
+[2019.04.07-03.13.15:155][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank_BP" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank_BP.uasset" SILENT=true
+[2019.04.07-03.13.15:164][480]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP4BB224C44444502B5E013E8F68DCFDE0.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Tank_BP.uasset'
+[2019.04.07-03.13.35:180][786]LogEditorViewport: Clicking Background
+[2019.04.07-03.13.39:069][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.14.24:366][ 50]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.04.07-03.15.15:523][ 16]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenuUI.MainMenuUI
+[2019.04.07-03.17.23:434][369]BlueprintLog: New page: Compile MainMenuUI
+[2019.04.07-03.17.23:684][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.04.07-03.17.51:418][577]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.07-03.18.14:375][291]BlueprintLog: New page: Compile MainMenu
+[2019.04.07-03.18.14:627][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.04.07-03.18.17:358][615]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.18.17:394][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.18.17:394][615]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.07-03.18.17:395][615]LogPlayLevel: [PlayLevel] Compiling PlayerTankController before play...
+[2019.04.07-03.18.17:646][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.04.07-03.18.17:646][615]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2019.04.07-03.18.17:646][615]PIE: New page: PIE session: MainMenu (6/04/2019 5:18:17 p. m.)
+[2019.04.07-03.18.17:646][615]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.04.07-03.18.17:648][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2019.04.07-03.18.17:648][615]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.07-03.18.17:648][615]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.04.07-03.18.17:648][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002039s)
+[2019.04.07-03.18.17:699][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.04.07-03.18.17:715][615]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.18.17:739][615]LogInit: FAudioDevice initialized.
+[2019.04.07-03.18.17:766][615]LogLoad: Game class is 'GameModeBase'
+[2019.04.07-03.18.17:767][615]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-22.18.17
+[2019.04.07-03.18.17:767][615]LogWorld: Bringing up level for play took: 0.000323
+[2019.04.07-03.18.17:780][615]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 1,007
+[2019.04.07-03.18.17:780][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.18.23:611][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.18.23:611][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.18.23:655][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.18.23:655][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.07-03.18.23:710][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.18.23:716][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.04.07-03.18.23:737][289]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.07-03.18.56:156][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.18.56:296][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.07-03.18.56:361][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.04.07-03.18.56:612][502]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MainMenuB727ECF74DFF8202AE24FAAE0C2E2836.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenu.umap'
+[2019.04.07-03.18.59:695][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.18.59:959][842]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.07-03.19.00:087][842]LogAssetEditorManager: Opening Asset editor for World /Game/TanksGrounds.TanksGrounds
+[2019.04.07-03.19.00:146][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.04.07-03.19.01:645][842]LogSlate: Window 'Save Content' being destroyed
+[2019.04.07-03.19.01:676][842]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MyTanksGroundsGameModeBase28B5CD7142EB20B392C67E8FE9734568.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/Blueprints/MyTanksGroundsGameModeBase.uasset'
+[2019.04.07-03.19.01:682][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenuUI.uasset" SILENT=true
+[2019.04.07-03.19.01:697][842]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/MainMenuUI4C8C37AF4B81058285AB99B95A43A1D2.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/MainMenuUI.uasset'
+[2019.04.07-03.19.01:703][842]Cmd: MAP LOAD FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.07-03.19.01:704][842]LightingResults: New page: Lighting Build
+[2019.04.07-03.19.01:704][842]LoadErrors: New page: Loading map: TanksGrounds.umap
+[2019.04.07-03.19.01:957][842]MapCheck: New page: Map Check
+[2019.04.07-03.19.01:957][842]LightingResults: New page: Lighting Build
+[2019.04.07-03.19.02:015][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.04.07-03.19.02:201][842]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.07-03.19.02:258][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.04.07-03.19.02:288][842]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.07-03.19.02:289][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,126ms to complete.
+[2019.04.07-03.19.02:289][842]LogFileHelpers: Loading map 'TanksGrounds' took 0.586
+[2019.04.07-03.19.04:163][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.07-03.19.04:210][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.07-03.19.04:210][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.07-03.19.04:210][ 39]PIE: New page: PIE session: TanksGrounds (6/04/2019 5:19:04 p. m.)
+[2019.04.07-03.19.04:210][ 39]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.04.07-03.19.04:331][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121017s)
+[2019.04.07-03.19.04:332][ 39]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.04.07-03.19.04:332][ 39]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2019.04.07-03.19.04:332][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.122120s)
+[2019.04.07-03.19.04:393][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.04.07-03.19.04:411][ 39]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.07-03.19.04:438][ 39]LogInit: FAudioDevice initialized.
+[2019.04.07-03.19.04:469][ 39]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.04.07-03.19.04:472][ 39]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.04.06-22.19.04
+[2019.04.07-03.19.04:473][ 39]LogWorld: Bringing up level for play took: 0.002634
+[2019.04.07-03.19.04:487][ 39]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,286
+[2019.04.07-03.19.04:487][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.07-03.19.07:205][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.07-03.19.07:205][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.19.07:245][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.07-03.19.07:246][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.04.07-03.19.07:307][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.07-03.19.07:313][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.04.07-03.19.07:345][352]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.07-03.19.37:355][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.07-03.19.37:573][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.07-03.19.37:629][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.04.07-03.19.38:726][935]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds509741F44C150A5FEDE09FBD454D2323.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
+[2019.04.07-03.19.38:766][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TanksGrounds_BuiltData" FILE="E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset" SILENT=true
+[2019.04.07-03.19.41:924][935]LogSavePackage: Moving 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds_BuiltData0415C99242D5855A4687C48B6AD2C027.tmp' to 'E:/Unreal Proyects/Curso/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds_BuiltData.uasset'
