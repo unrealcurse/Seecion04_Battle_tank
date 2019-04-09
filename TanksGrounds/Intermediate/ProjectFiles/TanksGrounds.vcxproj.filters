@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TanksGrounds.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A0DA8B7F-0B89-44F4-82C2-0DA9D308CF15}</UniqueIdentifier>
+      <UniqueIdentifier>{BF3C51B5-F1E9-4EF1-8C6C-FC5CCD4BCDCC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TanksGrounds.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{74E31AF5-5C1E-4F1D-BFE9-37195BB6F059}</UniqueIdentifier>
+      <UniqueIdentifier>{5D351C6E-49A5-4ED7-B921-A27A858E3262}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,7 +28,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TanksGrounds">
-      <UniqueIdentifier>{41431441-3CD4-45AF-AB20-D2863021194B}</UniqueIdentifier>
+      <UniqueIdentifier>{C5E324B8-55AF-47A0-8D81-5EE79E85F5DF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TanksGrounds\TanksGrounds.Build.cs">
       <Filter>Source\TanksGrounds</Filter>
@@ -46,26 +46,28 @@
       <Filter>Source\TanksGrounds</Filter>
     </ClInclude>
     <Filter Include="Source\TanksGrounds\Private">
-      <UniqueIdentifier>{3F08C24D-5A0E-42EE-9F2C-565364FBAC2E}</UniqueIdentifier>
+      <UniqueIdentifier>{CCD75163-08E2-4818-88DF-78A91C32DB3E}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TanksGrounds\Private\Tank.cpp">
+      <Filter>Source\TanksGrounds\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TanksGrounds\Private\TankAIController.cpp">
+      <Filter>Source\TanksGrounds\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\TanksGrounds\Private\TankPlayerController.cpp">
       <Filter>Source\TanksGrounds\Private</Filter>
     </ClCompile>
     <Filter Include="Source\TanksGrounds\Public">
-      <UniqueIdentifier>{157D3C40-923C-44AF-BDB8-3658BFF37A87}</UniqueIdentifier>
+      <UniqueIdentifier>{684D29AA-41F5-429A-818F-C83B9AD6FF8D}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\TanksGrounds\Public\TankPlayerController.h">
-      <Filter>Source\TanksGrounds\Public</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="..\..\Source\TanksGrounds\Public\Tank.h">
       <Filter>Source\TanksGrounds\Public</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\TanksGrounds\Private\Tank.cpp">
-      <Filter>Source\TanksGrounds\Private</Filter>
-    </ClCompile>
+    <ClInclude Include="..\..\Source\TanksGrounds\Public\TankAIController.h">
+      <Filter>Source\TanksGrounds\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TanksGrounds\Public\TankPlayerController.h">
+      <Filter>Source\TanksGrounds\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
