@@ -4,8 +4,8 @@
 #include "GameFramework/Actor.h"
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "Engine/Classes/Components/StaticMeshComponent.h"
 #include "TankAimingComponent.generated.h"
-
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class TANKSGROUNDS_API UTankAimingComponent : public UActorComponent
@@ -24,6 +24,12 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+
+	void SetBarrrerReference(UStaticMeshComponent* BarrelToset);
+
 	void AimAt(FVector WordSpaceAim);
+
+private:
+	UStaticMeshComponent* Barrel = nullptr;
 		
 };

@@ -21,13 +21,16 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	void AimAt(FVector HitLocation);
+	UFUNCTION(BlueprintCallable, Category = Setup)
+		void SetBarrelReferece(UStaticMeshComponent* BArrelTOset);
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 	UTankAimingComponent* TankAimingComponent = nullptr;
-    
 
+private:
+	UStaticMeshComponent* Barrel = nullptr;
 
 };
