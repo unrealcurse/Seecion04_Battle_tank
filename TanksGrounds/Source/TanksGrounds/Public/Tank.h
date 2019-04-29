@@ -33,4 +33,7 @@ protected:
 private:
 	UStaticMeshComponent* Barrel = nullptr;
 
+	UPROPERTY(EditAnywhere, Category = Firing)
+		float LaunchSpeed = 10000;
+
 };

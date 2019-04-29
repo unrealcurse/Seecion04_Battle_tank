@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeTanksGrounds_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xA82B338F,
+				0x8ACAB6CE,
 				0x39395E1C,
 				METADATA_PARAMS(nullptr, 0)
 			};
