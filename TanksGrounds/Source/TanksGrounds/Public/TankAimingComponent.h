@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
+#include "Engine/Classes/Kismet/GameplayStatics.h"
 #include "GameFramework/Actor.h"
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
@@ -17,12 +17,9 @@ public:
 	UTankAimingComponent();
 
 protected:
-	// Called when the game starts
-	virtual void BeginPlay() override;
+
 
 public:	
-	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 
 	void SetBarrrerReference(UStaticMeshComponent* BarrelToset);
@@ -31,5 +28,5 @@ public:
 
 private:
 	UStaticMeshComponent* Barrel = nullptr;
-		
+	void MoveBarrel(FVector AimDirrection);
 };
