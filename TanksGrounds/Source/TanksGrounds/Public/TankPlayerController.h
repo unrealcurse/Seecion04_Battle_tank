@@ -1,14 +1,14 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
-#include "Engine/World.h"
+
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
-#include "Tank.h"
+
 #include "TankPlayerController.generated.h"
-/**
- *
- */
+
+class ATank;
+
 UCLASS()
 class TANKSGROUNDS_API ATankPlayerController : public APlayerController
 {

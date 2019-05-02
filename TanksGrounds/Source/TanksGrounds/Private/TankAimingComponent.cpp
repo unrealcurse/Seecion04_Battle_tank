@@ -33,6 +33,9 @@ void UTankAimingComponent::AimAt(FVector HitLocation, float launchSpeed)
 		StarLocation,
 		HitLocation,
 		launchSpeed,
+		false,
+		0,
+		0,
 		ESuggestProjVelocityTraceOption::DoNotTrace	);
 	if (bHaveAimSolution)
 	{
