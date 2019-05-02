@@ -74,9 +74,15 @@
     <ClInclude Include="..\..\Source\TanksGrounds\Public\TankAimingComponent.h">
       <Filter>Source\TanksGrounds\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\TanksGrounds\Public\TankBarrel.h">
+      <Filter>Source\TanksGrounds\Public</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\TanksGrounds\Private\TankAimingComponent.cpp">
+      <Filter>Source\TanksGrounds\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TanksGrounds\Private\TankBarrel.cpp">
       <Filter>Source\TanksGrounds\Private</Filter>
     </ClCompile>
   </ItemGroup>

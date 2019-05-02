@@ -6,7 +6,7 @@
 #include "Components/ActorComponent.h"
 #include "Engine/Classes/Components/StaticMeshComponent.h"
 #include "TankAimingComponent.generated.h"
-
+class UTankBarrel;
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class TANKSGROUNDS_API UTankAimingComponent : public UActorComponent
 {
@@ -22,11 +22,11 @@ protected:
 public:	
 
 
-	void SetBarrrerReference(UStaticMeshComponent* BarrelToset);
+	void SetBarrrerReference(UTankBarrel* BarrelToset);
 
 	void AimAt(FVector WordSpaceAim,float launchSpeed);
 
 private:
-	UStaticMeshComponent* Barrel = nullptr;
+	UTankBarrel* Barrel = nullptr;
 	void MoveBarrel(FVector AimDirrection);
 };
