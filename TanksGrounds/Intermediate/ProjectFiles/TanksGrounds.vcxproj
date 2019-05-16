@@ -472,11 +472,15 @@
     <None Include="..\..\Config\DefaultGame.ini" />
     <None Include="..\..\Config\DefaultInput.ini" />
     <None Include="..\..\Source\TanksGrounds\TanksGrounds.Build.cs" />
+    <ClCompile Include="..\..\Source\TanksGrounds\Private\Projectile.cpp" />
     <ClCompile Include="..\..\Source\TanksGrounds\Private\TankAimingComponent.cpp" />
     <ClCompile Include="..\..\Source\TanksGrounds\Private\TankBarrel.cpp" />
+    <ClCompile Include="..\..\Source\TanksGrounds\Private\TankTurret.cpp" />
     <ClCompile Include="..\..\Source\TanksGrounds\TanksGrounds.cpp" />
+    <ClInclude Include="..\..\Source\TanksGrounds\Public\Projectile.h" />
     <ClInclude Include="..\..\Source\TanksGrounds\Public\TankAimingComponent.h" />
     <ClInclude Include="..\..\Source\TanksGrounds\Public\TankBarrel.h" />
+    <ClInclude Include="..\..\Source\TanksGrounds\Public\TankTurret.h" />
     <ClInclude Include="..\..\Source\TanksGrounds\TanksGrounds.h" />
     <ClCompile Include="..\..\Source\TanksGrounds\TanksGroundsGameModeBase.cpp" />
     <ClInclude Include="..\..\Source\TanksGrounds\TanksGroundsGameModeBase.h" />

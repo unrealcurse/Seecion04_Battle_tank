@@ -25,4 +25,6 @@ private:
 		float  MaxElevationDegress = 40;
 	UPROPERTY(EditAnywhere, Category = Setup)
 		float  MinElevationDegress = 0;
+	UPROPERTY(EditAnywhere, Category = Setup)
+		UStaticMesh*  asset ;
 };
