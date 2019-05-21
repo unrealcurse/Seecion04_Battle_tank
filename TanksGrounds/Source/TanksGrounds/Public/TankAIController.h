@@ -14,14 +14,12 @@ class TANKSGROUNDS_API ATankAIController : public AAIController
 {
 	GENERATED_BODY()
 
-public:
-	ATank* GetControlledTank() const;
+
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 	virtual void Tick(float DeltaTime) override;
 
-private:
-	ATank* GetPlayerTank() const;
+
 };

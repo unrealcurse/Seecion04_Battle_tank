@@ -38,10 +38,16 @@ protected:
 private:
 	UStaticMeshComponent* Barrel = nullptr;
 
-	UPROPERTY(EditAnywhere, Category = Firing)
+	UPROPERTY(EditDefaultsOnly, Category = Firing)
 		float LaunchSpeed = 10000;
-	UPROPERTY(EditAnywhere, Category = Setup)
+	UPROPERTY(EditDefaultsOnly, Category = Setup)
 		TSubclassOf<AProjectile> ProjectileBluePrint;
 
+	UPROPERTY(EditDefaultsOnly, Category = Firing)
+		float ReloadTimeInseconds = 3;
 	UTankBarrel* barrels = nullptr;
+
+	
+
+	double LastFireTime = 0;
 };
