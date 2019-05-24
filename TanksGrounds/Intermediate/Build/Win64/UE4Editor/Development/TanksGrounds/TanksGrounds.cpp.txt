@@ -1,2 +1,2 @@
-E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\Definitions.TanksGrounds.h
-e:\unreal proyects\curso\seecion04_battle_tank\tanksgrounds\source\tanksgrounds\TanksGrounds.h
+C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\Definitions.TanksGrounds.h
+c:\users\elgra\documents\unreal projects\seecion04_battle_tank\tanksgrounds\source\tanksgrounds\TanksGrounds.h

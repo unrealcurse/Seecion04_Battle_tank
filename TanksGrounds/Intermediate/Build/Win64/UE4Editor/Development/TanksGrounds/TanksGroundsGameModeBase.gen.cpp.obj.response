@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I "E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private"
+/I "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -427,22 +427,22 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Inc\TanksGrounds"
-/I "E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Source"
-/I "E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Public"
-/I "E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds"
+/I "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Inc\TanksGrounds"
+/I "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source"
+/I "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Public"
+/I "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds"
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Inc\TanksGrounds\TanksGroundsGameModeBase.gen.cpp"
-/FI"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\Definitions.TanksGrounds.h"
-/Fo"E:\Unreal Proyects\Curso\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\TanksGroundsGameModeBase.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Inc\TanksGrounds\TanksGroundsGameModeBase.gen.cpp"
+/FI"C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\Definitions.TanksGrounds.h"
+/Fo"C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\TanksGroundsGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
