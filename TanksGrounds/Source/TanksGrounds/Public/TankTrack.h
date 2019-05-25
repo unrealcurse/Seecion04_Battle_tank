@@ -18,4 +18,7 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = Setup)
 	void SetThrottle(float Throttle);
+
+	UPROPERTY(EditDefaultsOnly)
+		float TrackMaxDrivingForce = 4000000;
 };

@@ -100,4 +100,14 @@
       <Filter>Source\TanksGrounds\Public</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TanksGrounds\Public\TankMovementComponent.h">
+      <Filter>Source\TanksGrounds\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TanksGrounds\Private\TankMovementComponent.cpp">
+      <Filter>Source\TanksGrounds\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
