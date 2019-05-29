@@ -6,6 +6,7 @@ class AProjectile;
 class UTankTurret;
 class UTankBarrel;
 class UTankAimingComponent;
+class UTankMovementComponent;
 UCLASS()
 class TANKSGROUNDS_API ATank : public APawn
 {
@@ -28,12 +29,16 @@ public:
 	UFUNCTION(BlueprintCallable, Category = action)
 		void fire();
 
+		
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 	UTankAimingComponent* TankAimingComponent = nullptr;
+
+	UPROPERTY(BlueprintReadOnly)
+		UTankMovementComponent* TankMovementComponent = nullptr;
 
 private:
 	UStaticMeshComponent* Barrel = nullptr;
@@ -47,7 +52,6 @@ private:
 		float ReloadTimeInseconds = 3;
 	UTankBarrel* barrels = nullptr;
 
-	
 
 	double LastFireTime = 0;
 };

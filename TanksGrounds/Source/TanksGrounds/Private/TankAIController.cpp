@@ -18,6 +18,7 @@ void ATankAIController::Tick(float DeltaTime)
 	auto ControllTank = Cast<ATank>(GetPawn());
 	if (tank && ControllTank)
 	{
+		MoveToActor(tank, AcceptaincRaidus);
 		ControllTank->AimAt(tank->GetActorLocation());
 		ControllTank->fire();
 	}
