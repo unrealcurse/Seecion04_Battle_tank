@@ -5,6 +5,15 @@
 #include "Components/ActorComponent.h"
 #include "Engine/Classes/Components/StaticMeshComponent.h"
 #include "TankAimingComponent.generated.h"
+UENUM()
+enum class EFiringState :uint8
+{
+	Reloading,
+	Aiming,
+	Lock,
+	default
+	
+};
 class UTankTurret;
 class UTankBarrel;
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
@@ -17,7 +26,8 @@ public:
 	UTankAimingComponent();
 
 protected:
-
+	UPROPERTY(BlueprintReadOnly, Category = "State")
+		EFiringState FiringState = EFiringState::Reloading;
 
 public:	
 
@@ -33,3 +43,4 @@ private:
 	UTankTurret* Turrent = nullptr;
 	void MoveBarrel(FVector AimDirrection);
 };
+

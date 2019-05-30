@@ -17,11 +17,14 @@ class TANKSGROUNDS_API ATankPlayerController : public APlayerController
 
 public:
 
-	ATank* GetControlledTank() const;
 
 	virtual void BeginPlay() override;
 
 	virtual void Tick(float DeltaTime) override;
+
+protected:
+   UFUNCTION(BlueprintCallable,Category = "Setup" )
+     ATank* GetControlledTank() const;
 
 private:
 
