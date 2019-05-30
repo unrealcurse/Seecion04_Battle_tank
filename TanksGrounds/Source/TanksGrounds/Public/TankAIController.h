@@ -21,5 +21,5 @@ protected:
 	virtual void BeginPlay() override;
 	virtual void Tick(float DeltaTime) override;
 
-	float AcceptaincRaidus = 3000;
+	float AcceptaincRaidus = 300;
 };
