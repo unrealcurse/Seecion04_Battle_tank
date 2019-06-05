@@ -28,13 +28,10 @@ public:
 protected:
 	UPROPERTY(BlueprintReadOnly, Category = "State")
 		EFiringState FiringState = EFiringState::Reloading;
-
+	UFUNCTION(BlueprintCallable, Category = Setup)
+		void Initialize(UTankBarrel * barrel, UTankTurret * turrent);
 public:	
 
-
-	void SetBarrrerReference(UTankBarrel* BarrelToset);
-
-	void SetTurrentReference(UTankTurret* TurretToSet);
 
 	void AimAt(FVector WordSpaceAim,float launchSpeed);
 

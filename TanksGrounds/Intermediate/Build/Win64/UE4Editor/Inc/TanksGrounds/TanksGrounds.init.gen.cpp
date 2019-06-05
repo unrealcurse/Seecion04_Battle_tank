@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeTanksGrounds_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x9851CD2C,
-				0x30838D24,
+				0xE9F45E35,
+				0xFF879F8C,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
