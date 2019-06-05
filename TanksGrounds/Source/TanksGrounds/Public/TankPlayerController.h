@@ -25,7 +25,8 @@ public:
 protected:
    UFUNCTION(BlueprintCallable,Category = "Setup" )
      ATank* GetControlledTank() const;
-
+   UFUNCTION(BlueprintImplementableEvent, Category = "SetUp")
+	   void FoundAimingComponent(UTankAimingComponent* aimComRef);
 private:
 
 	UPROPERTY(EditDefaultsOnly)

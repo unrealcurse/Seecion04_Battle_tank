@@ -12,8 +12,8 @@ enum class EFiringState :uint8
 	Aiming,
 	Lock,
 	default
-	
 };
+class UTankAimingComponent;
 class UTankTurret;
 class UTankBarrel;
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
@@ -27,9 +27,12 @@ public:
 
 protected:
 	UPROPERTY(BlueprintReadOnly, Category = "State")
-		EFiringState FiringState = EFiringState::Reloading;
+		EFiringState FiringState = EFiringState::Lock;
 	UFUNCTION(BlueprintCallable, Category = Setup)
 		void Initialize(UTankBarrel * barrel, UTankTurret * turrent);
+
+
+
 public:	
 
 
