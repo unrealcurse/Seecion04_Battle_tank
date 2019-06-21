@@ -5,7 +5,7 @@
 class AProjectile;
 class UTankTurret;
 class UTankBarrel;
-class UTankAimingComponent;
+
 
 UCLASS()
 class TANKSGROUNDS_API ATank : public APawn
@@ -17,7 +17,7 @@ public:
 	ATank();
 
 
-	void AimAt(FVector HitLocation);
+	
 
 	UFUNCTION(BlueprintCallable, Category = action)
 		void fire();
@@ -27,8 +27,7 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-	UPROPERTY(BlueprintReadOnly)
-	UTankAimingComponent* TankAimingComponent = nullptr;
+
 
 
 	

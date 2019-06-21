@@ -7,7 +7,7 @@
 #include "GameFramework/PlayerController.h"
 #include "TankAIController.generated.h"
 
-class ATank;
+
 
 UCLASS()
 class TANKSGROUNDS_API ATankAIController : public AAIController

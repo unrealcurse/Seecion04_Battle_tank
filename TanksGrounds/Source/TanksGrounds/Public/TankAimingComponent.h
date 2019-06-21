@@ -34,9 +34,11 @@ protected:
 
 
 public:	
+	void AimAt(FVector WordSpaceAim);
+	UPROPERTY(EditDefaultsOnly, Category = Firing)
+		float LaunchSpeed = 10000;
 
-
-	void AimAt(FVector WordSpaceAim,float launchSpeed);
+	
 
 private:
 	UTankBarrel* Barrel = nullptr;
