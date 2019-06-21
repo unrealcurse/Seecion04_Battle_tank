@@ -2,9 +2,9 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
 #include "Tank.generated.h"
-class AProjectile;
-class UTankTurret;
-class UTankBarrel;
+
+
+
 
 
 UCLASS()
@@ -17,35 +17,6 @@ public:
 	ATank();
 
 
-	
-
-	UFUNCTION(BlueprintCallable, Category = action)
-		void fire();
-
-		
-
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
-
-
-
-	
-
-private:
-	UStaticMeshComponent* Barrel = nullptr;
-
-	UPROPERTY(EditDefaultsOnly, Category = Firing)
-		float LaunchSpeed = 10000;
-	UPROPERTY(EditDefaultsOnly, Category = Setup)
-		TSubclassOf<AProjectile> ProjectileBluePrint;
-
-	UPROPERTY(EditDefaultsOnly, Category = Firing)
-		float ReloadTimeInseconds = 3;
-
-	UTankBarrel* barrels = nullptr;
-
-	double LastFireTime = 0;
 
 };
 

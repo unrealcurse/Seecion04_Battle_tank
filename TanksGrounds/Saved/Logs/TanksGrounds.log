@@ -1,4 +1,4 @@
-﻿Log file open, 06/21/19 11:05:20
+﻿Log file open, 06/21/19 11:40:59
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: TanksGrounds
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.181796
+LogStats: Stats thread started at 0.227600
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -156,649 +156,562 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
-[2019.06.21-16.05.20:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.06.21-16.05.20:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
-[2019.06.21-16.05.20:707][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
-[2019.06.21-16.05.20:713][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.06.21-16.05.20:713][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.06.21-16.05.20:714][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.06.21-16.05.20:714][  0]LogInit: Selected Device Profile: [Windows]
-[2019.06.21-16.05.20:714][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.06.21-16.05.20:727][  0]LogHAL: Display: Platform has ~ 12 GB [12739395584 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2019.06.21-16.05.20:727][  0]LogInit: Going up to parent DeviceProfile []
-[2019.06.21-16.05.20:727][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.06.21-16.05.20:727][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2019.06.21-16.05.20:728][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
-[2019.06.21-16.05.20:728][  0]LogInit: Computer: DESKTOP-0RQP4IL
-[2019.06.21-16.05.20:728][  0]LogInit: User: ELGRA
-[2019.06.21-16.05.20:728][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.06.21-16.05.20:728][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.06.21-16.05.20:729][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
-[2019.06.21-16.05.20:729][  0]LogMemory: Platform Memory Stats for Windows
-[2019.06.21-16.05.20:729][  0]LogMemory: Process Physical Memory: 96.98 MB used, 96.98 MB peak
-[2019.06.21-16.05.20:729][  0]LogMemory: Process Virtual Memory: 91.95 MB used, 91.95 MB peak
-[2019.06.21-16.05.20:729][  0]LogMemory: Physical Memory: 7227.11 MB used,  4922.13 MB free, 12149.23 MB total
-[2019.06.21-16.05.20:729][  0]LogMemory: Virtual Memory: 4647.13 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2019.06.21-16.05.20:749][  0]LogInit: Overriding language with editor language configuration option (en).
-[2019.06.21-16.05.20:749][  0]LogInit: Overriding locale with editor culture configuration option ().
-[2019.06.21-16.05.20:749][  0]LogInit: Using OS detected locale (es-CO).
-[2019.06.21-16.05.20:920][  0]LogInit: Setting process to per monitor DPI aware
-[2019.06.21-16.05.20:959][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.06.21-16.05.20:959][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.06.21-16.05.21:122][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.06.21-16.05.21:122][  0]LogD3D11RHI: D3D11 adapters:
-[2019.06.21-16.05.21:219][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
-[2019.06.21-16.05.21:219][  0]LogD3D11RHI:       6052/0/6074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.06.21-16.05.21:225][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2019.06.21-16.05.21:225][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2019.06.21-16.05.21:227][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.06.21-16.05.21:227][  0]LogD3D11RHI:       0/0/6074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.06.21-16.05.21:227][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.06.21-16.05.21:234][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.06.21-16.05.21:234][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
-[2019.06.21-16.05.21:234][  0]LogWindows: EnumDisplayDevices:
-[2019.06.21-16.05.21:234][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
-[2019.06.21-16.05.21:234][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2019.06.21-16.05.21:234][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2019.06.21-16.05.21:234][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2019.06.21-16.05.21:235][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
-[2019.06.21-16.05.21:235][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.06.21-16.05.21:235][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.06.21-16.05.21:235][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2019.06.21-16.05.21:235][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
-[2019.06.21-16.05.21:235][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
-[2019.06.21-16.05.21:235][  0]LogD3D11RHI:      Driver Date: 5-5-2019
-[2019.06.21-16.05.21:235][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
-[2019.06.21-16.05.21:286][  0]LogD3D11RHI: Async texture creation enabled
-[2019.06.21-16.05.21:291][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.06.21-16.05.21:291][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.06.21-16.05.21:291][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.06.21-16.05.21:300][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2019.06.21-16.05.21:654][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2019.06.21-16.05.21:669][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2019.06.21-16.05.21:684][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2019.06.21-16.05.21:699][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2019.06.21-16.05.21:714][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2019.06.21-16.05.21:729][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2019.06.21-16.05.21:744][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2019.06.21-16.05.21:759][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2019.06.21-16.05.21:767][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2019.06.21-16.05.21:858][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2019.06.21-16.05.21:859][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2019.06.21-16.05.21:860][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2019.06.21-16.05.21:913][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2019.06.21-16.05.21:913][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2019.06.21-16.05.21:938][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2019.06.21-16.05.21:938][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2019.06.21-16.05.21:952][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2019.06.21-16.05.21:965][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2019.06.21-16.05.21:980][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2019.06.21-16.05.21:995][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2019.06.21-16.05.22:050][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2019.06.21-16.05.22:050][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2019.06.21-16.05.22:051][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.06.21-16.05.22:060][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2019.06.21-16.05.22:112][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Intermediate/Shaders/WorkingDirectory/1264/).
-[2019.06.21-16.05.22:112][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ELGRA/AppData/Local/Temp/UnrealShaderWorkingDir/D48AAAF446D4EE52B590E48D72A449E1/'.
-[2019.06.21-16.05.22:115][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.06.21-16.05.22:115][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.06.21-16.05.22:115][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.06.21-16.05.22:721][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.06.21-16.05.22:780][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.06.21-16.05.22:780][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2019.06.21-16.05.22:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.06.21-16.05.22:781][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.06.21-16.05.22:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.06.21-16.05.22:781][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.06.21-16.05.22:794][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.06.21-16.05.22:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.06.21-16.05.22:794][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.06.21-16.05.22:806][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ELGRA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.06.21-16.05.22:806][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.06.21-16.05.22:806][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.06.21-16.05.22:829][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.06.21-16.05.22:830][  0]LogSlate: Using FreeType 2.6.0
-[2019.06.21-16.05.22:831][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.06.21-16.05.22:919][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
-[2019.06.21-16.05.23:264][  0]LogInit: Selected Device Profile: [Windows]
-[2019.06.21-16.05.23:409][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.06.21-16.05.23:409][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2019.06.21-16.05.23:409][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.06.21-16.05.23:409][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2019.06.21-16.05.23:409][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2019.06.21-16.05.23:421][  0]LogNetVersion: TanksGrounds 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 220100468)
-[2019.06.21-16.05.23:886][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.056250 seconds
-[2019.06.21-16.05.23:897][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2019.06.21-16.05.23:897][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2019.06.21-16.05.23:897][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.06.21-16.05.24:768][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.06.21-16.05.24:782][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.06.21-16.05.24:900][  0]SourceControl: Source control is disabled
-[2019.06.21-16.05.24:900][  0]SourceControl: Source control is disabled
-[2019.06.21-16.05.24:902][  0]SourceControl: Source control is disabled
-[2019.06.21-16.05.24:903][  0]SourceControl: Source control is disabled
-[2019.06.21-16.05.24:986][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.06.21-16.05.25:093][  0]LogOcInput: OculusInput pre-init called
-[2019.06.21-16.05.25:811][  0]LogEngine: Initializing Engine...
-[2019.06.21-16.05.25:812][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.06.21-16.05.25:813][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2019.06.21-16.05.26:101][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.06.21-16.05.26:115][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.06.21-16.05.26:193][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.06.21-16.05.26:220][  0]LogInit: FAudioDevice initialized.
-[2019.06.21-16.05.26:220][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.06.21-16.05.26:296][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.06.21-16.05.26:309][  0]LogInit: Texture streaming: Enabled
-[2019.06.21-16.05.26:330][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.06.21-16.05.26:357][  0]LogInit: Transaction tracking system initialized
-[2019.06.21-16.05.26:386][  0]BlueprintLog: New page: Editor Load
-[2019.06.21-16.05.26:482][  0]LocalizationService: Localization service is disabled
-[2019.06.21-16.05.26:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/' took 0.02s
-[2019.06.21-16.05.26:839][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.06.21-16.05.26:839][  0]LogCook: Display: Mobile HDR setting 1
-[2019.06.21-16.05.27:047][  0]SourceControl: Source control is disabled
-[2019.06.21-16.05.27:047][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.06.21-16.05.27:055][  0]LightingResults: New page: Lighting Build
-[2019.06.21-16.05.27:059][  0]MapCheck: New page: Map Check
-[2019.06.21-16.05.27:059][  0]LightingResults: New page: Lighting Build
-[2019.06.21-16.05.27:086][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
-[2019.06.21-16.05.27:152][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
-[2019.06.21-16.05.27:153][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
-[2019.06.21-16.05.27:153][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
-[2019.06.21-16.05.27:153][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
-[2019.06.21-16.05.27:668][  0]LogAIModule: Creating AISystem for world TanksGrounds
-[2019.06.21-16.05.29:213][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.06.21-16.05.29:474][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
-[2019.06.21-16.05.29:474][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.06.21-16.05.29:474][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,269ms to complete.
-[2019.06.21-16.05.29:474][  0]LogFileHelpers: Loading map 'TanksGrounds' took 2.427
-[2019.06.21-16.05.29:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.05.29:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.05.29:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.05.29:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.05.29:659][  0]LogCollectionManager: Loaded 0 collections in 0.002174 seconds
-[2019.06.21-16.05.29:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Collections/' took 0.01s
-[2019.06.21-16.05.29:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Developers/ELGRA/Collections/' took 0.00s
-[2019.06.21-16.05.29:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Collections/' took 0.01s
-[2019.06.21-16.05.29:689][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.06.21-16.05.29:699][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2743 classes and 664 folders.
-[2019.06.21-16.05.29:707][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2019.06.21-16.05.29:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.29:932][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.21-16.05.30:136][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2019.06.21-16.05.30:146][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.06.21-16.05.30:150][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.06.21-16.05.30:158][  0]LogSlate: Took 0.005114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.06.21-16.05.30:166][  0]LogSlate: Took 0.007328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2019.06.21-16.05.30:284][  0]LogRenderer: Reallocating scene render targets to support 1168x932 Format 10 NumSamples 1 (Frame:1).
-[2019.06.21-16.05.30:472][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
-[2019.06.21-16.05.30:474][  0]LogLoad: (Engine Initialization) Total time: 11.31 seconds
-[2019.06.21-16.05.30:474][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.06.21-16.05.30:514][  0]LogAssetRegistry: Asset discovery search completed in 7.6179 seconds
-[2019.06.21-16.05.30:517][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2019.06.21-16.05.30:517][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000232 seconds (updated 0 objects)
-[2019.06.21-16.05.30:519][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.06.21-16.05.31:526][ 74]LogSlate: Took 0.006396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.06.21-16.05.40:800][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.21-16.05.40:967][634]Candidate modules for hot reload:
-[2019.06.21-16.05.40:967][634]  TanksGrounds
-[2019.06.21-16.05.40:967][634]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TanksGrounds,8771 Win64 Development -TargetType=Editor -Project="C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject" "C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject"  -IgnoreJunk]
-[2019.06.21-16.05.40:973][634]Warning: Starting HotReload took  0.0s.
-[2019.06.21-16.05.55:321][ 36]CompilerResultsLog: New page: Compilation - 21/06/2019 6:05:55 a. m.
-[2019.06.21-16.05.55:321][ 36]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank).
-[2019.06.21-16.05.55:321][ 36]CompilerResultsLog: Creating makefile for TanksGroundsEditor (ini files are newer than makefile)
-[2019.06.21-16.05.55:321][ 36]CompilerResultsLog: Parsing headers for TanksGroundsEditor
-[2019.06.21-16.05.55:322][ 36]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\TanksGrounds.uproject" "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\TanksGroundsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2019.06.21-16.05.55:322][ 36]CompilerResultsLog: Reflection code generated for TanksGroundsEditor in 7,4259543 seconds
-[2019.06.21-16.05.55:322][ 36]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAIController.cpp(1) : error: Expected TankAIController.h to be first header included.
-[2019.06.21-16.05.55:322][ 36]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAimingComponent.cpp(1) : error: Expected TankAimingComponent.h to be first header included.
-[2019.06.21-16.05.55:323][ 36]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankMovementComponent.cpp(1) : error: Expected TankMovementComponent.h to be first header included.
-[2019.06.21-16.05.55:323][ 36]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankPlayerController.cpp(1) : error: Expected TankPlayerController.h to be first header included.
-[2019.06.21-16.05.55:323][ 36]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-[2019.06.21-16.05.55:324][ 36]CompilerResultsLog: Building 4 actions with 4 processes...
-[2019.06.21-16.05.55:324][ 36]CompilerResultsLog:   [1/4] TankAIController.cpp
-[2019.06.21-16.05.55:324][ 36]CompilerResultsLog:   [2/4] UE4Editor-TanksGrounds-8771.lib
-[2019.06.21-16.05.55:325][ 36]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-8771.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-8771.exp
-[2019.06.21-16.05.55:325][ 36]CompilerResultsLog:   [3/4] UE4Editor-TanksGrounds-8771.dll
-[2019.06.21-16.05.55:325][ 36]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-8771.suppressed.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-8771.suppressed.exp
-[2019.06.21-16.05.55:326][ 36]CompilerResultsLog:   [4/4] TanksGroundsEditor.target
-[2019.06.21-16.05.55:326][ 36]CompilerResultsLog: Total time in Parallel executor: 3,99 seconds
-[2019.06.21-16.05.55:326][ 36]CompilerResultsLog: Total execution time: 14,24 seconds
-[2019.06.21-16.05.55:326][ 36]LogMainFrame: MainFrame: Module compiling took 14.362 seconds
-[2019.06.21-16.05.55:351][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
-[2019.06.21-16.05.55:382][ 36]LogClass: EFiringState HotReload.
-[2019.06.21-16.05.55:387][ 36]LogContentBrowser: Native class hierarchy updated for 'TanksGrounds' in 0.0005 seconds. Added 10 classes and 3 folders.
-[2019.06.21-16.05.55:390][ 36]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
-[2019.06.21-16.05.55:483][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
-[2019.06.21-16.05.55:493][ 36]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2743 classes and 664 folders.
-[2019.06.21-16.05.55:498][ 36]Display: HotReload took 14.5s.
-[2019.06.21-16.05.58:881][400]LogTemp: Repeating last play command: Selected Viewport
-[2019.06.21-16.05.58:901][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.05.58:902][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.06.21-16.05.58:902][400]PIE: New page: PIE session: TanksGrounds (21/06/2019 6:05:58 a. m.)
-[2019.06.21-16.05.58:914][400]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
-[2019.06.21-16.05.59:053][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138333s)
-[2019.06.21-16.05.59:054][400]LogAIModule: Creating AISystem for world TanksGrounds
-[2019.06.21-16.05.59:055][400]LogPlayLevel: PIE: World Init took: (0.000968s)
-[2019.06.21-16.05.59:055][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.140337s)
-[2019.06.21-16.05.59:080][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
-[2019.06.21-16.05.59:089][400]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.06.21-16.05.59:110][400]LogInit: FAudioDevice initialized.
-[2019.06.21-16.05.59:149][400]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
-[2019.06.21-16.05.59:154][400]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.06.21-11.05.59
-[2019.06.21-16.05.59:155][400]LogWorld: Bringing up level for play took: 0.004359
-[2019.06.21-16.05.59:223][400]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
-[2019.06.21-16.05.59:226][400]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 1,282
-[2019.06.21-16.05.59:226][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.05.59:903][470]LogOutputDevice: Warning: 
-
-Script Stack (2 frames):
-Tank_BP_C.ExecuteUbergraph_Tank_BP
-Tank_BP_C.InpActEvt_Fire_K2Node_InputActionEvent_0
-
-[2019.06.21-16.06.00:356][470]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.453 s
-[2019.06.21-16.06.00:357][470]LogOutputDevice: Error: === Handled ensure: ===
-[2019.06.21-16.06.00:357][470]LogOutputDevice: Error: 
-[2019.06.21-16.06.00:357][470]LogOutputDevice: Error: Ensure condition failed: Barrel [File:C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\Tank.cpp] [Line: 30]
-[2019.06.21-16.06.00:357][470]LogOutputDevice: Error: 
-[2019.06.21-16.06.00:357][470]LogOutputDevice: Error: Stack: 
-[2019.06.21-16.06.00:357][470]LogOutputDevice: Error: [Callstack] 0x00007ffcdb9de068 UE4Editor-TanksGrounds-8771.dll!<lambda_7c2d55b0aa2cd622abc8ff65f5c02e66>::operator()() [c:\users\elgra\documents\unreal projects\seecion04_battle_tank\tanksgrounds\source\tanksgrounds\private\tank.cpp:30]
-[2019.06.21-16.06.00:357][470]LogOutputDevice: Error: [Callstack] 0x00007ffcdb9d3389 UE4Editor-TanksGrounds-8771.dll!ATank::fire() [c:\users\elgra\documents\unreal projects\seecion04_battle_tank\tanksgrounds\source\tanksgrounds\private\tank.cpp:30]
-[2019.06.21-16.06.00:358][470]LogOutputDevice: Error: [Callstack] 0x00007ffd1198bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:358][470]LogOutputDevice: Error: [Callstack] 0x00007ffd11b800e2 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:358][470]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e98d UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:358][470]LogOutputDevice: Error: [Callstack] 0x00007ffd11b75efb UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:358][470]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:358][470]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e98d UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e378 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd1198bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9df07 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd08fb9ff3 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd0a0069b4 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd0a030ef1 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd09ba0dc4 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:359][470]LogOutputDevice: Error: [Callstack] 0x00007ffd09bb3c88 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd09b9f1cb UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd09bb2697 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd08f9aeed UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd09f572bc UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd0e0c22d8 UE4Editor-Core.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd0e0c2563 UE4Editor-Core.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd0e0d2309 UE4Editor-Core.dll!UnknownFunction []
-[2019.06.21-16.06.00:360][470]LogOutputDevice: Error: [Callstack] 0x00007ffd09f9f9e3 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ffd09fabd12 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ffd097cdc4f UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ffd097d7e28 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ffd0c1002f7 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ffd0c91d396 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ff66eb26bb1 UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ff66eb3554c UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.06.00:361][470]LogOutputDevice: Error: [Callstack] 0x00007ff66eb355ca UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.06.00:362][470]LogOutputDevice: Error: [Callstack] 0x00007ff66eb4316c UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.06.00:362][470]LogOutputDevice: Error: [Callstack] 0x00007ff66eb45b8e UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.06.00:362][470]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac17974 KERNEL32.DLL!UnknownFunction []
-[2019.06.21-16.06.00:362][470]LogOutputDevice: Error: [Callstack] 0x00007ffd6b46a271 ntdll.dll!UnknownFunction []
-[2019.06.21-16.06.00:362][470]LogOutputDevice: Error: 
-[2019.06.21-16.06.00:372][470]LogStats:                SubmitErrorReport -  0.000 s
-[2019.06.21-16.06.00:728][470]LogStats:                    SendNewReport -  0.357 s
-[2019.06.21-16.06.00:729][470]LogStats:             FDebug::EnsureFailed -  0.825 s
-[2019.06.21-16.06.13:865][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.06.13:866][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.06.13:894][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.06.21-16.06.13:895][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.06.13:925][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.06.13:929][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
-[2019.06.21-16.06.13:999][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_1
-[2019.06.21-16.07.21:543][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.21-16.07.21:667][699]Candidate modules for hot reload:
-[2019.06.21-16.07.21:667][699]  TanksGrounds
-[2019.06.21-16.07.21:668][699]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TanksGrounds,3584 Win64 Development -TargetType=Editor -Project="C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject" "C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject"  -IgnoreJunk]
-[2019.06.21-16.07.21:673][699]Warning: Starting HotReload took  0.0s.
-[2019.06.21-16.07.36:740][305]CompilerResultsLog: New page: Compilation - 21/06/2019 6:07:36 a. m.
-[2019.06.21-16.07.36:740][305]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank).
-[2019.06.21-16.07.36:741][305]CompilerResultsLog: Creating makefile for TanksGroundsEditor (ini files are newer than makefile)
-[2019.06.21-16.07.36:741][305]CompilerResultsLog: Parsing headers for TanksGroundsEditor
-[2019.06.21-16.07.36:741][305]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\TanksGrounds.uproject" "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\TanksGroundsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2019.06.21-16.07.36:741][305]CompilerResultsLog: Reflection code generated for TanksGroundsEditor in 7,5229422 seconds
-[2019.06.21-16.07.36:742][305]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAIController.cpp(1) : error: Expected TankAIController.h to be first header included.
-[2019.06.21-16.07.36:742][305]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAimingComponent.cpp(1) : error: Expected TankAimingComponent.h to be first header included.
-[2019.06.21-16.07.36:742][305]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankMovementComponent.cpp(1) : error: Expected TankMovementComponent.h to be first header included.
-[2019.06.21-16.07.36:743][305]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankPlayerController.cpp(1) : error: Expected TankPlayerController.h to be first header included.
-[2019.06.21-16.07.36:743][305]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-[2019.06.21-16.07.36:743][305]CompilerResultsLog: Building 4 actions with 4 processes...
-[2019.06.21-16.07.36:743][305]CompilerResultsLog:   [1/4] TankAIController.cpp
-[2019.06.21-16.07.36:743][305]CompilerResultsLog:   [2/4] UE4Editor-TanksGrounds-3584.lib
-[2019.06.21-16.07.36:743][305]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-3584.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-3584.exp
-[2019.06.21-16.07.36:744][305]CompilerResultsLog:   [3/4] UE4Editor-TanksGrounds-3584.dll
-[2019.06.21-16.07.36:744][305]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-3584.suppressed.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-3584.suppressed.exp
-[2019.06.21-16.07.36:744][305]CompilerResultsLog:   [4/4] TanksGroundsEditor.target
-[2019.06.21-16.07.36:744][305]CompilerResultsLog: Total time in Parallel executor: 4,32 seconds
-[2019.06.21-16.07.36:744][305]CompilerResultsLog: Total execution time: 14,94 seconds
-[2019.06.21-16.07.36:745][305]LogMainFrame: MainFrame: Module compiling took 15.080 seconds
-[2019.06.21-16.07.36:773][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
-[2019.06.21-16.07.36:802][305]LogClass: EFiringState HotReload.
-[2019.06.21-16.07.36:807][305]LogContentBrowser: Native class hierarchy updated for 'TanksGrounds' in 0.0006 seconds. Added 10 classes and 3 folders.
-[2019.06.21-16.07.36:810][305]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
-[2019.06.21-16.07.36:870][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
-[2019.06.21-16.07.36:879][305]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2743 classes and 664 folders.
-[2019.06.21-16.07.36:884][305]Display: HotReload took 15.2s.
-[2019.06.21-16.07.39:868][661]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
-[2019.06.21-16.07.41:193][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.21-16.07.41:293][809]LogTemp: Repeating last play command: Selected Viewport
-[2019.06.21-16.07.41:313][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.07.41:314][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.06.21-16.07.41:314][809]PIE: New page: PIE session: TanksGrounds (21/06/2019 6:07:41 a. m.)
-[2019.06.21-16.07.41:314][809]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
-[2019.06.21-16.07.41:444][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129111s)
-[2019.06.21-16.07.41:444][809]LogAIModule: Creating AISystem for world TanksGrounds
-[2019.06.21-16.07.41:445][809]LogPlayLevel: PIE: World Init took: (0.001141s)
-[2019.06.21-16.07.41:445][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.130853s)
-[2019.06.21-16.07.41:470][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
-[2019.06.21-16.07.41:479][809]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.06.21-16.07.41:500][809]LogInit: FAudioDevice initialized.
-[2019.06.21-16.07.41:531][809]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
-[2019.06.21-16.07.41:535][809]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.06.21-11.07.41
-[2019.06.21-16.07.41:536][809]LogWorld: Bringing up level for play took: 0.004043
-[2019.06.21-16.07.41:550][809]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,394
-[2019.06.21-16.07.41:550][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.07.43:094][989]LogOutputDevice: Warning: 
-
-Script Stack (2 frames):
-Tank_BP_C.ExecuteUbergraph_Tank_BP
-Tank_BP_C.InpActEvt_Fire_K2Node_InputActionEvent_0
-
-[2019.06.21-16.07.43:279][989]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.184 s
-[2019.06.21-16.07.43:279][989]LogOutputDevice: Error: === Handled ensure: ===
-[2019.06.21-16.07.43:279][989]LogOutputDevice: Error: 
-[2019.06.21-16.07.43:279][989]LogOutputDevice: Error: Ensure condition failed: Barrel [File:C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\Tank.cpp] [Line: 30]
-[2019.06.21-16.07.43:280][989]LogOutputDevice: Error: 
-[2019.06.21-16.07.43:280][989]LogOutputDevice: Error: Stack: 
-[2019.06.21-16.07.43:280][989]LogOutputDevice: Error: [Callstack] 0x00007ffcdb51e068 UE4Editor-TanksGrounds-3584.dll!<lambda_7c2d55b0aa2cd622abc8ff65f5c02e66>::operator()() [c:\users\elgra\documents\unreal projects\seecion04_battle_tank\tanksgrounds\source\tanksgrounds\private\tank.cpp:30]
-[2019.06.21-16.07.43:280][989]LogOutputDevice: Error: [Callstack] 0x00007ffcdb513389 UE4Editor-TanksGrounds-3584.dll!ATank::fire() [c:\users\elgra\documents\unreal projects\seecion04_battle_tank\tanksgrounds\source\tanksgrounds\private\tank.cpp:30]
-[2019.06.21-16.07.43:280][989]LogOutputDevice: Error: [Callstack] 0x00007ffd1198bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:280][989]LogOutputDevice: Error: [Callstack] 0x00007ffd11b800e2 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e98d UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd11b75efb UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e98d UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9e378 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd1198bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd11b9df07 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2019.06.21-16.07.43:281][989]LogOutputDevice: Error: [Callstack] 0x00007ffd08fb9ff3 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:282][989]LogOutputDevice: Error: [Callstack] 0x00007ffd0a0069b4 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:282][989]LogOutputDevice: Error: [Callstack] 0x00007ffd0a030ef1 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:282][989]LogOutputDevice: Error: [Callstack] 0x00007ffd09ba0dc4 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:282][989]LogOutputDevice: Error: [Callstack] 0x00007ffd09bb3c88 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:282][989]LogOutputDevice: Error: [Callstack] 0x00007ffd09b9f1cb UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:282][989]LogOutputDevice: Error: [Callstack] 0x00007ffd09bb2697 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:282][989]LogOutputDevice: Error: [Callstack] 0x00007ffd08f9aeed UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd09f572bc UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd0e0c22d8 UE4Editor-Core.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd0e0c2563 UE4Editor-Core.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd0e0d2309 UE4Editor-Core.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd09f9f9e3 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd09fabd12 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd097cdc4f UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:283][989]LogOutputDevice: Error: [Callstack] 0x00007ffd097d7e28 UE4Editor-Engine.dll!UnknownFunction []
-[2019.06.21-16.07.43:284][989]LogOutputDevice: Error: [Callstack] 0x00007ffd0c1002f7 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2019.06.21-16.07.43:284][989]LogOutputDevice: Error: [Callstack] 0x00007ffd0c91d396 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2019.06.21-16.07.43:284][989]LogOutputDevice: Error: [Callstack] 0x00007ff66eb26bb1 UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.07.43:284][989]LogOutputDevice: Error: [Callstack] 0x00007ff66eb3554c UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.07.43:284][989]LogOutputDevice: Error: [Callstack] 0x00007ff66eb355ca UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.07.43:284][989]LogOutputDevice: Error: [Callstack] 0x00007ff66eb4316c UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.07.43:285][989]LogOutputDevice: Error: [Callstack] 0x00007ff66eb45b8e UE4Editor.exe!UnknownFunction []
-[2019.06.21-16.07.43:285][989]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac17974 KERNEL32.DLL!UnknownFunction []
-[2019.06.21-16.07.43:285][989]LogOutputDevice: Error: [Callstack] 0x00007ffd6b46a271 ntdll.dll!UnknownFunction []
-[2019.06.21-16.07.43:285][989]LogOutputDevice: Error: 
-[2019.06.21-16.07.43:296][989]LogStats:                SubmitErrorReport -  0.000 s
-[2019.06.21-16.07.43:650][989]LogStats:                    SendNewReport -  0.354 s
-[2019.06.21-16.07.43:650][989]LogStats:             FDebug::EnsureFailed -  0.555 s
-[2019.06.21-16.07.53:388][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.07.53:388][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.07.53:416][151]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.06.21-16.07.53:417][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
-[2019.06.21-16.07.53:446][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.21-16.07.53:450][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
-[2019.06.21-16.07.53:508][153]LogPlayLevel: Display: Destroying online subsystem :Context_2
-[2019.06.21-16.07.55:950][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.06.21-16.07.56:251][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.06.21-16.07.57:297][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.06.21-16.07.58:931][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.06.21-16.07.58:971][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
-[2019.06.21-16.07.59:765][765]LogSavePackage: Moving '../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds4601C7314B275A27668D27B3A2081D3C.tmp' to '../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
-[2019.06.21-16.08.15:901][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.21-16.08.18:551][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-16.41.00:177][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.21-16.41.00:177][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.21-16.41.00:178][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.21-16.41.00:178][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.21-16.41.00:178][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.21-16.41.00:184][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.21-16.41.00:184][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.21-16.41.00:185][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.21-16.41.00:185][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.21-16.41.00:185][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.21-16.41.00:212][  0]LogHAL: Display: Platform has ~ 12 GB [12739395584 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.21-16.41.00:212][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.21-16.41.00:212][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.21-16.41.00:212][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.21-16.41.00:213][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.21-16.41.00:214][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.21-16.41.00:214][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.21-16.41.00:214][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.21-16.41.00:214][  0]LogInit: Computer: DESKTOP-0RQP4IL
+[2019.06.21-16.41.00:214][  0]LogInit: User: ELGRA
+[2019.06.21-16.41.00:214][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.21-16.41.00:214][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.21-16.41.00:214][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.06.21-16.41.00:214][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.21-16.41.00:214][  0]LogMemory: Process Physical Memory: 97.04 MB used, 97.04 MB peak
+[2019.06.21-16.41.00:214][  0]LogMemory: Process Virtual Memory: 91.83 MB used, 91.83 MB peak
+[2019.06.21-16.41.00:214][  0]LogMemory: Physical Memory: 8098.79 MB used,  4050.45 MB free, 12149.23 MB total
+[2019.06.21-16.41.00:214][  0]LogMemory: Virtual Memory: 4647.13 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.21-16.41.00:253][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.06.21-16.41.00:253][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.06.21-16.41.00:253][  0]LogInit: Using OS detected locale (es-CO).
+[2019.06.21-16.41.00:672][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.21-16.41.00:723][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.21-16.41.00:724][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.21-16.41.03:543][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.21-16.41.03:543][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.21-16.41.03:631][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.06.21-16.41.03:631][  0]LogD3D11RHI:       6052/0/6074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.21-16.41.03:645][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.06.21-16.41.03:645][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.06.21-16.41.03:648][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.21-16.41.03:648][  0]LogD3D11RHI:       0/0/6074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.21-16.41.03:648][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.21-16.41.03:656][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.21-16.41.03:656][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.21-16.41.03:656][  0]LogWindows: EnumDisplayDevices:
+[2019.06.21-16.41.03:656][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.06.21-16.41.03:656][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.06.21-16.41.03:657][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.06.21-16.41.03:657][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.06.21-16.41.03:657][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2019.06.21-16.41.03:657][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.21-16.41.03:658][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.21-16.41.03:658][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.21-16.41.03:658][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.06.21-16.41.03:658][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.06.21-16.41.03:658][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.06.21-16.41.03:658][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.06.21-16.41.03:711][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.21-16.41.03:716][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.21-16.41.03:716][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.21-16.41.03:716][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.21-16.41.03:726][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.21-16.41.04:116][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.21-16.41.04:132][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.21-16.41.04:148][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.21-16.41.04:165][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.21-16.41.04:184][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.21-16.41.04:201][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.21-16.41.04:217][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.21-16.41.04:233][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.21-16.41.04:241][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.21-16.41.04:346][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.21-16.41.04:348][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.21-16.41.04:412][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.21-16.41.04:412][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.21-16.41.04:444][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.21-16.41.04:444][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.21-16.41.04:459][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.21-16.41.04:474][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.21-16.41.04:489][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.21-16.41.04:514][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.21-16.41.04:583][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.21-16.41.04:583][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.21-16.41.04:583][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.21-16.41.04:595][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.21-16.41.04:666][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Intermediate/Shaders/WorkingDirectory/13428/).
+[2019.06.21-16.41.04:666][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ELGRA/AppData/Local/Temp/UnrealShaderWorkingDir/4ECB787A48326C13FBC78A991CB92EDF/'.
+[2019.06.21-16.41.04:669][  0]LogXGEController: Cleaning working directory: C:/Users/ELGRA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.21-16.41.04:669][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.21-16.41.04:669][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.21-16.41.04:669][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.21-16.41.07:304][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.21-16.41.07:462][  0]LogDerivedDataCache: Loaded boot cache 0.16s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.21-16.41.07:463][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.21-16.41.07:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.21-16.41.07:463][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.21-16.41.07:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.21-16.41.07:463][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.21-16.41.07:478][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.21-16.41.07:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.21-16.41.07:479][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.21-16.41.07:493][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ELGRA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.21-16.41.07:493][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.21-16.41.07:493][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.21-16.41.07:518][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.21-16.41.07:519][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.21-16.41.07:520][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.21-16.41.07:660][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2019.06.21-16.41.08:048][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.21-16.41.08:222][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.21-16.41.08:222][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.21-16.41.08:222][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.21-16.41.08:222][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.21-16.41.08:222][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.21-16.41.08:235][  0]LogNetVersion: TanksGrounds 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 220100468)
+[2019.06.21-16.41.08:836][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.074084 seconds
+[2019.06.21-16.41.08:844][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.21-16.41.08:844][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.21-16.41.08:844][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.21-16.41.12:977][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.21-16.41.12:992][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.21-16.41.13:125][  0]SourceControl: Source control is disabled
+[2019.06.21-16.41.13:125][  0]SourceControl: Source control is disabled
+[2019.06.21-16.41.13:129][  0]SourceControl: Source control is disabled
+[2019.06.21-16.41.13:131][  0]SourceControl: Source control is disabled
+[2019.06.21-16.41.13:253][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.21-16.41.13:356][  0]LogOcInput: OculusInput pre-init called
+[2019.06.21-16.41.14:124][  0]LogEngine: Initializing Engine...
+[2019.06.21-16.41.14:124][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.21-16.41.14:126][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.21-16.41.14:403][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.21-16.41.14:423][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.21-16.41.14:508][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.21-16.41.14:538][  0]LogInit: FAudioDevice initialized.
+[2019.06.21-16.41.14:538][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.21-16.41.14:617][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/ELGRA/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.21-16.41.14:622][  0]LogInit: Texture streaming: Enabled
+[2019.06.21-16.41.14:643][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.21-16.41.14:643][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={231939BB-46F9-B099-397A-EB85E95DC212}
+[2019.06.21-16.41.14:675][  0]LogInit: Transaction tracking system initialized
+[2019.06.21-16.41.14:714][  0]BlueprintLog: New page: Editor Load
+[2019.06.21-16.41.14:854][  0]LocalizationService: Localization service is disabled
+[2019.06.21-16.41.15:220][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/' took 0.02s
+[2019.06.21-16.41.15:220][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.21-16.41.15:220][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.21-16.41.15:580][  0]SourceControl: Source control is disabled
+[2019.06.21-16.41.15:580][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.21-16.41.15:581][  0]LightingResults: New page: Lighting Build
+[2019.06.21-16.41.15:584][  0]MapCheck: New page: Map Check
+[2019.06.21-16.41.15:584][  0]LightingResults: New page: Lighting Build
+[2019.06.21-16.41.15:611][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.06.21-16.41.15:686][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
+[2019.06.21-16.41.15:687][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
+[2019.06.21-16.41.15:687][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
+[2019.06.21-16.41.15:687][  0]LogLinker: Error: HOTRELOADED_TankAimingComponent_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/PlayerUI.uasset)
+[2019.06.21-16.41.16:320][  0]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.06.21-16.41.17:831][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.21-16.41.18:101][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.06.21-16.41.18:103][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.21-16.41.18:104][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,174ms to complete.
+[2019.06.21-16.41.18:104][  0]LogFileHelpers: Loading map 'TanksGrounds' took 2.524
+[2019.06.21-16.41.18:242][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.41.18:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.41.18:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.41.18:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.41.18:295][  0]LogCollectionManager: Loaded 0 collections in 0.002541 seconds
+[2019.06.21-16.41.18:327][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Collections/' took 0.01s
+[2019.06.21-16.41.18:327][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Developers/ELGRA/Collections/' took 0.00s
+[2019.06.21-16.41.18:327][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Collections/' took 0.01s
+[2019.06.21-16.41.18:327][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.21-16.41.18:337][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2743 classes and 664 folders.
+[2019.06.21-16.41.18:347][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.06.21-16.41.18:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:544][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.21-16.41.18:792][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.21-16.41.18:800][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.21-16.41.18:804][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.21-16.41.18:812][  0]LogSlate: Took 0.005756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.21-16.41.18:819][  0]LogSlate: Took 0.006628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.06.21-16.41.18:937][  0]LogRenderer: Reallocating scene render targets to support 1168x932 Format 10 NumSamples 1 (Frame:1).
+[2019.06.21-16.41.19:123][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.21-16.41.19:123][  0]LogLoad: (Engine Initialization) Total time: 20.78 seconds
+[2019.06.21-16.41.19:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.21-16.41.19:166][  0]LogAssetRegistry: Asset discovery search completed in 11.5292 seconds
+[2019.06.21-16.41.19:169][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.21-16.41.19:169][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000225 seconds (updated 0 objects)
+[2019.06.21-16.41.19:171][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.21-16.41.20:503][  4]LogSlate: Took 0.007532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.21-16.49.01:624][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-16.49.01:793][614]Candidate modules for hot reload:
+[2019.06.21-16.49.01:793][614]  TanksGrounds
+[2019.06.21-16.49.01:793][614]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TanksGrounds,9922 Win64 Development -TargetType=Editor -Project="C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject" "C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject"  -IgnoreJunk]
+[2019.06.21-16.49.01:797][614]Warning: Starting HotReload took  0.1s.
+[2019.06.21-16.49.12:707][462]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.21-16.49.13:912][536]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2019.06.21-16.49.14:280][536]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.06.21-16.49.15:340][536]LogSlate: Took 0.007571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.21-16.49.15:427][537]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.21-16.49.20:031][892]CompilerResultsLog: New page: Compilation - 21/06/2019 6:49:20 a. m.
+[2019.06.21-16.49.20:031][892]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank).
+[2019.06.21-16.49.20:031][892]CompilerResultsLog: Creating makefile for TanksGroundsEditor (ini files are newer than makefile)
+[2019.06.21-16.49.20:031][892]CompilerResultsLog: Parsing headers for TanksGroundsEditor
+[2019.06.21-16.49.20:031][892]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\TanksGrounds.uproject" "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\TanksGroundsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.06.21-16.49.20:032][892]CompilerResultsLog: Reflection code generated for TanksGroundsEditor in 8,3004523 seconds
+[2019.06.21-16.49.20:032][892]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAIController.cpp(1) : error: Expected TankAIController.h to be first header included.
+[2019.06.21-16.49.20:032][892]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAimingComponent.cpp(1) : error: Expected TankAimingComponent.h to be first header included.
+[2019.06.21-16.49.20:033][892]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankMovementComponent.cpp(1) : error: Expected TankMovementComponent.h to be first header included.
+[2019.06.21-16.49.20:033][892]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankPlayerController.cpp(1) : error: Expected TankPlayerController.h to be first header included.
+[2019.06.21-16.49.20:033][892]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.06.21-16.49.20:034][892]CompilerResultsLog: Building 7 actions with 4 processes...
+[2019.06.21-16.49.20:034][892]CompilerResultsLog:   [1/7] TankPlayerController.cpp
+[2019.06.21-16.49.20:034][892]CompilerResultsLog:   [2/7] TankAimingComponent.gen.cpp
+[2019.06.21-16.49.20:034][892]CompilerResultsLog:   [3/7] TankAimingComponent.cpp
+[2019.06.21-16.49.20:034][892]CompilerResultsLog:   [4/7] TankAIController.cpp
+[2019.06.21-16.49.20:034][892]CompilerResultsLog:   [5/7] UE4Editor-TanksGrounds-9922.lib
+[2019.06.21-16.49.20:034][892]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-9922.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-9922.exp
+[2019.06.21-16.49.20:035][892]CompilerResultsLog:   [6/7] UE4Editor-TanksGrounds-9922.dll
+[2019.06.21-16.49.20:035][892]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-9922.suppressed.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-9922.suppressed.exp
+[2019.06.21-16.49.20:035][892]CompilerResultsLog:   [7/7] TanksGroundsEditor.target
+[2019.06.21-16.49.20:035][892]CompilerResultsLog: Total time in Parallel executor: 5,47 seconds
+[2019.06.21-16.49.20:035][892]CompilerResultsLog: Total execution time: 17,96 seconds
+[2019.06.21-16.49.20:036][892]LogMainFrame: MainFrame: Module compiling took 18.245 seconds
+[2019.06.21-16.49.20:080][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.06.21-16.49.20:080][892]LogBlueprintActionDatabase: Requesting refresh due to module change: TanksGrounds (unloaded)
+[2019.06.21-16.49.20:120][892]LogClass: EFiringState HotReload.
+[2019.06.21-16.49.20:125][892]LogBlueprintActionDatabase: Requesting refresh due to module change: TanksGrounds (loaded)
+[2019.06.21-16.49.20:126][892]LogContentBrowser: Native class hierarchy updated for 'TanksGrounds' in 0.0005 seconds. Added 10 classes and 3 folders.
+[2019.06.21-16.49.20:130][892]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2019.06.21-16.49.20:248][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.06.21-16.49.20:249][892]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.06.21-16.49.20:259][892]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2743 classes and 664 folders.
+[2019.06.21-16.49.20:267][892]Display: HotReload took 18.5s.
+[2019.06.21-16.49.27:265][670]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.21-16.49.31:019][794]BlueprintLog: New page: Compile Tank_BP
+[2019.06.21-16.49.31:276][794]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.06.21-16.49.31:935][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/Tank_BP.uasset" SILENT=true
+[2019.06.21-16.49.31:995][860]LogSavePackage: Moving '../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/Tank_BP2CD5B54544B40CE8366BB7A13FE39856.tmp' to '../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/Tank/Tank_BP.uasset'
+[2019.06.21-16.49.34:846][168]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.21-16.49.34:875][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.49.34:875][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.21-16.49.34:875][168]PIE: New page: PIE session: TanksGrounds (21/06/2019 6:49:34 a. m.)
+[2019.06.21-16.49.34:888][168]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.06.21-16.49.35:024][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135341s)
+[2019.06.21-16.49.35:025][168]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.06.21-16.49.35:025][168]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.06.21-16.49.35:025][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.137028s)
+[2019.06.21-16.49.35:069][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.06.21-16.49.35:079][168]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.21-16.49.35:102][168]LogInit: FAudioDevice initialized.
+[2019.06.21-16.49.35:146][168]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.06.21-16.49.35:151][168]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.06.21-11.49.35
+[2019.06.21-16.49.35:152][168]LogWorld: Bringing up level for play took: 0.004811
+[2019.06.21-16.49.35:218][168]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.06.21-16.49.35:224][168]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.06.21-16.49.35:225][168]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.06.21-16.49.35:228][168]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds 1,283
+[2019.06.21-16.49.35:228][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.49.48:983][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.49.48:984][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.49.49:023][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.21-16.49.49:024][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.49.49:084][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.49.49:127][709]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2019.06.21-16.49.49:160][710]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.21-16.50.11:718][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.21-16.50.11:806][318]Candidate modules for hot reload:
+[2019.06.21-16.50.11:806][318]  TanksGrounds
+[2019.06.21-16.50.11:806][318]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TanksGrounds,6402 Win64 Development -TargetType=Editor -Project="C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject" "C:/Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/TanksGrounds.uproject"  -IgnoreJunk]
+[2019.06.21-16.50.11:809][318]Warning: Starting HotReload took  0.0s.
+[2019.06.21-16.50.31:313][195]CompilerResultsLog: New page: Compilation - 21/06/2019 6:50:31 a. m.
+[2019.06.21-16.50.31:314][195]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank).
+[2019.06.21-16.50.31:315][195]CompilerResultsLog: Creating makefile for TanksGroundsEditor (ini files are newer than makefile)
+[2019.06.21-16.50.31:315][195]CompilerResultsLog: Parsing headers for TanksGroundsEditor
+[2019.06.21-16.50.31:315][195]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\TanksGrounds.uproject" "C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\TanksGroundsEditor\Development\TanksGroundsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.06.21-16.50.31:315][195]CompilerResultsLog: Reflection code generated for TanksGroundsEditor in 8,1892707 seconds
+[2019.06.21-16.50.31:315][195]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAIController.cpp(1) : error: Expected TankAIController.h to be first header included.
+[2019.06.21-16.50.31:316][195]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankAimingComponent.cpp(1) : error: Expected TankAimingComponent.h to be first header included.
+[2019.06.21-16.50.31:316][195]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankMovementComponent.cpp(1) : error: Expected TankMovementComponent.h to be first header included.
+[2019.06.21-16.50.31:318][195]CompilerResultsLog: Error: C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Source\TanksGrounds\Private\TankPlayerController.cpp(1) : error: Expected TankPlayerController.h to be first header included.
+[2019.06.21-16.50.31:318][195]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.06.21-16.50.31:322][195]CompilerResultsLog: Building 4 actions with 4 processes...
+[2019.06.21-16.50.31:322][195]CompilerResultsLog:   [1/4] TankAIController.cpp
+[2019.06.21-16.50.31:322][195]CompilerResultsLog:   [2/4] UE4Editor-TanksGrounds-6402.lib
+[2019.06.21-16.50.31:322][195]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-6402.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-6402.exp
+[2019.06.21-16.50.31:322][195]CompilerResultsLog:   [3/4] UE4Editor-TanksGrounds-6402.dll
+[2019.06.21-16.50.31:322][195]CompilerResultsLog:      Creando biblioteca C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-6402.suppressed.lib y objeto C:\Users\ELGRA\Documents\Unreal Projects\Seecion04_Battle_tank\TanksGrounds\Intermediate\Build\Win64\UE4Editor\Development\TanksGrounds\UE4Editor-TanksGrounds-6402.suppressed.exp
+[2019.06.21-16.50.31:323][195]CompilerResultsLog:   [4/4] TanksGroundsEditor.target
+[2019.06.21-16.50.31:323][195]CompilerResultsLog: Total time in Parallel executor: 7,01 seconds
+[2019.06.21-16.50.31:323][195]CompilerResultsLog: Total execution time: 19,32 seconds
+[2019.06.21-16.50.31:323][195]LogMainFrame: MainFrame: Module compiling took 19.520 seconds
+[2019.06.21-16.50.31:387][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.06.21-16.50.31:387][195]LogBlueprintActionDatabase: Requesting refresh due to module change: TanksGrounds (unloaded)
+[2019.06.21-16.50.31:437][195]LogClass: EFiringState HotReload.
+[2019.06.21-16.50.31:445][195]LogBlueprintActionDatabase: Requesting refresh due to module change: TanksGrounds (loaded)
+[2019.06.21-16.50.31:446][195]LogContentBrowser: Native class hierarchy updated for 'TanksGrounds' in 0.0004 seconds. Added 10 classes and 3 folders.
+[2019.06.21-16.50.31:451][195]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2019.06.21-16.50.31:558][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.06.21-16.50.31:558][195]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.06.21-16.50.31:568][195]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2743 classes and 664 folders.
+[2019.06.21-16.50.31:579][195]Display: HotReload took 19.8s.
+[2019.06.21-16.50.37:867][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.06.21-16.50.37:940][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.06.21-16.50.38:759][575]LogSavePackage: Moving '../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Saved/TanksGrounds4330F33842A25EE5FEFE88A54362D523.tmp' to '../../../../../../Users/ELGRA/Documents/Unreal Projects/Seecion04_Battle_tank/TanksGrounds/Content/TanksGrounds.umap'
+[2019.06.21-16.50.38:802][575]LogFileHelpers: Saving map 'TanksGrounds' took 0.921
+[2019.06.21-16.50.39:371][642]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.21-16.50.39:391][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.50.39:391][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.21-16.50.39:391][642]PIE: New page: PIE session: TanksGrounds (21/06/2019 6:50:39 a. m.)
+[2019.06.21-16.50.39:391][642]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TanksGrounds
+[2019.06.21-16.50.39:517][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125021s)
+[2019.06.21-16.50.39:517][642]LogAIModule: Creating AISystem for world TanksGrounds
+[2019.06.21-16.50.39:518][642]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.06.21-16.50.39:518][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TanksGrounds.TanksGrounds to /Game/UEDPIE_0_TanksGrounds.TanksGrounds (0.126252s)
+[2019.06.21-16.50.39:553][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.06.21-16.50.39:562][642]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.21-16.50.39:583][642]LogInit: FAudioDevice initialized.
+[2019.06.21-16.50.39:613][642]LogLoad: Game class is 'MyTanksGroundsGameModeBase_C'
+[2019.06.21-16.50.39:617][642]LogWorld: Bringing World /Game/UEDPIE_0_TanksGrounds.TanksGrounds up for play (max tick rate 0) at 2019.06.21-11.50.39
+[2019.06.21-16.50.39:617][642]LogWorld: Bringing up level for play took: 0.003533
+[2019.06.21-16.50.39:632][642]PIE: Play in editor start time for /Game/UEDPIE_0_TanksGrounds -0,312
+[2019.06.21-16.50.39:632][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.50.43:960][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.50.43:961][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.50.43:994][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.21-16.50.43:995][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TanksGrounds.TanksGrounds:PersistentLevel' has LevelScriptBlueprint '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds' with GeneratedClass '/Game/TanksGrounds.TanksGrounds_C' with ClassGeneratedBy '/Game/TanksGrounds.TanksGrounds:PersistentLevel.TanksGrounds'
+[2019.06.21-16.50.44:035][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.21-16.50.44:041][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.06.21-16.50.44:072][148]LogPlayLevel: Display: Destroying online subsystem :Context_5

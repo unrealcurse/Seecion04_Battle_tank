@@ -7,13 +7,13 @@
 #include "TankAimingComponent.generated.h"
 UENUM()
 enum class EFiringState :uint8
-{
+{	
 	Reloading,
 	Aiming,
 	Lock,
 	default
 };
-class UTankAimingComponent;
+class AProjectile;
 class UTankTurret;
 class UTankBarrel;
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
@@ -24,6 +24,8 @@ class TANKSGROUNDS_API UTankAimingComponent : public UActorComponent
 public:	
 	// Sets default values for this component's properties
 	UTankAimingComponent();
+	UFUNCTION(BlueprintCallable, Category = action)
+	void fire();
 
 protected:
 	UPROPERTY(BlueprintReadOnly, Category = "State")
@@ -44,5 +46,16 @@ private:
 	UTankBarrel* Barrel = nullptr;
 	UTankTurret* Turrent = nullptr;
 	void MoveBarrel(FVector AimDirrection);
+
+
+
+	UPROPERTY(EditDefaultsOnly, Category = Setup)
+		TSubclassOf<AProjectile> ProjectileBluePrint;
+
+	UPROPERTY(EditDefaultsOnly, Category = Firing)
+		float ReloadTimeInseconds = 3;
+
+	double LastFireTime = 0;
+
 };
 
