@@ -11,7 +11,7 @@ enum class EFiringState :uint8
 	Reloading,
 	Aiming,
 	Lock,
-	default
+	OutofAmo
 };
 class AProjectile;
 class UTankTurret;
@@ -27,9 +27,11 @@ public:
 	UFUNCTION(BlueprintCallable, Category = action)
 	void fire();
 
+	EFiringState GetFiringState() const;
+
 protected:
 	UPROPERTY(BlueprintReadOnly, Category = "State")
-		EFiringState FiringState = EFiringState::Lock;
+		EFiringState FiringState = EFiringState::Reloading;
 	UFUNCTION(BlueprintCallable, Category = Setup)
 		void Initialize(UTankBarrel * barrel, UTankTurret * turrent);
 
@@ -41,12 +43,18 @@ public:
 		float LaunchSpeed = 10000;
 
 	
+	UFUNCTION(BlueprintCallable, Category = Setup)
+		int32 GetRoundLeft() const;
+	
 
 private:
+	FVector  AimDirection;
 	UTankBarrel* Barrel = nullptr;
 	UTankTurret* Turrent = nullptr;
 	void MoveBarrel(FVector AimDirrection);
-
+	virtual void TickComponent(float DeltaTime, enum ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction) override;
+	virtual void BeginPlay() override;
+	bool IsBarrelMoving();
 
 
 	UPROPERTY(EditDefaultsOnly, Category = Setup)
@@ -56,6 +64,7 @@ private:
 		float ReloadTimeInseconds = 3;
 
 	double LastFireTime = 0;
-
+	UPROPERTY(EditDefaultsOnly, Category = Firing)
+	int32 RoundsLeft = 3;
 };
 

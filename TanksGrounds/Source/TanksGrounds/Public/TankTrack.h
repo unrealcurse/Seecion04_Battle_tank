@@ -15,10 +15,24 @@ class TANKSGROUNDS_API UTankTrack : public UStaticMeshComponent
 	GENERATED_BODY()
 	
 public:
+	UTankTrack();
 
 	UFUNCTION(BlueprintCallable, Category = Setup)
 	void SetThrottle(float Throttle);
 
+	void DriveTracks();
+
 	UPROPERTY(EditDefaultsOnly)
-		float TrackMaxDrivingForce = 40000000;
+		float TrackMaxDrivingForce = 95000000.0;
+
+	virtual void BeginPlay() override;
+
+	
+
+	UFUNCTION()
+	void OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit);
+
+	void ApplySideWayForce();
+	float CurrentThrottle = 0;
+
 };
